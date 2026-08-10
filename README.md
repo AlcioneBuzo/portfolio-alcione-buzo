@@ -19,9 +19,12 @@ Após um período afastada do mercado, inicio uma nova fase de atualização pro
 🎓 **Banco de Dados, BI, Big Data e Data Science**  
 FIAP — Conclusão em 2021
 
-## Projetos em destaque
+## Projeto extra
 
-### HUB1 Academy — Website e Diagnóstico Empresarial
+<details>
+<summary><strong>HUB1 Academy — Website e Diagnóstico Empresarial</strong></summary>
+
+<br>
 
 Projeto real desenvolvido para uma empresa de consultoria e educação empresarial.
 
@@ -43,38 +46,19 @@ O projeto inclui:
 
 > O código-fonte completo não é disponibilizado por se tratar de um projeto comercial. O projeto é apresentado neste portfólio como estudo de caso.
 
+</details>
+
 ## Jornada de atualização
 
-Esta seção será atualizada continuamente com os cursos, estudos e projetos que eu desenvolver.
+Nesta nova etapa, pretendo atualizar e aprofundar meus conhecimentos nas seguintes áreas:
 
-| Data | Curso ou projeto | Instituição | Tecnologias | Status |
-|---|---|---|---|---|
-| 2026 | Jornada de atualização em Dados | Em definição | SQL, Python, BI e Dados | Em andamento |
+- SQL e bancos de dados;
+- Python aplicado a dados;
+- Business Intelligence;
+- Data Science;
+- Engenharia de Dados.
 
-## Projetos de Dados
-
-Os novos projetos serão organizados por área:
-
-```text
-dados/
-├── sql/
-├── python/
-├── business-intelligence/
-├── data-science/
-└── engenharia-de-dados/
-```
-
-Cada projeto terá sua própria documentação, com contexto, objetivo, tecnologias, etapas, resultados e aprendizados.
-
-## Cursos e certificados
-
-Os cursos serão registrados conforme forem iniciados e concluídos:
-
-```text
-cursos-e-certificados/
-├── em-andamento/
-└── concluidos/
-```
+Conforme eu avançar nos estudos e construir novos projetos, esta seção será atualizada para registrar minha evolução.
 
 ## Competências
 
