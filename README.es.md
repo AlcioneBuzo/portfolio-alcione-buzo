@@ -46,3 +46,9 @@ Inicio una nueva etapa de actualización profesional, aprendizaje continuo y des
 ## 🛠️ Habilidades Técnicas
 - **Datos y BI:** Bases de Datos · SQL · Business Intelligence · Big Data · Data Science · Modelado de Datos · DAX · Power Query.
 - **Automatización y Tecnología:** n8n · Python · WordPress · HTML/CSS/JS · UX/UI · Gestión de Proyectos · IA.
+
+---
+
+## 📬 Contacto y Redes
+- **LinkedIn:** [linkedin.com/in/alcioneoliveira](https://www.linkedin.com/in/alcioneoliveira/)
+- **GitHub:** [github.com/AlcioneBuzo](https://github.com/AlcioneBuzo)

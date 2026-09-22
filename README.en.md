@@ -48,3 +48,9 @@ After a break from the market, I am starting a new phase of professional reactiv
 ## 🛠️ Technical Skills
 - **Data & BI:** Databases · SQL · Business Intelligence · Big Data · Data Science · Data Modeling · DAX · Power Query.
 - **Automation & Tech:** n8n · Python · WordPress · HTML/CSS/JS · UX/UI · Digital Project Management · AI.
+
+---
+
+## 📬 Contact & Socials
+- **LinkedIn:** [linkedin.com/in/alcioneoliveira](https://www.linkedin.com/in/alcioneoliveira/)
+- **GitHub:** [github.com/AlcioneBuzo](https://github.com/AlcioneBuzo)

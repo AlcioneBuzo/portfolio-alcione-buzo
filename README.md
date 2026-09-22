@@ -59,6 +59,6 @@ Após um período afastada do mercado, inicio uma nova fase de atualização pro
 
 ---
 
-## 📬 Contato
-- **LinkedIn:** [linkedin.com/in/alcione-buzo](https://linkedin.com/)
-- **GitHub:** [github.com/alcione-buzo](https://github.com/)
+## 📬 Contato & Redes
+- **LinkedIn:** [linkedin.com/in/alcioneoliveira](https://www.linkedin.com/in/alcioneoliveira/)
+- **GitHub:** [github.com/AlcioneBuzo](https://github.com/AlcioneBuzo)
