@@ -26,7 +26,7 @@ After a break from the market, I am starting a new phase of professional reactiv
 
 - **Stack:** `Excel (Power Query)` | `SQL (PostgreSQL - CTEs & Window Functions)` | `Power BI (DAX & Star Schema)` | `HTML5 Dashboard`
 - 📁 **[Access project folder](./02_projetos_de_dados/01_analise_risco_credito_bancario)**
-- 💻 **[Open Interactive Web Dashboard](./02_projetos_de_dados/01_analise_risco_credito_bancario/dashboard_interativo.html)**
+- 💻 **[🖥️ Open Live Interactive Dashboard in Browser](https://htmlpreview.github.io/?https://github.com/AlcioneBuzo/portfolio-alcione-buzo/blob/main/02_projetos_de_dados/01_analise_risco_credito_bancario/dashboard_interativo.html)**
 
 ---
 
