@@ -28,6 +28,7 @@ Inicio una nueva etapa de actualización profesional, aprendizaje continuo y des
 
 - **Stack:** `Excel (Power Query)` | `SQL (PostgreSQL - CTEs & Window Functions)` | `Power BI (DAX & Star Schema)` | `HTML5 Dashboard`
 - 📁 **[Acceder a la carpeta del proyecto](./02_projetos_de_dados/01_analise_risco_credito_bancario)**
+- 🚀 **[🌐 Ver Dashboard Interactivo en Vivo en el Navegador (GitHub Pages)](https://alcionebuzo.github.io/portfolio-alcione-buzo/02_projetos_de_dados/01_analise_risco_credito_bancario/dashboard_interativo.html)**
 
 ---
 
