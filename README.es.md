@@ -12,14 +12,14 @@ Inicio una nueva etapa de actualización profesional, aprendizaje continuo y des
 ## 🎯 Enfoque Actual
 - **Análisis e Ingeniería de Datos:** SQL, modelado relacional y dimensional (Star Schema).
 - **Business Intelligence & Analytics:** Visualización de datos, métricas financieras y dashboards ejecutivos.
-- **Python aplicado a Datos:** Manipulación y limpieza de datos.
-- **IA y Automatización:** Uso asistido de IA para agilizar el desarrollo.
+- **Python y Automatización de Datos:** Limpieza de datos y automatizaciones con **n8n**.
+- **IA y Automatización:** Uso asistido de IA para automatizar flujos de trabajo.
 
 ---
 
-## 📂 Carpetas y Proyectos
+## 📂 Proyectos del Repositorio
 
-### 📊 1. PROYECTOS DE DATOS (`/02_projetos_de_dados`)
+### 📊 1. PROYECTOS DE DATOS
 
 #### 📈 [Proyecto 01: Análisis de Riesgo de Crédito y Morosidad Bancaria](./02_projetos_de_dados/01_analise_risco_credito_bancario)
 > **Proyecto Completo de BI y Analítica** enfocado en el sector financiero. Cubre todo el pipeline de datos: limpieza en Excel, modelado y consultas avanzadas en SQL, medidas DAX en Power BI y diagnósticos ejecutivos de riesgo.
@@ -30,7 +30,7 @@ Inicio una nueva etapa de actualización profesional, aprendizaje continuo y des
 
 ---
 
-### 🌐 2. PROYECTO EXTRA (`/01_projeto_extra_hub1`)
+### 🌐 2. PROYECTO EXTRA
 
 #### 🔗 [HUB1 Academy — Plataforma Digital y Diagnóstico Empresarial](./01_projeto_extra_hub1)
 - 📁 **[Acceder al estudio de caso HUB1](./01_projeto_extra_hub1)**
@@ -40,3 +40,9 @@ Inicio una nueva etapa de actualización profesional, aprendizaje continuo y des
 
 ## 🎓 Formación Académica
 - **Bases de Datos, BI, Big Data y Data Science** — FIAP (2021).
+
+---
+
+## 🛠️ Habilidades Técnicas
+- **Datos y BI:** Bases de Datos · SQL · Business Intelligence · Big Data · Data Science · Modelado de Datos · DAX · Power Query.
+- **Automatización y Tecnología:** n8n · Python · WordPress · HTML/CSS/JS · UX/UI · Gestión de Proyectos · IA.

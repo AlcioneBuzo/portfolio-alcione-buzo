@@ -12,14 +12,14 @@ Após um período afastada do mercado, inicio uma nova fase de atualização pro
 ## 🎯 Meu Foco Atual
 - **Análise e Engenharia de Dados:** SQL, modelagem relacional e dimensional (Star Schema/Snowflake).
 - **Business Intelligence & Analytics:** Visualização de dados, métricas financeiras e dashboards executivos.
-- **Python aplicado a Dados:** Manipulação, higienização de datasets e automação.
-- **IA e Automação:** Aplicação assistida de LLMs para aceleração de desenvolvimento.
+- **Python & Automação de Dados:** Manipulação de datasets, higienização e pipelines automatizados com **n8n**.
+- **IA e Automação:** Aplicação assistida de Inteligência Artificial e automação de fluxos de trabalho.
 
 ---
 
 ## 📂 Pastas & Projetos do Repositório
 
-### 📊 1. PROJETOS DE DADOS (`/02_projetos_de_dados`)
+### 📊 1. PROJETOS DE DADOS
 
 #### 📈 [Projeto 01: Análise de Risco de Crédito & Inadimplência Bancária](./02_projetos_de_dados/01_analise_risco_credito_bancario)
 > **Projeto Completo de BI & Analytics** focado no setor bancário. Cobre o pipeline de dados end-to-end: higienização e fórmulas em Excel, modelagem e queries com Window Functions em SQL, medidas temporais em DAX no Power BI e diagnósticos executivos de risco.
@@ -30,7 +30,7 @@ Após um período afastada do mercado, inicio uma nova fase de atualização pro
 
 ---
 
-### 🌐 2. PROJETO EXTRA (`/01_projeto_extra_hub1`)
+### 🌐 2. PROJETO EXTRA
 
 #### 🔗 [HUB1 Academy — Website e Diagnóstico Empresarial](./01_projeto_extra_hub1)
 > **Estudo de Caso Comercial:** Gestão e desenvolvimento assistido por IA do ambiente digital da empresa de consultoria HUB1 Academy.
@@ -47,13 +47,13 @@ Após um período afastada do mercado, inicio uma nova fase de atualização pro
 ---
 
 ## 🛠️ Competências Técnicas
-- **Dados:** Banco de Dados · SQL · Business Intelligence · Big Data · Data Science · Modelagem de Dados · DAX · Power Query.
-- **Tecnologia e Projetos:** WordPress · HTML · CSS · JavaScript · UX/UI · Inteligência Artificial · Gestão de Projetos Digitais.
+- **Dados & BI:** Banco de Dados · SQL · Business Intelligence · Big Data · Data Science · Modelagem de Dados · DAX · Power Query.
+- **Automação & Tecnologia:** n8n · Python · WordPress · HTML/CSS/JS · UX/UI · Inteligência Artificial · Gestão de Projetos Digitais.
 
 ---
 
 ## 📌 Próximos Passos
-- Iniciar e documentar novos cursos de atualização.
+- Iniciar e documentar novos cursos de atualização (n8n, Engenharia de Dados e SQL).
 - Construir novos projetos práticos na pasta `02_projetos_de_dados`.
 - Registrar aprendizados, desafios e evoluções neste repositório.
 

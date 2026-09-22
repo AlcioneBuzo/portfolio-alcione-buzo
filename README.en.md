@@ -12,14 +12,14 @@ After a break from the market, I am starting a new phase of professional reactiv
 ## 🎯 Current Focus
 - **Data Analysis & Engineering:** SQL, relational and dimensional modeling (Star Schema / Snowflake).
 - **Business Intelligence & Analytics:** Data visualization, financial metrics, and executive dashboards.
-- **Python for Data:** Data manipulation, cleaning, and automation.
-- **AI & Automation:** LLM-assisted development workflows.
+- **Python & Data Automation:** Data manipulation, cleaning, and automated workflows with **n8n**.
+- **AI & Automation:** AI-assisted development and workflow automation.
 
 ---
 
-## 📂 Repository Folders & Projects
+## 📂 Repository Projects
 
-### 📊 1. DATA PROJECTS (`/02_projetos_de_dados`)
+### 📊 1. DATA PROJECTS
 
 #### 📈 [Project 01: Credit Risk & Banking Delinquency Analytics](./02_projetos_de_dados/01_analise_risco_credito_bancario)
 > **Comprehensive BI & Analytics Project** focused on the financial sector. Covers the full data pipeline: Excel cleaning, SQL modeling & advanced window queries, Power BI DAX measures, and executive risk diagnostics.
@@ -30,7 +30,7 @@ After a break from the market, I am starting a new phase of professional reactiv
 
 ---
 
-### 🌐 2. EXTRA PROJECT (`/01_projeto_extra_hub1`)
+### 🌐 2. EXTRA PROJECT
 
 #### 🔗 [HUB1 Academy — Digital Platform & Business Diagnostics](./01_projeto_extra_hub1)
 > **Commercial Case Study:** Product management and AI-assisted development of HUB1 Academy's digital platform.
@@ -46,5 +46,5 @@ After a break from the market, I am starting a new phase of professional reactiv
 ---
 
 ## 🛠️ Technical Skills
-- **Data:** Databases · SQL · Business Intelligence · Big Data · Data Science · Data Modeling · DAX · Power Query.
-- **Tech & Management:** Python · WordPress · HTML/CSS/JS · UX/UI · Digital Project Management · AI.
+- **Data & BI:** Databases · SQL · Business Intelligence · Big Data · Data Science · Data Modeling · DAX · Power Query.
+- **Automation & Tech:** n8n · Python · WordPress · HTML/CSS/JS · UX/UI · Digital Project Management · AI.
