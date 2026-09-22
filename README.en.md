@@ -1,10 +1,8 @@
-# Hi, I'm Alcione Buzo 👋
+<div align="right">
+  🌐 <b>Languages:</b> <a href="README.md"><b>🇧🇷 PT</b></a> | <a href="README.en.md"><b>🇺🇸 EN</b></a> | <a href="README.es.md"><b>🇪🇸 ES</b></a>
+</div>
 
-<p align="center">
-  <a href="README.md"><b>🇧🇷 Português</b></a> • 
-  <a href="README.en.md"><b>🇺🇸 English</b></a> • 
-  <a href="README.es.md"><b>🇪🇸 Español</b></a>
-</p>
+# Hi, I'm Alcione Buzo 👋
 
 Data professional graduated in **Databases, Business Intelligence, Big Data, and Data Science from FIAP** (2021).  
 After a break from the market, I am starting a new phase of professional reactivation, continuous learning, and building practical data projects. This repository documents this journey transparently.

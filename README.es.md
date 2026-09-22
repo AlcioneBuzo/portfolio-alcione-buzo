@@ -1,10 +1,8 @@
-# Hola, soy Alcione Buzo 👋
+<div align="right">
+  🌐 <b>Idiomas:</b> <a href="README.md"><b>🇧🇷 PT</b></a> | <a href="README.en.md"><b>🇺🇸 EN</b></a> | <a href="README.es.md"><b>🇪🇸 ES</b></a>
+</div>
 
-<p align="center">
-  <a href="README.md"><b>🇧🇷 Português</b></a> • 
-  <a href="README.en.md"><b>🇺🇸 English</b></a> • 
-  <a href="README.es.md"><b>🇪🇸 Español</b></a>
-</p>
+# Hola, soy Alcione Buzo 👋
 
 Profesional graduada en **Bases de Datos, Business Intelligence, Big Data y Data Science por la FIAP** (2021).  
 Inicio una nueva etapa de actualización profesional, aprendizaje continuo y desarrollo de proyectos de datos. Este repositorio registra esta trayectoria de forma transparente.
