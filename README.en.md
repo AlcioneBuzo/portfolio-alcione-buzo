@@ -24,9 +24,10 @@ After a break from the market, I am starting a new phase of professional reactiv
 #### 📈 [Project 01: Credit Risk & Banking Delinquency Analytics](./02_projetos_de_dados/01_analise_risco_credito_bancario)
 > **Comprehensive BI & Analytics Project** focused on the financial sector. Covers the full data pipeline: Excel cleaning, SQL modeling & advanced window queries, Power BI DAX measures, and executive risk diagnostics.
 
+![Executive Dashboard Preview](./02_projetos_de_dados/01_analise_risco_credito_bancario/dashboard_preview.svg)
+
 - **Stack:** `Excel (Power Query)` | `SQL (PostgreSQL - CTEs & Window Functions)` | `Power BI (DAX & Star Schema)` | `HTML5 Dashboard`
 - 📁 **[Access project folder](./02_projetos_de_dados/01_analise_risco_credito_bancario)**
-- 💻 **[🖥️ Open Live Interactive Dashboard in Browser](https://htmlpreview.github.io/?https://github.com/AlcioneBuzo/portfolio-alcione-buzo/blob/main/02_projetos_de_dados/01_analise_risco_credito_bancario/dashboard_interativo.html)**
 
 ---
 

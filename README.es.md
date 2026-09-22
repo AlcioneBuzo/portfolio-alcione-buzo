@@ -24,9 +24,10 @@ Inicio una nueva etapa de actualización profesional, aprendizaje continuo y des
 #### 📈 [Proyecto 01: Análisis de Riesgo de Crédito y Morosidad Bancaria](./02_projetos_de_dados/01_analise_risco_credito_bancario)
 > **Proyecto Completo de BI y Analítica** enfocado en el sector financiero. Cubre todo el pipeline de datos: limpieza en Excel, modelado y consultas avanzadas en SQL, medidas DAX en Power BI y diagnósticos ejecutivos de riesgo.
 
+![Executive Dashboard Preview](./02_projetos_de_dados/01_analise_risco_credito_bancario/dashboard_preview.svg)
+
 - **Stack:** `Excel (Power Query)` | `SQL (PostgreSQL - CTEs & Window Functions)` | `Power BI (DAX & Star Schema)` | `HTML5 Dashboard`
 - 📁 **[Acceder a la carpeta del proyecto](./02_projetos_de_dados/01_analise_risco_credito_bancario)**
-- 💻 **[🖥️ Ver Dashboard Interactivo en Vivo en el Navegador](https://htmlpreview.github.io/?https://github.com/AlcioneBuzo/portfolio-alcione-buzo/blob/main/02_projetos_de_dados/01_analise_risco_credito_bancario/dashboard_interativo.html)**
 
 ---
 

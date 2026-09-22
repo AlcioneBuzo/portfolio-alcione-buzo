@@ -24,9 +24,10 @@ Após um período afastada do mercado, inicio uma nova fase de atualização pro
 #### 📈 [Projeto 01: Análise de Risco de Crédito & Inadimplência Bancária](./02_projetos_de_dados/01_analise_risco_credito_bancario)
 > **Projeto Completo de BI & Analytics** focado no setor bancário. Cobre o pipeline de dados end-to-end: higienização e fórmulas em Excel, modelagem e queries com Window Functions em SQL, medidas temporais em DAX no Power BI e diagnósticos executivos de risco.
 
+![Dashboard Preview Executivo](./02_projetos_de_dados/01_analise_risco_credito_bancario/dashboard_preview.svg)
+
 - **Stack:** `Excel (Power Query)` | `SQL (PostgreSQL - CTEs & Window Functions)` | `Power BI (DAX & Star Schema)` | `Dashboard HTML5`
 - 📁 **[Acessar pasta do projeto](./02_projetos_de_dados/01_analise_risco_credito_bancario)**
-- 💻 **[🖥️ Visualizar Dashboard Interativo ao Vivo no Navegador](https://htmlpreview.github.io/?https://github.com/AlcioneBuzo/portfolio-alcione-buzo/blob/main/02_projetos_de_dados/01_analise_risco_credito_bancario/dashboard_interativo.html)**
 
 ---
 
