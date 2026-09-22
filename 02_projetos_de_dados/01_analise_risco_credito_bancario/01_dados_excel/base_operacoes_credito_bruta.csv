@@ -1,0 +1,1501 @@
+﻿ID_Contrato;Data_Concessao;Cliente_Nome;Estado;Canal_Origem;Tipo_Credito;Valor_Emprestimo_Bruto;Taxa_Juros_Anual;Prazo_Meses;Score_Credito;Renda_Mensal;Dias_Atraso;Status_Contrato
+CTR-50001;2023-05-02;Cliente_10001;SC;App Mobile;financiamento imobiliário;865845,71;0,1192;120;822;27032,83;45;Atraso Crítico (31-90d)
+CTR-50002;2024-04-05;Cliente_10002;sp;Correspondente Bancário;Financiamento Veicular;57584,82;0,1752;36;705;34989,0;0;Em Dia
+CTR-50003;2023-10-27;Cliente_10003; PR ;Correspondente Bancário;Financiamento Imobiliário;851179,85;0,1237;60;345;30129,42;15;Atraso Curto (1-30d)
+CTR-50004;2025-06-07;Cliente_10004;RJ;Correspondente Bancário;Empréstimo Empresarial PJ;411147,16;0,2327;48;727;32336,15;0;Em Dia
+CTR-50005;26/01/2023;Cliente_10005;CE;Internet Banking;Financiamento Imobiliário;804505,76;0,1379;24;759;18041,29;45;Atraso Crítico (31-90d)
+CTR-50006;25/04/2024;Cliente_10006;GO;Agência Física;Empréstimo Empresarial PJ;230936,14;0,2498;60;833;25346,35;0;Em Dia
+CTR-50007;2023-06-03;Cliente_10007;DF;Correspondente Bancário;Empréstimo Empresarial PJ;467130,97;0,1668;24;586;25164,73;45;Atraso Crítico (31-90d)
+CTR-50008;04/02/2023;Cliente_10008;PR;Agência Física;Cartão de Credito rotativo;18419,42;0,4893;60;585;17493,46;90;Atraso Crítico (31-90d)
+CTR-50009;2023-09-30;Cliente_10009;BA;Agência Física;Credito Pessoal;8421,36;0,4113;24;780;32327,38;0;Em Dia
+CTR-50010;23/07/2023;Cliente_10010;ES;App Mobile;Empréstimo Empresarial PJ;70096,58;0,191;36;685;7952,35;0;Em Dia
+CTR-50011;07/01/2025;Cliente_10011;MG;Internet Banking;Cartão de Credito rotativo;12170,76;0,8333;60;617;5701,86;10;Atraso Curto (1-30d)
+CTR-50012;26/02/2024;Cliente_10012;RS;Internet Banking;Empréstimo Empresarial PJ;413108,5;0,1689;12;718;31408,66;0;Em Dia
+CTR-50013;06/06/2024;Cliente_10013;BA;Agência Física;Financiamento Veicular;94771,76;0,268;48;797;21291,78;0;Em Dia
+CTR-50014;2024-09-04;Cliente_10014;es;App Mobile;Empréstimo Empresarial PJ;229620,68;0,1454;24;366;23743,39;120;Inadimplente / NPL (>90d)
+CTR-50015;10/05/2024;Cliente_10015;GO;App Mobile;Financiamento Imobiliário;666521,86;0,097;36;484;24159,13;0;Em Dia
+CTR-50016;2023-07-11;Cliente_10016;SC;Internet Banking;Financiamento Veicular;96906,86;0,2799;48;614;17966,41;0;Em Dia
+CTR-50017;15/04/2025;Cliente_10017;RJ;Internet Banking;Financiamento Imobiliário;153924,67;0,0901;360;658;16056,08;0;Em Dia
+CTR-50018;10/06/2023;Cliente_10018;SC;Internet Banking;Credito Pessoal;22485,89;0,2557;60;539;21234,72;10;Atraso Curto (1-30d)
+CTR-50019;22/03/2024;Cliente_10019;MG;App Mobile;Credito Pessoal;27050,72;0,375;24;428;19212,05;15;Atraso Curto (1-30d)
+CTR-50020;06/03/2023;Cliente_10020;SP;Correspondente Bancário;Financiamento Veicular;89251,88;0,1422;12;560;3735,29;0;Em Dia
+CTR-50021;2025-03-09;Cliente_10021;BA;App Mobile;Cartão de Credito rotativo;7005,21;0,5363;48;756;34331,59;5;Atraso Curto (1-30d)
+CTR-50022;2024-02-03;Cliente_10022;PR;Agência Física;crédito pessoal;26267,77;0,2979;12;608;25249,62;0;Em Dia
+CTR-50023;2023-11-23;Cliente_10023;ce;App Mobile;Empréstimo Empresarial PJ;480555,54;0,1457;12;435;8187,97;0;Em Dia
+CTR-50024;2024-11-02;Cliente_10024;PR;App Mobile;Cartão de Credito rotativo;11984,42;0,5924;48;706;10657,79;0;Em Dia
+CTR-50025;15/08/2025;Cliente_10025;PE;Correspondente Bancário;Financiamento Veicular;146923,77;0,172;12;603;20316,8;15;Atraso Curto (1-30d)
+CTR-50026;03/07/2023;Cliente_10026;PE;App Mobile;empréstimo empresarial pj;418938,5;0,1643;60;645;4800,18;95;Inadimplente / NPL (>90d)
+CTR-50027;2024-06-04;Cliente_10027;MG;Correspondente Bancário;Financiamento Veicular;172404,99;0,1726;36;671;30558,82;0;Em Dia
+CTR-50028;2024-11-20;Cliente_10028;CE;Agência Física;Financiamento Imobiliário;276635,38;0,1076;360;325;33414,16;95;Inadimplente / NPL (>90d)
+CTR-50029;28/03/2023;Cliente_10029;PR;Agência Física;empréstimo empresarial pj;378953,73;0,1379;12;338;20069,3;95;Inadimplente / NPL (>90d)
+CTR-50030;2024-07-05;Cliente_10030;PE;Internet Banking;Empréstimo Empresarial PJ;97214,66;0,1384;48;661;20519,69;0;Em Dia
+CTR-50031;2023-10-30;Cliente_10031;PE;Agência Física;Financiamento Veicular;45770,74;0,1944;12;811;33054,95;0;Em Dia
+CTR-50032;09/01/2025;Cliente_10032; PE ;App Mobile;Financiamento Imobiliário;401737,75;0,093;12;439;19479,75;120;Inadimplente / NPL (>90d)
+CTR-50033;10/08/2023;Cliente_10033;pe;Internet Banking;Empréstimo Empresarial PJ;324508,37;0,1364;36;816;6436,59;95;Inadimplente / NPL (>90d)
+CTR-50034;2023-05-01;Cliente_10034;sc;Correspondente Bancário;Cartão de Credito rotativo;3297,83;0,6576;36;786;32366,02;0;Em Dia
+CTR-50035;2025-03-07;Cliente_10035;PR;Agência Física;Financiamento Imobiliário;284673,22;0,1088;72;650;32027,38;0;Em Dia
+CTR-50036;2023-08-14;Cliente_10036;GO;Agência Física;Financiamento Veicular;88503,49;0,2525;48;537;7940,11;10;Atraso Curto (1-30d)
+CTR-50037;24/11/2023;Cliente_10037;pr;Correspondente Bancário;Financiamento Veicular;47531,16;0,2278;24;659;34111,99;0;Em Dia
+CTR-50038;2024-02-15;Cliente_10038;RS;App Mobile;Empréstimo Empresarial PJ;372408,03;0,2076;36;417;24733,6;120;Inadimplente / NPL (>90d)
+CTR-50039;13/07/2024;Cliente_10039;PE;Internet Banking;Cartão de Credito rotativo;7691,05;0,5822;48;497;3336,49;45;Atraso Crítico (31-90d)
+CTR-50040;07/03/2025;Cliente_10040;BA;Correspondente Bancário;Financiamento Veicular;26821,87;0,246;12;595;13451,64;10;Atraso Curto (1-30d)
+CTR-50041;23/07/2024;Cliente_10041;GO;Internet Banking;Empréstimo Empresarial PJ;396022,47;0,2477;24;657;34114,02;120;Inadimplente / NPL (>90d)
+CTR-50042;2024-03-03;Cliente_10042;GO;Internet Banking;Credito Pessoal;2934,04;0,4335;12;509;20607,44;10;Atraso Curto (1-30d)
+CTR-50043;18/12/2023;Cliente_10043;sc;Agência Física;Empréstimo Empresarial PJ;265861,59;0,1835;36;576;4174,89;45;Atraso Crítico (31-90d)
+CTR-50044;2025-02-12;Cliente_10044; BA ;Internet Banking;Financiamento Veicular;67413,39;0,2579;48;631;9985,42;0;Em Dia
+CTR-50045;2024-11-29;Cliente_10045; PE ;Agência Física;Cartão de Credito rotativo;12711,79;0,7912;60;652;18655,51;0;Em Dia
+CTR-50046;2025-02-16;Cliente_10046;PR;Correspondente Bancário;Credito Pessoal;32541,65;0,4445;12;794;10708,65;0;Em Dia
+CTR-50047;2025-03-05;Cliente_10047;GO;Correspondente Bancário;Financiamento Imobiliário;597109,94;0,1312;72;692;34910,13;0;Em Dia
+CTR-50048;2023-06-06;Cliente_10048;GO;Internet Banking;Financiamento Imobiliário;787852,31;0,129;12;355;11971,75;15;Atraso Curto (1-30d)
+CTR-50049;12/05/2023;Cliente_10049; BA ;Internet Banking;Financiamento Imobiliário;704384,82;0,1263;36;743;23519,2;45;Atraso Crítico (31-90d)
+CTR-50050;2024-07-09;Cliente_10050;RJ;Correspondente Bancário;Cartão de Credito rotativo;3945,34;0,5798;60;361;18066,79;0;Em Dia
+CTR-50051;03/12/2023;Cliente_10051;SP;Internet Banking;Empréstimo Empresarial PJ;136097,12;0,2261;48;763;9381,94;95;Inadimplente / NPL (>90d)
+CTR-50052;02/07/2024;Cliente_10052;RS;Correspondente Bancário;Cartão de Credito rotativo;17267,19;0,732;36;771;32923,91;0;Em Dia
+CTR-50053;2025-02-13;Cliente_10053; RJ ;Agência Física;Empréstimo Empresarial PJ;359559,91;0,135;24;763;9057,58;120;Inadimplente / NPL (>90d)
+CTR-50054;2025-07-24;Cliente_10054;DF;Agência Física;Financiamento Veicular;139565,57;0,1958;48;791;31375,58;0;Em Dia
+CTR-50055;2024-01-03;Cliente_10055;ba;Correspondente Bancário;Empréstimo Empresarial PJ;334869,16;0,1263;60;654;27156,99;5;Atraso Curto (1-30d)
+CTR-50056;2025-03-26;Cliente_10056;pe;App Mobile;Financiamento Veicular;70997,49;0,1513;12;391;19884,4;45;Atraso Crítico (31-90d)
+CTR-50057;2024-04-12;Cliente_10057;CE;Correspondente Bancário;Empréstimo Empresarial PJ;59884,86;0,2368;24;347;6364,9;0;Em Dia
+CTR-50058;2023-03-14;Cliente_10058;CE;App Mobile;Financiamento Veicular;136171,69;0,183;48;567;13312,13;35;Atraso Crítico (31-90d)
+CTR-50059;04/03/2024;Cliente_10059;sp;Correspondente Bancário;Financiamento Imobiliário;626550,85;0,1091;24;807;21897,66;45;Atraso Crítico (31-90d)
+CTR-50060;04/02/2023;Cliente_10060;PE;Correspondente Bancário;Financiamento Imobiliário;385737,87;0,1323;72;593;27543,55;35;Atraso Crítico (31-90d)
+CTR-50061;27/06/2024;Cliente_10061;RJ;Agência Física;Financiamento Imobiliário;619250,85;0,1155;360;735;28848,03;0;Em Dia
+CTR-50062;22/02/2023;Cliente_10062;PR;Internet Banking;Empréstimo Empresarial PJ;169875,13;0,1687;36;491;32975,41;0;Em Dia
+CTR-50063;2024-04-03;Cliente_10063;PE;App Mobile;Financiamento Veicular;173787,33;0,277;48;847;23175,36;0;Em Dia
+CTR-50064;2024-05-08;Cliente_10064;SP;Agência Física;Credito Pessoal;7555,28;0,1977;24;327;12180,83;45;Atraso Crítico (31-90d)
+CTR-50065;21/06/2023;Cliente_10065;pe;Internet Banking;Cartão de Credito rotativo;16584,05;0,6667;24;722;17848,74;0;Em Dia
+CTR-50066;2024-11-22;Cliente_10066; CE ;Internet Banking;Financiamento Imobiliário;339508,64;0,1158;72;729;11925,7;45;Atraso Crítico (31-90d)
+CTR-50067;2023-05-14;Cliente_10067;ce;Internet Banking;Cartão de Credito rotativo;17540,86;0,5096;36;499;18839,29;0;Em Dia
+CTR-50068;2024-05-24;Cliente_10068;DF;Correspondente Bancário;Empréstimo Empresarial PJ;202374,57;0,2425;12;341;23809,15;15;Atraso Curto (1-30d)
+CTR-50069;2024-11-27;Cliente_10069; CE ;Internet Banking;Financiamento Veicular;140710,78;0,1415;12;670;32447,81;0;Em Dia
+CTR-50070;2023-06-12;Cliente_10070;ce;Correspondente Bancário;Credito Pessoal;4228,09;0,1811;60;638;7724,27;90;Atraso Crítico (31-90d)
+CTR-50071;2024-01-26;Cliente_10071;DF;App Mobile;Cartão de Credito rotativo;12157,97;0,4885;36;774;28910,69;0;Em Dia
+CTR-50072;2023-11-01;Cliente_10072;PR;Correspondente Bancário;Empréstimo Empresarial PJ;234698,72;0,1585;36;492;6253,14;45;Atraso Crítico (31-90d)
+CTR-50073;2024-02-18;Cliente_10073;ES;Agência Física;Financiamento Imobiliário;790075,4;0,0976;36;663;23625,27;15;Atraso Curto (1-30d)
+CTR-50074;2024-12-11;Cliente_10074;PR;Agência Física;Cartão de Credito rotativo;5608,74;0,6535;12;520;12609,58;35;Atraso Crítico (31-90d)
+CTR-50075;2024-11-28;Cliente_10075;SP;Agência Física;Credito Pessoal;28387,63;0,3187;60;625;29765,38;0;Em Dia
+CTR-50076;07/06/2024;Cliente_10076;PR;Agência Física;Financiamento Veicular;141441,93;0,2136;12;751;19821,82;15;Atraso Curto (1-30d)
+CTR-50077;21/08/2024;Cliente_10077;RS;Agência Física;crédito pessoal;5530,69;0,2381;48;723;18132,26;0;Em Dia
+CTR-50078;14/04/2023;Cliente_10078; RJ ;Internet Banking;cartão de crédito rotativo;3339,36;0,6906;60;420;16323,64;15;Atraso Curto (1-30d)
+CTR-50079;04/06/2023;Cliente_10079;ba;Correspondente Bancário;Credito Pessoal;23240,32;0,4032;24;817;13908,26;0;Em Dia
+CTR-50080;31/08/2025;Cliente_10080;RJ;Correspondente Bancário;Financiamento Imobiliário;222931,81;0,1227;120;384;17137,36;0;Em Dia
+CTR-50081;14/03/2024;Cliente_10081;DF;App Mobile;Financiamento Veicular;135495,51;0,2134;48;431;14202,44;0;Em Dia
+CTR-50082;31/03/2025;Cliente_10082;RS;App Mobile;Financiamento Imobiliário;441915,88;0,1264;120;404;21491,74;45;Atraso Crítico (31-90d)
+CTR-50083;2025-01-29;Cliente_10083;CE;Internet Banking;Empréstimo Empresarial PJ;238577,2;0,1244;60;577;19874,89;0;Em Dia
+CTR-50084;2025-01-15;Cliente_10084;ce;Correspondente Bancário;Financiamento Imobiliário;436257,58;0,1134;60;638;6530,32;45;Atraso Crítico (31-90d)
+CTR-50085;14/12/2024;Cliente_10085;SC;App Mobile;Financiamento Veicular;87930,82;0,1994;48;705;24620,13;20;Atraso Curto (1-30d)
+CTR-50086;2023-11-29;Cliente_10086; CE ;Correspondente Bancário;financiamento veicular;27239,57;0,1899;36;577;28034,65;0;Em Dia
+CTR-50087;07/07/2024;Cliente_10087;PE;App Mobile;crédito pessoal;27398,38;0,2966;48;627;32263,57;90;Atraso Crítico (31-90d)
+CTR-50088;20/02/2023;Cliente_10088;go;Agência Física;Empréstimo Empresarial PJ;292866,37;0,1334;60;848;23250,36;0;Em Dia
+CTR-50089;12/12/2024;Cliente_10089; RJ ;App Mobile;Credito Pessoal;34962,57;0,4161;48;357;7381,68;120;Inadimplente / NPL (>90d)
+CTR-50090;02/08/2025;Cliente_10090;SC;Correspondente Bancário;financiamento imobiliário;894633,03;0,1078;36;593;23466,39;120;Inadimplente / NPL (>90d)
+CTR-50091;2024-08-10;Cliente_10091;rs;Correspondente Bancário;Cartão de Credito rotativo;13076,05;0,5088;12;614;27904,57;0;Em Dia
+CTR-50092;2024-04-18;Cliente_10092;PE;Internet Banking;Financiamento Imobiliário;407096,83;0,127;60;351;31369,52;0;Em Dia
+CTR-50093;2023-01-11;Cliente_10093; SC ;App Mobile;Financiamento Veicular;110631,18;0,1672;36;415;12716,32;45;Atraso Crítico (31-90d)
+CTR-50094;16/03/2025;Cliente_10094;MG;Internet Banking;Financiamento Imobiliário;305347,59;0,0989;24;719;11044,1;45;Atraso Crítico (31-90d)
+CTR-50095;2023-03-08;Cliente_10095;DF;Internet Banking;Empréstimo Empresarial PJ;496719,9;0,2238;60;370;34650,39;15;Atraso Curto (1-30d)
+CTR-50096;28/07/2025;Cliente_10096;PR;Internet Banking;Financiamento Veicular;95413,88;0,2645;12;532;12821,86;15;Atraso Curto (1-30d)
+CTR-50097;15/05/2023;Cliente_10097;GO;App Mobile;Credito Pessoal;11605,91;0,2975;24;527;32988,48;0;Em Dia
+CTR-50098;17/09/2023;Cliente_10098;BA;Correspondente Bancário;Financiamento Veicular;108794,84;0,2262;12;686;29942,75;0;Em Dia
+CTR-50099;28/10/2024;Cliente_10099;SC;Agência Física;Financiamento Imobiliário;583303,98;0,099;72;732;20193,6;95;Inadimplente / NPL (>90d)
+CTR-50100;13/08/2025;Cliente_10100;DF;App Mobile;Empréstimo Empresarial PJ;67782,62;0,1389;48;733;6849,25;5;Atraso Curto (1-30d)
+CTR-50101;2023-08-19;Cliente_10101;DF;Internet Banking;Financiamento Veicular;177862,15;0,2044;12;444;4228,73;120;Inadimplente / NPL (>90d)
+CTR-50102;2023-05-16;Cliente_10102;ES;Agência Física;Financiamento Imobiliário;396199,82;0,1087;120;766;20798,36;0;Em Dia
+CTR-50103;26/01/2025;Cliente_10103;CE;Correspondente Bancário;Financiamento Veicular;144700,47;0,277;24;658;20597,28;5;Atraso Curto (1-30d)
+CTR-50104;03/03/2025;Cliente_10104;ES;Agência Física;Empréstimo Empresarial PJ;232813,93;0,2294;12;600;30342,9;95;Inadimplente / NPL (>90d)
+CTR-50105;29/06/2025;Cliente_10105;ba;Agência Física;Credito Pessoal;27107,15;0,42;60;761;26831,71;0;Em Dia
+CTR-50106;26/02/2023;Cliente_10106;pe;Internet Banking;Financiamento Imobiliário;908722,22;0,1295;72;551;11488,3;45;Atraso Crítico (31-90d)
+CTR-50107;10/08/2025;Cliente_10107;pr;Correspondente Bancário;Financiamento Veicular;96269,71;0,2125;12;451;11508,57;15;Atraso Curto (1-30d)
+CTR-50108;2024-01-15;Cliente_10108;rs;App Mobile;Empréstimo Empresarial PJ;50202,91;0,1271;12;363;23041,44;45;Atraso Crítico (31-90d)
+CTR-50109;2024-08-30;Cliente_10109; RJ ;Correspondente Bancário;crédito pessoal;8558,79;0,397;24;824;9426,21;0;Em Dia
+CTR-50110;30/05/2024;Cliente_10110;BA;Correspondente Bancário;empréstimo empresarial pj;362488,15;0,1325;48;729;30313,64;5;Atraso Curto (1-30d)
+CTR-50111;2023-01-30;Cliente_10111;ES;Internet Banking;Credito Pessoal;3642,88;0,2625;24;323;33393,24;15;Atraso Curto (1-30d)
+CTR-50112;19/05/2024;Cliente_10112;RJ;Agência Física;financiamento veicular;52634,27;0,2228;12;403;31461,17;0;Em Dia
+CTR-50113;2024-09-08;Cliente_10113;BA;Correspondente Bancário;crédito pessoal;30561,74;0,3924;60;497;21706,33;45;Atraso Crítico (31-90d)
+CTR-50114;2023-07-14;Cliente_10114;ES;Correspondente Bancário;Credito Pessoal;29711,42;0,4473;12;844;16424,06;0;Em Dia
+CTR-50115;05/09/2024;Cliente_10115;RJ;Agência Física;Cartão de Credito rotativo;18576,42;0,7161;48;668;13048,9;0;Em Dia
+CTR-50116;04/12/2023;Cliente_10116; RJ ;Correspondente Bancário;Cartão de Credito rotativo;8883,18;0,7855;24;644;21616,75;0;Em Dia
+CTR-50117;2025-07-04;Cliente_10117; DF ;Internet Banking;Cartão de Credito rotativo;6045,98;0,7757;48;725;28850,84;0;Em Dia
+CTR-50118;2023-06-28;Cliente_10118;SP;Internet Banking;financiamento veicular;48922,98;0,1617;36;459;15911,32;45;Atraso Crítico (31-90d)
+CTR-50119;27/03/2025;Cliente_10119;ce;Agência Física;Credito Pessoal;14609,42;0,4168;12;780;3351,47;0;Em Dia
+CTR-50120;18/04/2023;Cliente_10120;ES;Internet Banking;Financiamento Imobiliário;424335,5;0,0948;72;767;26340,87;0;Em Dia
+CTR-50121;24/04/2024;Cliente_10121;RS;App Mobile;Empréstimo Empresarial PJ;110090,69;0,2095;60;732;23118,16;0;Em Dia
+CTR-50122;2023-01-21;Cliente_10122;MG;Internet Banking;Financiamento Imobiliário;584956,21;0,1398;120;662;9547,18;15;Atraso Curto (1-30d)
+CTR-50123;2023-02-04;Cliente_10123; RJ ;Internet Banking;Financiamento Veicular;43472,69;0,2423;12;766;9197,78;5;Atraso Curto (1-30d)
+CTR-50124;2024-04-30;Cliente_10124;RJ;App Mobile;Financiamento Imobiliário;759957,22;0,1323;48;561;23156,29;0;Em Dia
+CTR-50125;21/02/2024;Cliente_10125;PE;App Mobile;Credito Pessoal;12717,74;0,2388;48;398;4337,26;120;Inadimplente / NPL (>90d)
+CTR-50126;29/12/2023;Cliente_10126;mg;App Mobile;Financiamento Veicular;176559,05;0,1565;36;460;22237,35;15;Atraso Curto (1-30d)
+CTR-50127;2023-04-29;Cliente_10127;CE;App Mobile;Empréstimo Empresarial PJ;109965,0;0,1478;60;732;26596,41;0;Em Dia
+CTR-50128;14/05/2023;Cliente_10128;MG;Internet Banking;Financiamento Imobiliário;711485,41;0,1291;120;529;18645,42;120;Inadimplente / NPL (>90d)
+CTR-50129;13/01/2023;Cliente_10129;SC;Agência Física;Financiamento Imobiliário;378953,91;0,1063;72;613;24738,89;0;Em Dia
+CTR-50130;23/12/2024;Cliente_10130;MG;Correspondente Bancário;Financiamento Veicular;64542,32;0,2286;48;730;4264,11;95;Inadimplente / NPL (>90d)
+CTR-50131;11/01/2025;Cliente_10131;SP;Agência Física;Financiamento Veicular;28280,69;0,2204;36;784;3343,86;0;Em Dia
+CTR-50132;2024-04-21;Cliente_10132;DF;Internet Banking;Cartão de Credito rotativo;11331,94;0,6437;12;330;22963,29;120;Inadimplente / NPL (>90d)
+CTR-50133;06/04/2025;Cliente_10133;SP;Internet Banking;Cartão de Credito rotativo;4392,33;0,5754;60;570;29221,99;35;Atraso Crítico (31-90d)
+CTR-50134;14/12/2023;Cliente_10134;rs;Correspondente Bancário;Financiamento Veicular;37366,75;0,2417;60;379;18986,02;45;Atraso Crítico (31-90d)
+CTR-50135;17/03/2024;Cliente_10135;MG;Internet Banking;Credito Pessoal;21163,8;0,3238;48;739;21356,84;0;Em Dia
+CTR-50136;2023-01-27;Cliente_10136;CE;Correspondente Bancário;Cartão de Credito rotativo;13712,6;0,4618;60;450;8348,03;0;Em Dia
+CTR-50137;23/09/2024;Cliente_10137;MG;Agência Física;Financiamento Veicular;53876,22;0,2098;24;372;25462,65;95;Inadimplente / NPL (>90d)
+CTR-50138;23/04/2024;Cliente_10138;BA;Agência Física;Cartão de Credito rotativo;18758,16;0,604;24;489;23097,55;0;Em Dia
+CTR-50139;21/10/2023;Cliente_10139;RJ;Agência Física;financiamento imobiliário;837080,01;0,1268;60;626;17146,32;95;Inadimplente / NPL (>90d)
+CTR-50140;26/06/2023;Cliente_10140;RJ;App Mobile;Financiamento Imobiliário;323165,42;0,089;120;725;19323,65;5;Atraso Curto (1-30d)
+CTR-50141;2024-06-22;Cliente_10141;ES;App Mobile;Financiamento Imobiliário;852520,21;0,1;360;412;14885,34;0;Em Dia
+CTR-50142;03/06/2023;Cliente_10142;CE;Internet Banking;Credito Pessoal;18200,53;0,2262;48;648;18867,77;10;Atraso Curto (1-30d)
+CTR-50143;2023-06-04;Cliente_10143;RS;App Mobile;cartão de crédito rotativo;17990,7;0,5535;12;392;5484,67;15;Atraso Curto (1-30d)
+CTR-50144;2024-03-16;Cliente_10144;SC;Agência Física;Financiamento Veicular;139598,49;0,2685;12;789;23206,68;95;Inadimplente / NPL (>90d)
+CTR-50145;2023-04-25;Cliente_10145;ES;Internet Banking;Credito Pessoal;28387,43;0,2807;12;584;27495,4;0;Em Dia
+CTR-50146;2023-03-15;Cliente_10146;CE;Agência Física;Empréstimo Empresarial PJ;239420,82;0,2395;12;392;4992,62;45;Atraso Crítico (31-90d)
+CTR-50147;19/08/2025;Cliente_10147;PR;Agência Física;Cartão de Credito rotativo;2227,14;0,4908;36;819;14152,47;0;Em Dia
+CTR-50148;2023-06-25;Cliente_10148;SC;Agência Física;Empréstimo Empresarial PJ;435603,76;0,1251;60;488;33318,92;95;Inadimplente / NPL (>90d)
+CTR-50149;2023-10-18;Cliente_10149;CE;Agência Física;Financiamento Imobiliário;854902,24;0,1284;36;546;18541,44;15;Atraso Curto (1-30d)
+CTR-50150;2025-05-24;Cliente_10150; RJ ;Correspondente Bancário;Empréstimo Empresarial PJ;196911,37;0,243;24;595;17767,97;15;Atraso Curto (1-30d)
+CTR-50151;2024-05-28;Cliente_10151;SP;Correspondente Bancário;Financiamento Veicular;81634,92;0,259;48;461;27164,01;0;Em Dia
+CTR-50152;03/04/2025;Cliente_10152;rs;Internet Banking;Financiamento Veicular;29490,11;0,1882;12;541;14879,23;10;Atraso Curto (1-30d)
+CTR-50153;2024-02-29;Cliente_10153; DF ;Correspondente Bancário;Empréstimo Empresarial PJ;293341,22;0,1357;36;534;10876,78;45;Atraso Crítico (31-90d)
+CTR-50154;2024-05-18;Cliente_10154;pr;Correspondente Bancário;Cartão de Credito rotativo;9426,8;0,5278;60;733;23896,69;0;Em Dia
+CTR-50155;06/10/2023;Cliente_10155;RJ;Correspondente Bancário;Credito Pessoal;31945,35;0,2422;36;366;34349,09;95;Inadimplente / NPL (>90d)
+CTR-50156;2023-10-04;Cliente_10156;ES;Agência Física;Financiamento Veicular;138171,24;0,2783;12;843;4936,06;15;Atraso Curto (1-30d)
+CTR-50157;2023-05-29;Cliente_10157;GO;Agência Física;Cartão de Credito rotativo;8591,97;0,4811;24;333;8935,53;95;Inadimplente / NPL (>90d)
+CTR-50158;2023-01-23;Cliente_10158;MG;Agência Física;Cartão de Credito rotativo;15501,44;0,7715;48;385;29584,42;15;Atraso Curto (1-30d)
+CTR-50159;2024-02-17;Cliente_10159;df;App Mobile;Cartão de Credito rotativo;12284,15;0,6664;36;644;18688,53;0;Em Dia
+CTR-50160;2023-10-26;Cliente_10160;DF;Internet Banking;Cartão de Credito rotativo;10277,92;0,6663;48;834;13844,54;0;Em Dia
+CTR-50161;11/03/2023;Cliente_10161;ba;Correspondente Bancário;Financiamento Veicular;105717,19;0,2704;48;605;4346,37;0;Em Dia
+CTR-50162;03/05/2025;Cliente_10162;MG;App Mobile;Financiamento Imobiliário;763556,39;0,1101;12;640;19992,6;45;Atraso Crítico (31-90d)
+CTR-50163;06/11/2023;Cliente_10163;SC;Correspondente Bancário;empréstimo empresarial pj;89330,85;0,1344;48;503;32424,86;0;Em Dia
+CTR-50164;08/05/2024;Cliente_10164;PR;Agência Física;Credito Pessoal;34516,4;0,2542;36;442;6795,14;45;Atraso Crítico (31-90d)
+CTR-50165;2025-03-01;Cliente_10165;GO;Agência Física;Cartão de Credito rotativo;2437,31;0,8389;24;461;10168,17;0;Em Dia
+CTR-50166;07/07/2025;Cliente_10166;pe;Correspondente Bancário;Cartão de Credito rotativo;3183,9;0,5194;48;597;11058,71;35;Atraso Crítico (31-90d)
+CTR-50167;2025-03-08;Cliente_10167;RS;Agência Física;Financiamento Imobiliário;565939,91;0,102;48;445;33609,09;95;Inadimplente / NPL (>90d)
+CTR-50168;2025-02-20;Cliente_10168;es;App Mobile;Financiamento Veicular;132845,04;0,2751;48;609;30902,78;35;Atraso Crítico (31-90d)
+CTR-50169;27/01/2024;Cliente_10169;RS;Internet Banking;Cartão de Credito rotativo;2417,64;0,5045;24;344;28801,77;95;Inadimplente / NPL (>90d)
+CTR-50170;25/11/2024;Cliente_10170; DF ;Correspondente Bancário;Financiamento Imobiliário;464862,44;0,1301;72;560;14472,98;120;Inadimplente / NPL (>90d)
+CTR-50171;2024-12-30;Cliente_10171;sc;Internet Banking;Empréstimo Empresarial PJ;428723,62;0,1717;60;632;16744,28;15;Atraso Curto (1-30d)
+CTR-50172;2023-02-22;Cliente_10172;SP;App Mobile;Cartão de Credito rotativo;2297,24;0,7795;36;693;33821,58;0;Em Dia
+CTR-50173;19/06/2024;Cliente_10173;ES;App Mobile;Financiamento Imobiliário;269374,48;0,1245;60;354;19621,97;45;Atraso Crítico (31-90d)
+CTR-50174;15/12/2023;Cliente_10174;CE;App Mobile;Cartão de Credito rotativo;3172,67;0,6968;24;771;14829,28;0;Em Dia
+CTR-50175;2024-05-25;Cliente_10175;PR;Agência Física;Financiamento Veicular;37362,59;0,2744;60;647;31805,11;35;Atraso Crítico (31-90d)
+CTR-50176;19/06/2023;Cliente_10176; CE ;App Mobile;Cartão de Credito rotativo;1862,4;0,7465;48;413;23232,13;45;Atraso Crítico (31-90d)
+CTR-50177;2025-05-31;Cliente_10177;RS;App Mobile;Financiamento Veicular;101581,94;0,2467;12;655;26489,1;0;Em Dia
+CTR-50178;08/11/2024;Cliente_10178;BA;Correspondente Bancário;Credito Pessoal;6797,35;0,2444;60;509;28514,6;0;Em Dia
+CTR-50179;28/01/2023;Cliente_10179;PE;App Mobile;Empréstimo Empresarial PJ;71578,54;0,1699;24;777;17947,14;0;Em Dia
+CTR-50180;2023-08-20;Cliente_10180;RS;App Mobile;Financiamento Veicular;56892,92;0,1464;12;821;8010,61;0;Em Dia
+CTR-50181;25/11/2023;Cliente_10181;MG;App Mobile;Cartão de Credito rotativo;19838,24;0,5854;48;777;26705,05;0;Em Dia
+CTR-50182;24/11/2024;Cliente_10182;GO;App Mobile;Empréstimo Empresarial PJ;470826,89;0,2163;60;519;19617,79;95;Inadimplente / NPL (>90d)
+CTR-50183;08/02/2023;Cliente_10183;ce;App Mobile;Financiamento Imobiliário;910280,49;0,1097;360;349;33094,68;120;Inadimplente / NPL (>90d)
+CTR-50184;09/05/2024;Cliente_10184;RS;Agência Física;Financiamento Veicular;168693,79;0,2233;60;566;18975,9;10;Atraso Curto (1-30d)
+CTR-50185;18/03/2024;Cliente_10185;GO;App Mobile;financiamento imobiliário;876519,12;0,1335;48;718;13045,62;95;Inadimplente / NPL (>90d)
+CTR-50186;15/07/2024;Cliente_10186;ES;Correspondente Bancário;Financiamento Veicular;66336,97;0,2043;12;657;34722,46;0;Em Dia
+CTR-50187;2024-11-14;Cliente_10187;es;Correspondente Bancário;Cartão de Credito rotativo;14031,27;0,5256;36;583;15622,4;10;Atraso Curto (1-30d)
+CTR-50188;29/08/2023;Cliente_10188;ES;App Mobile;Cartão de Credito rotativo;11176,37;0,8113;36;638;3241,63;10;Atraso Curto (1-30d)
+CTR-50189;01/03/2024;Cliente_10189;DF;Correspondente Bancário;crédito pessoal;17412,63;0,371;36;588;25224,44;10;Atraso Curto (1-30d)
+CTR-50190;13/02/2025;Cliente_10190;BA;Agência Física;Credito Pessoal;28380,5;0,4192;48;482;14965,62;45;Atraso Crítico (31-90d)
+CTR-50191;09/02/2025;Cliente_10191;BA;Internet Banking;Cartão de Credito rotativo;16886,43;0,4707;12;462;4892,46;95;Inadimplente / NPL (>90d)
+CTR-50192;2024-03-04;Cliente_10192;BA;Correspondente Bancário;Cartão de Credito rotativo;18120,02;0,6944;12;706;21992,56;0;Em Dia
+CTR-50193;2024-08-03;Cliente_10193;PE;Agência Física;Credito Pessoal;22403,13;0,3412;48;799;12262,29;0;Em Dia
+CTR-50194;16/02/2023;Cliente_10194;PR;Correspondente Bancário;Credito Pessoal;33767,23;0,3288;60;350;18904,86;45;Atraso Crítico (31-90d)
+CTR-50195;06/02/2023;Cliente_10195;PR;Internet Banking;empréstimo empresarial pj;399974,87;0,1844;36;624;3464,05;0;Em Dia
+CTR-50196;08/09/2023;Cliente_10196;PE;Correspondente Bancário;Financiamento Veicular;58400,7;0,1555;60;367;12258,45;0;Em Dia
+CTR-50197;29/08/2023;Cliente_10197;BA;Agência Física;crédito pessoal;10339,68;0,3861;60;819;25182,56;0;Em Dia
+CTR-50198;2023-07-04;Cliente_10198;PR;Internet Banking;Credito Pessoal;23838,57;0,3914;12;782;20670,16;0;Em Dia
+CTR-50199;15/05/2023;Cliente_10199; PE ;Agência Física;Financiamento Veicular;44783,89;0,163;36;345;23124,74;120;Inadimplente / NPL (>90d)
+CTR-50200;14/04/2025;Cliente_10200;SP;Agência Física;Financiamento Imobiliário;379412,33;0,1155;360;479;28414,1;15;Atraso Curto (1-30d)
+CTR-50201;08/08/2025;Cliente_10201;RJ;Correspondente Bancário;Financiamento Imobiliário;212070,62;0,0859;24;377;10546,71;15;Atraso Curto (1-30d)
+CTR-50202;03/02/2023;Cliente_10202; SC ;App Mobile;Financiamento Imobiliário;843962,31;0,1186;360;700;17447,74;45;Atraso Crítico (31-90d)
+CTR-50203;13/04/2023;Cliente_10203;SP;Internet Banking;Financiamento Imobiliário;256808,03;0,1186;48;381;16774,27;95;Inadimplente / NPL (>90d)
+CTR-50204;2025-07-01;Cliente_10204;ES;Correspondente Bancário;Cartão de Credito rotativo;4036,38;0,784;60;820;29654,82;5;Atraso Curto (1-30d)
+CTR-50205;26/07/2023;Cliente_10205; RJ ;Correspondente Bancário;crédito pessoal;19463,65;0,2058;36;523;9043,71;0;Em Dia
+CTR-50206;2023-07-07;Cliente_10206;DF;App Mobile;Cartão de Credito rotativo;8286,81;0,6213;24;330;23720,14;120;Inadimplente / NPL (>90d)
+CTR-50207;14/07/2024;Cliente_10207;MG;Agência Física;Credito Pessoal;18278,88;0,3818;12;411;11042,08;15;Atraso Curto (1-30d)
+CTR-50208;18/05/2023;Cliente_10208;PR;App Mobile;Financiamento Imobiliário;682294,43;0,1154;24;597;25987,18;95;Inadimplente / NPL (>90d)
+CTR-50209;2025-03-19;Cliente_10209; SC ;Internet Banking;financiamento imobiliário;529969,19;0,1056;48;528;30363,74;0;Em Dia
+CTR-50210;03/02/2025;Cliente_10210;CE;Internet Banking;Financiamento Veicular;71681,92;0,2788;36;572;6863,77;0;Em Dia
+CTR-50211;19/03/2025;Cliente_10211;PE;Internet Banking;Financiamento Veicular;94817,99;0,2455;60;727;6892,06;0;Em Dia
+CTR-50212;2023-05-27;Cliente_10212;rj;App Mobile;Credito Pessoal;27700,49;0,2909;48;463;20653,22;15;Atraso Curto (1-30d)
+CTR-50213;17/04/2024;Cliente_10213;MG;App Mobile;Cartão de Credito rotativo;17316,22;0,4942;24;423;33599,22;95;Inadimplente / NPL (>90d)
+CTR-50214;2023-12-23;Cliente_10214;PE;Agência Física;Credito Pessoal;22583,72;0,3119;60;513;11780,5;0;Em Dia
+CTR-50215;2023-11-06;Cliente_10215;ES;Agência Física;Empréstimo Empresarial PJ;78878,07;0,2022;12;323;18651,0;0;Em Dia
+CTR-50216;11/05/2023;Cliente_10216;SP;Agência Física;Credito Pessoal;27294,46;0,2567;60;384;34246,18;0;Em Dia
+CTR-50217;02/08/2024;Cliente_10217;RJ;Correspondente Bancário;Financiamento Veicular;47270,91;0,1459;36;729;19873,12;0;Em Dia
+CTR-50218;12/04/2023;Cliente_10218;SC;Internet Banking;Financiamento Veicular;114910,08;0,257;12;663;10380,25;15;Atraso Curto (1-30d)
+CTR-50219;25/04/2023;Cliente_10219; RJ ;App Mobile;Empréstimo Empresarial PJ;435173,15;0,1621;24;364;18957,32;0;Em Dia
+CTR-50220;07/12/2024;Cliente_10220;es;Correspondente Bancário;Empréstimo Empresarial PJ;439190,2;0,2352;12;418;17477,92;120;Inadimplente / NPL (>90d)
+CTR-50221;22/01/2025;Cliente_10221;sc;Agência Física;Empréstimo Empresarial PJ;443010,98;0,1273;36;464;21189,48;15;Atraso Curto (1-30d)
+CTR-50222;2023-02-01;Cliente_10222;SP;Internet Banking;Cartão de Credito rotativo;6088,16;0,5572;60;438;19719,91;45;Atraso Crítico (31-90d)
+CTR-50223;26/02/2025;Cliente_10223;RJ;Internet Banking;Financiamento Imobiliário;813729,34;0,1182;120;685;31541,76;0;Em Dia
+CTR-50224;12/04/2023;Cliente_10224;BA;Agência Física;Cartão de Credito rotativo;6600,06;0,819;12;361;18962,54;45;Atraso Crítico (31-90d)
+CTR-50225;2025-03-26;Cliente_10225;SC;App Mobile;Empréstimo Empresarial PJ;76269,27;0,2271;60;573;4190,0;15;Atraso Curto (1-30d)
+CTR-50226;2024-04-02;Cliente_10226;sc;App Mobile;Cartão de Credito rotativo;9895,31;0,5283;60;597;11801,24;0;Em Dia
+CTR-50227;15/12/2023;Cliente_10227;ce;Correspondente Bancário;Financiamento Veicular;171832,05;0,2434;12;512;26358,01;120;Inadimplente / NPL (>90d)
+CTR-50228;2025-06-19;Cliente_10228;PE;App Mobile;Empréstimo Empresarial PJ;374088,5;0,2434;48;382;10571,8;15;Atraso Curto (1-30d)
+CTR-50229;18/11/2024;Cliente_10229;RS;Agência Física;Cartão de Credito rotativo;3430,21;0,5335;36;428;16703,78;120;Inadimplente / NPL (>90d)
+CTR-50230;12/12/2023;Cliente_10230;GO;Internet Banking;Cartão de Credito rotativo;7270,03;0,4856;48;375;10129,17;45;Atraso Crítico (31-90d)
+CTR-50231;15/06/2024;Cliente_10231;RS;Agência Física;Empréstimo Empresarial PJ;110687,67;0,1817;48;658;29185,54;0;Em Dia
+CTR-50232;07/05/2025;Cliente_10232;SC;Correspondente Bancário;Credito Pessoal;27406,33;0,236;36;745;30748,14;0;Em Dia
+CTR-50233;2024-12-17;Cliente_10233;CE;Correspondente Bancário;crédito pessoal;9776,2;0,3104;36;817;5449,53;0;Em Dia
+CTR-50234;2024-05-15;Cliente_10234;PE;Agência Física;Financiamento Veicular;125004,12;0,2526;24;660;32534,88;0;Em Dia
+CTR-50235;04/07/2023;Cliente_10235;MG;Correspondente Bancário;Empréstimo Empresarial PJ;387809,95;0,1335;60;668;6216,91;0;Em Dia
+CTR-50236;2025-05-27;Cliente_10236;sc;Internet Banking;Credito Pessoal;31983,14;0,4489;12;596;31333,96;10;Atraso Curto (1-30d)
+CTR-50237;2024-12-14;Cliente_10237;GO;Agência Física;Empréstimo Empresarial PJ;221924,72;0,247;48;475;32540,72;0;Em Dia
+CTR-50238;2024-05-29;Cliente_10238;RS;Agência Física;Financiamento Imobiliário;256082,75;0,1199;120;422;16199,49;95;Inadimplente / NPL (>90d)
+CTR-50239;2025-01-16;Cliente_10239;CE;Agência Física;Credito Pessoal;32683,85;0,4258;12;529;14548,53;10;Atraso Curto (1-30d)
+CTR-50240;28/08/2023;Cliente_10240;RS;Correspondente Bancário;Empréstimo Empresarial PJ;437828,08;0,1266;36;440;17870,22;45;Atraso Crítico (31-90d)
+CTR-50241;12/05/2025;Cliente_10241;GO;App Mobile;empréstimo empresarial pj;297877,22;0,1308;12;758;24169,02;0;Em Dia
+CTR-50242;09/12/2024;Cliente_10242;MG;Agência Física;Empréstimo Empresarial PJ;62212,73;0,1809;12;587;26324,93;0;Em Dia
+CTR-50243;12/01/2023;Cliente_10243; PE ;App Mobile;Financiamento Veicular;32566,77;0,2084;36;622;12095,25;10;Atraso Curto (1-30d)
+CTR-50244;21/08/2024;Cliente_10244;RS;Agência Física;Cartão de Credito rotativo;9610,65;0,7574;24;430;19710,38;15;Atraso Curto (1-30d)
+CTR-50245;21/08/2023;Cliente_10245; SP ;Internet Banking;Financiamento Veicular;72006,09;0,1514;24;406;28433,69;45;Atraso Crítico (31-90d)
+CTR-50246;16/08/2024;Cliente_10246;mg;App Mobile;financiamento veicular;50809,69;0,1455;48;819;33852,2;0;Em Dia
+CTR-50247;04/12/2024;Cliente_10247;sc;Correspondente Bancário;Empréstimo Empresarial PJ;329859,89;0,2032;60;584;19081,32;95;Inadimplente / NPL (>90d)
+CTR-50248;23/07/2024;Cliente_10248;GO;Correspondente Bancário;empréstimo empresarial pj;166612,42;0,1315;48;850;33685,17;0;Em Dia
+CTR-50249;2024-04-22;Cliente_10249;PR;App Mobile;Empréstimo Empresarial PJ;270003,94;0,1644;12;342;26333,94;15;Atraso Curto (1-30d)
+CTR-50250;13/07/2024;Cliente_10250;PR;Correspondente Bancário;crédito pessoal;20618,38;0,3149;36;428;9328,0;45;Atraso Crítico (31-90d)
+CTR-50251;20/02/2024;Cliente_10001;ES;Agência Física;Cartão de Credito rotativo;8717,86;0,699;48;340;11685,28;95;Inadimplente / NPL (>90d)
+CTR-50252;2025-08-30;Cliente_10002;PE;Correspondente Bancário;Credito Pessoal;34419,33;0,229;12;692;27279,15;0;Em Dia
+CTR-50253;2023-02-02;Cliente_10003;ES;Internet Banking;Cartão de Credito rotativo;2043,88;0,6973;24;592;28672,88;10;Atraso Curto (1-30d)
+CTR-50254;2024-08-21;Cliente_10004;MG;Correspondente Bancário;Financiamento Imobiliário;882978,18;0,0994;48;494;32780,87;120;Inadimplente / NPL (>90d)
+CTR-50255;04/10/2024;Cliente_10005;PE;Correspondente Bancário;Cartão de Credito rotativo;1672,52;0,7119;48;590;7176,31;0;Em Dia
+CTR-50256;2023-03-31;Cliente_10006; CE ;Agência Física;Credito Pessoal;18365,26;0,3472;24;467;10381,58;0;Em Dia
+CTR-50257;2024-09-11;Cliente_10007;SP;Agência Física;Cartão de Credito rotativo;17127,82;0,5553;48;426;21409,71;45;Atraso Crítico (31-90d)
+CTR-50258;2023-12-20;Cliente_10008;sp;Internet Banking;Financiamento Veicular;129733,14;0,2629;12;611;3600,25;15;Atraso Curto (1-30d)
+CTR-50259;03/01/2024;Cliente_10009;CE;Internet Banking;Empréstimo Empresarial PJ;480535,82;0,1583;24;402;8416,54;95;Inadimplente / NPL (>90d)
+CTR-50260;2024-05-09;Cliente_10010;SP;App Mobile;Credito Pessoal;18200,94;0,3676;36;578;16591,87;0;Em Dia
+CTR-50261;2024-10-01;Cliente_10011;SP;App Mobile;Cartão de Credito rotativo;5280,94;0,6048;12;832;11259,75;0;Em Dia
+CTR-50262;23/09/2023;Cliente_10012;PE;Correspondente Bancário;Credito Pessoal;26231,86;0,1879;24;498;28056,23;95;Inadimplente / NPL (>90d)
+CTR-50263;2025-06-21;Cliente_10013;RS;Agência Física;crédito pessoal;12378,01;0,2395;36;633;7757,32;0;Em Dia
+CTR-50264;2023-11-05;Cliente_10014;DF;App Mobile;Financiamento Imobiliário;618547,68;0,0967;24;623;11916,01;95;Inadimplente / NPL (>90d)
+CTR-50265;09/08/2025;Cliente_10015; MG ;Internet Banking;financiamento imobiliário;562183,68;0,1346;48;820;18229,51;95;Inadimplente / NPL (>90d)
+CTR-50266;30/05/2023;Cliente_10016;MG;Internet Banking;Empréstimo Empresarial PJ;178831,14;0,192;48;536;3586,67;120;Inadimplente / NPL (>90d)
+CTR-50267;2023-07-15;Cliente_10017;SC;App Mobile;Empréstimo Empresarial PJ;203481,3;0,2085;48;365;27960,52;15;Atraso Curto (1-30d)
+CTR-50268;2025-03-13;Cliente_10018;sp;Agência Física;Credito Pessoal;32938,02;0,2644;36;392;25861,64;120;Inadimplente / NPL (>90d)
+CTR-50269;2024-02-02;Cliente_10019;pr;Correspondente Bancário;Credito Pessoal;11763,43;0,32;48;412;18344,83;45;Atraso Crítico (31-90d)
+CTR-50270;2024-09-23;Cliente_10020;PR;Correspondente Bancário;Credito Pessoal;32428,0;0,2797;24;746;19058,28;0;Em Dia
+CTR-50271;07/02/2025;Cliente_10021;BA;Agência Física;Empréstimo Empresarial PJ;103907,95;0,2416;36;373;23502,4;15;Atraso Curto (1-30d)
+CTR-50272;2023-09-25;Cliente_10022;SC;Agência Física;Empréstimo Empresarial PJ;425558,34;0,218;60;816;6177,94;0;Em Dia
+CTR-50273;11/02/2024;Cliente_10023;CE;Agência Física;Financiamento Imobiliário;282177,89;0,1236;60;584;11123,92;15;Atraso Curto (1-30d)
+CTR-50274;2025-06-10;Cliente_10024;RS;Internet Banking;crédito pessoal;34702,28;0,2354;12;637;6227,12;95;Inadimplente / NPL (>90d)
+CTR-50275;2025-07-02;Cliente_10025;BA;Internet Banking;Financiamento Imobiliário;878419,5;0,1061;48;518;34965,67;120;Inadimplente / NPL (>90d)
+CTR-50276;2025-02-04;Cliente_10026;PR;App Mobile;Cartão de Credito rotativo;16114,85;0,7411;12;572;31130,26;0;Em Dia
+CTR-50277;14/08/2024;Cliente_10027;PR;App Mobile;Cartão de Credito rotativo;7659,69;0,6486;60;676;34506,62;0;Em Dia
+CTR-50278;2023-08-27;Cliente_10028;pr;Agência Física;Empréstimo Empresarial PJ;301822,66;0,1235;24;545;14169,09;45;Atraso Crítico (31-90d)
+CTR-50279;26/08/2023;Cliente_10029;SC;Agência Física;Financiamento Veicular;90623,05;0,1793;24;527;34639,35;10;Atraso Curto (1-30d)
+CTR-50280;22/07/2025;Cliente_10030;pr;App Mobile;Cartão de Credito rotativo;5608,28;0,7818;48;483;3465,43;45;Atraso Crítico (31-90d)
+CTR-50281;23/07/2025;Cliente_10031;MG;Correspondente Bancário;Credito Pessoal;30367,63;0,3895;36;708;27387,69;0;Em Dia
+CTR-50282;13/11/2023;Cliente_10032;RJ;Agência Física;Financiamento Veicular;146126,82;0,2465;24;743;28416,65;0;Em Dia
+CTR-50283;2024-06-18;Cliente_10033;pe;Correspondente Bancário;Financiamento Imobiliário;834521,13;0,1215;72;627;18066,52;45;Atraso Crítico (31-90d)
+CTR-50284;2024-11-21;Cliente_10034;GO;Agência Física;Cartão de Credito rotativo;19414,7;0,5109;12;355;8095,1;0;Em Dia
+CTR-50285;2024-07-04;Cliente_10035;PE;Agência Física;Credito Pessoal;2785,28;0,3249;60;570;7789,81;0;Em Dia
+CTR-50286;03/09/2023;Cliente_10036;DF;Agência Física;Financiamento Veicular;114245,21;0,1823;36;471;13613,75;45;Atraso Crítico (31-90d)
+CTR-50287;2024-07-23;Cliente_10037;GO;Agência Física;Cartão de Credito rotativo;15956,85;0,7115;60;578;8280,4;10;Atraso Curto (1-30d)
+CTR-50288;2025-01-07;Cliente_10038; PE ;App Mobile;empréstimo empresarial pj;488983,44;0,246;48;549;24742,33;120;Inadimplente / NPL (>90d)
+CTR-50289;20/04/2025;Cliente_10039;PR;Internet Banking;Financiamento Veicular;85056,98;0,1755;60;550;9123,97;90;Atraso Crítico (31-90d)
+CTR-50290;19/02/2025;Cliente_10040;BA;Internet Banking;Financiamento Imobiliário;503581,51;0,1026;36;755;4770,13;45;Atraso Crítico (31-90d)
+CTR-50291;2025-05-19;Cliente_10041;SC;App Mobile;Financiamento Veicular;58468,52;0,2641;24;844;16620,29;0;Em Dia
+CTR-50292;2025-08-13;Cliente_10042;PR;Internet Banking;Empréstimo Empresarial PJ;455604,53;0,1896;48;553;30919,4;10;Atraso Curto (1-30d)
+CTR-50293;28/05/2025;Cliente_10043;MG;Internet Banking;Empréstimo Empresarial PJ;125926,2;0,2147;12;477;22493,06;45;Atraso Crítico (31-90d)
+CTR-50294;2024-12-13;Cliente_10044;PR;Internet Banking;Credito Pessoal;29253,11;0,4043;24;799;17866,21;0;Em Dia
+CTR-50295;20/04/2024;Cliente_10045;RJ;App Mobile;Credito Pessoal;23803,93;0,3575;12;662;31403,26;0;Em Dia
+CTR-50296;31/12/2023;Cliente_10046;df;App Mobile;Financiamento Veicular;26944,5;0,1974;60;791;7627,28;0;Em Dia
+CTR-50297;06/01/2025;Cliente_10047;SP;Internet Banking;Cartão de Credito rotativo;6581,3;0,6687;36;539;20738,66;0;Em Dia
+CTR-50298;2023-02-16;Cliente_10048;ES;App Mobile;Financiamento Imobiliário;484966,4;0,1267;60;552;7438,33;45;Atraso Crítico (31-90d)
+CTR-50299;09/05/2025;Cliente_10049;SC;Correspondente Bancário;Cartão de Credito rotativo;16450,98;0,7683;24;518;31292,34;0;Em Dia
+CTR-50300;02/06/2023;Cliente_10050;PE;Agência Física;financiamento imobiliário;368784,27;0,0897;36;596;19234,81;95;Inadimplente / NPL (>90d)
+CTR-50301;13/07/2025;Cliente_10051;ES;Agência Física;Financiamento Imobiliário;396408,7;0,1039;60;760;19408,72;0;Em Dia
+CTR-50302;2023-08-26;Cliente_10052;ba;Internet Banking;Cartão de Credito rotativo;17171,25;0,825;36;340;24489,25;0;Em Dia
+CTR-50303;2025-02-25;Cliente_10053; PR ;Agência Física;Credito Pessoal;25229,03;0,3519;36;419;5930,57;45;Atraso Crítico (31-90d)
+CTR-50304;20/11/2023;Cliente_10054;SP;App Mobile;Cartão de Credito rotativo;12876,51;0,5742;48;738;13699,16;0;Em Dia
+CTR-50305;2024-08-08;Cliente_10055;PR;Internet Banking;Financiamento Veicular;80354,62;0,2328;48;585;6789,68;10;Atraso Curto (1-30d)
+CTR-50306;2024-08-21;Cliente_10056;RS;Agência Física;Empréstimo Empresarial PJ;332907,03;0,2171;24;649;31166,08;120;Inadimplente / NPL (>90d)
+CTR-50307;19/07/2025;Cliente_10057;PE;Agência Física;Cartão de Credito rotativo;13906,68;0,7588;48;660;12730,75;0;Em Dia
+CTR-50308;2024-01-31;Cliente_10058;SP;Agência Física;empréstimo empresarial pj;220720,91;0,2325;24;820;34510,91;5;Atraso Curto (1-30d)
+CTR-50309;2024-04-30;Cliente_10059;GO;Agência Física;Cartão de Credito rotativo;19843,61;0,6387;60;675;24826,11;0;Em Dia
+CTR-50310;2024-09-05;Cliente_10060;SC;App Mobile;Empréstimo Empresarial PJ;394941,36;0,1653;60;632;18089,48;95;Inadimplente / NPL (>90d)
+CTR-50311;2023-07-13;Cliente_10061;GO;Agência Física;financiamento veicular;162167,17;0,1833;12;450;25725,93;15;Atraso Curto (1-30d)
+CTR-50312;13/05/2023;Cliente_10062;CE;Correspondente Bancário;Cartão de Credito rotativo;13692,16;0,6279;48;711;13995,93;5;Atraso Curto (1-30d)
+CTR-50313;28/11/2024;Cliente_10063;sc;Correspondente Bancário;Cartão de Credito rotativo;3538,61;0,6582;60;830;30535,88;0;Em Dia
+CTR-50314;2023-06-08;Cliente_10064;CE;Internet Banking;Financiamento Imobiliário;949656,21;0,1026;360;813;15127,49;15;Atraso Curto (1-30d)
+CTR-50315;2023-01-27;Cliente_10065;sp;App Mobile;Empréstimo Empresarial PJ;207042,02;0,1954;48;411;26206,1;0;Em Dia
+CTR-50316;21/04/2024;Cliente_10066;ce;Internet Banking;Credito Pessoal;22739,26;0,2437;12;539;4284,79;95;Inadimplente / NPL (>90d)
+CTR-50317;15/01/2025;Cliente_10067;GO;Correspondente Bancário;crédito pessoal;3568,84;0,4417;48;509;32261,68;0;Em Dia
+CTR-50318;08/04/2024;Cliente_10068;MG;App Mobile;Financiamento Imobiliário;171159,47;0,0922;36;659;27864,51;0;Em Dia
+CTR-50319;14/09/2023;Cliente_10069;SP;Correspondente Bancário;Empréstimo Empresarial PJ;370546,52;0,1817;60;449;30993,71;95;Inadimplente / NPL (>90d)
+CTR-50320;2023-03-26;Cliente_10070;MG;App Mobile;Empréstimo Empresarial PJ;228113,13;0,1224;24;597;3392,47;120;Inadimplente / NPL (>90d)
+CTR-50321;09/01/2024;Cliente_10071;PR;Correspondente Bancário;crédito pessoal;23025,54;0,3107;60;349;14204,02;15;Atraso Curto (1-30d)
+CTR-50322;14/11/2023;Cliente_10072; CE ;Correspondente Bancário;Cartão de Credito rotativo;15342,4;0,5021;36;751;23570,01;5;Atraso Curto (1-30d)
+CTR-50323;24/04/2024;Cliente_10073;SC;Correspondente Bancário;Financiamento Imobiliário;248200,68;0,1297;60;527;26897,57;90;Atraso Crítico (31-90d)
+CTR-50324;2024-07-21;Cliente_10074; RS ;Correspondente Bancário;Financiamento Imobiliário;593560,08;0,0872;360;494;19552,06;15;Atraso Curto (1-30d)
+CTR-50325;06/11/2024;Cliente_10075;BA;Internet Banking;Financiamento Veicular;123652,86;0,1933;48;764;33522,9;0;Em Dia
+CTR-50326;2023-01-21;Cliente_10076;pr;Internet Banking;cartão de crédito rotativo;10033,68;0,4675;24;459;28879,15;95;Inadimplente / NPL (>90d)
+CTR-50327;2023-04-03;Cliente_10077;ba;App Mobile;financiamento veicular;56304,84;0,1896;60;561;19457,92;35;Atraso Crítico (31-90d)
+CTR-50328;2023-03-24;Cliente_10078;go;Internet Banking;Financiamento Veicular;172986,93;0,1458;12;766;26828,59;15;Atraso Curto (1-30d)
+CTR-50329;09/06/2024;Cliente_10079;PE;Correspondente Bancário;Financiamento Veicular;45939,04;0,1537;36;471;33627,37;120;Inadimplente / NPL (>90d)
+CTR-50330;19/07/2025;Cliente_10080;ES;App Mobile;Empréstimo Empresarial PJ;77130,98;0,1961;60;599;33115,82;0;Em Dia
+CTR-50331;07/03/2024;Cliente_10081; BA ;Agência Física;Financiamento Imobiliário;784770,59;0,1232;12;753;6062,51;45;Atraso Crítico (31-90d)
+CTR-50332;01/05/2025;Cliente_10082;RS;Internet Banking;Credito Pessoal;34603,76;0,393;36;420;7748,08;95;Inadimplente / NPL (>90d)
+CTR-50333;2023-08-28;Cliente_10083;ES;Correspondente Bancário;empréstimo empresarial pj;457554,06;0,1371;60;332;31505,41;45;Atraso Crítico (31-90d)
+CTR-50334;06/06/2023;Cliente_10084;sp;Correspondente Bancário;financiamento imobiliário;180840,64;0,0986;72;592;17514,86;10;Atraso Curto (1-30d)
+CTR-50335;2024-03-30;Cliente_10085;es;Correspondente Bancário;crédito pessoal;16672,65;0,2342;36;627;29782,87;0;Em Dia
+CTR-50336;28/07/2023;Cliente_10086;ES;Internet Banking;financiamento imobiliário;336012,3;0,1193;120;808;4161,74;45;Atraso Crítico (31-90d)
+CTR-50337;2024-05-03;Cliente_10087;PE;Agência Física;Empréstimo Empresarial PJ;273062,88;0,2339;60;603;4569,82;45;Atraso Crítico (31-90d)
+CTR-50338;2023-08-21;Cliente_10088;GO;Correspondente Bancário;Cartão de Credito rotativo;9718,45;0,5418;12;762;3883,44;0;Em Dia
+CTR-50339;2023-05-09;Cliente_10089;PE;Correspondente Bancário;Empréstimo Empresarial PJ;58794,59;0,1666;24;651;16823,53;0;Em Dia
+CTR-50340;2025-03-07;Cliente_10090;GO;App Mobile;Financiamento Veicular;57662,27;0,2306;36;388;31397,74;120;Inadimplente / NPL (>90d)
+CTR-50341;05/07/2023;Cliente_10091;ES;Internet Banking;financiamento imobiliário;169759,72;0,1124;24;762;15542,11;45;Atraso Crítico (31-90d)
+CTR-50342;19/10/2023;Cliente_10092;GO;App Mobile;Cartão de Credito rotativo;1313,79;0,8198;36;385;31673,04;45;Atraso Crítico (31-90d)
+CTR-50343;2025-06-22;Cliente_10093;SC;App Mobile;Financiamento Veicular;98159,69;0,2615;24;622;7559,47;15;Atraso Curto (1-30d)
+CTR-50344;2024-09-21;Cliente_10094;ES;Agência Física;Credito Pessoal;26097,79;0,2364;12;732;24421,24;0;Em Dia
+CTR-50345;10/06/2024;Cliente_10095;ce;Agência Física;Empréstimo Empresarial PJ;272904,97;0,2222;12;658;19917,04;95;Inadimplente / NPL (>90d)
+CTR-50346;2023-05-19;Cliente_10096;BA;App Mobile;Financiamento Veicular;159717,14;0,2778;24;737;24808,62;5;Atraso Curto (1-30d)
+CTR-50347;2023-11-07;Cliente_10097;RJ;Agência Física;Empréstimo Empresarial PJ;208930,94;0,2483;36;540;4741,41;0;Em Dia
+CTR-50348;10/06/2023;Cliente_10098;PE;Internet Banking;financiamento imobiliário;499211,67;0,1221;360;700;17905,8;0;Em Dia
+CTR-50349;2025-01-20;Cliente_10099;SC;Internet Banking;Credito Pessoal;18048,9;0,4045;48;682;34556,91;0;Em Dia
+CTR-50350;2024-10-19;Cliente_10100;PE;Correspondente Bancário;Empréstimo Empresarial PJ;84298,22;0,2404;60;540;18545,01;0;Em Dia
+CTR-50351;2024-12-09;Cliente_10101;BA;Agência Física;crédito pessoal;17476,68;0,3172;12;437;8994,9;45;Atraso Crítico (31-90d)
+CTR-50352;07/02/2023;Cliente_10102;PR;Internet Banking;Financiamento Imobiliário;693746,44;0,1194;24;721;25376,27;15;Atraso Curto (1-30d)
+CTR-50353;31/07/2023;Cliente_10103; MG ;Internet Banking;Financiamento Imobiliário;523304,56;0,1006;60;630;13244,77;45;Atraso Crítico (31-90d)
+CTR-50354;2025-02-27;Cliente_10104; MG ;Correspondente Bancário;financiamento imobiliário;225634,37;0,1333;60;543;34373,51;35;Atraso Crítico (31-90d)
+CTR-50355;2023-04-22;Cliente_10105;BA;Internet Banking;crédito pessoal;11377,19;0,3369;36;612;4726,0;35;Atraso Crítico (31-90d)
+CTR-50356;27/04/2023;Cliente_10106;MG;Agência Física;Empréstimo Empresarial PJ;81440,98;0,1504;60;372;25669,67;0;Em Dia
+CTR-50357;2024-06-14;Cliente_10107;SC;App Mobile;Credito Pessoal;18807,78;0,2716;48;485;22241,04;15;Atraso Curto (1-30d)
+CTR-50358;08/12/2024;Cliente_10108;GO;App Mobile;Financiamento Imobiliário;832765,07;0,0887;360;598;22908,95;0;Em Dia
+CTR-50359;28/01/2024;Cliente_10109;SC;Agência Física;Cartão de Credito rotativo;6892,6;0,4696;24;656;13193,21;0;Em Dia
+CTR-50360;2024-01-03;Cliente_10110;BA;Internet Banking;Financiamento Imobiliário;237931,21;0,1321;72;673;10576,15;15;Atraso Curto (1-30d)
+CTR-50361;2024-03-18;Cliente_10111;RJ;Internet Banking;Credito Pessoal;4624,79;0,2355;12;757;6887,02;0;Em Dia
+CTR-50362;11/01/2025;Cliente_10112;GO;App Mobile;Financiamento Imobiliário;580698,62;0,1165;60;442;9168,79;15;Atraso Curto (1-30d)
+CTR-50363;2023-02-26;Cliente_10113;RJ;App Mobile;cartão de crédito rotativo;13018,91;0,677;60;566;13619,85;0;Em Dia
+CTR-50364;16/05/2023;Cliente_10114;SC;Correspondente Bancário;Financiamento Veicular;66881,01;0,1458;36;646;11336,63;10;Atraso Curto (1-30d)
+CTR-50365;18/07/2024;Cliente_10115;GO;Internet Banking;Financiamento Veicular;160756,88;0,2297;12;675;33240,18;15;Atraso Curto (1-30d)
+CTR-50366;21/12/2023;Cliente_10116;RS;Correspondente Bancário;Credito Pessoal;29554,76;0,2499;24;407;22134,53;15;Atraso Curto (1-30d)
+CTR-50367;2023-07-31;Cliente_10117; PE ;Agência Física;Empréstimo Empresarial PJ;253646,43;0,2129;36;672;18467,31;120;Inadimplente / NPL (>90d)
+CTR-50368;2025-04-26;Cliente_10118;sp;Internet Banking;crédito pessoal;16120,9;0,2147;60;719;3244,96;0;Em Dia
+CTR-50369;05/05/2024;Cliente_10119;RJ;Agência Física;Financiamento Veicular;37132,74;0,1705;36;600;4172,24;10;Atraso Curto (1-30d)
+CTR-50370;2023-10-14;Cliente_10120; PE ;Internet Banking;Cartão de Credito rotativo;19184,93;0,6996;36;391;8432,75;0;Em Dia
+CTR-50371;2024-10-13;Cliente_10121; CE ;Correspondente Bancário;empréstimo empresarial pj;312114,39;0,1884;36;781;10917,76;120;Inadimplente / NPL (>90d)
+CTR-50372;2024-12-19;Cliente_10122;GO;Correspondente Bancário;Credito Pessoal;29579,11;0,1894;24;702;29983,61;0;Em Dia
+CTR-50373;2025-01-31;Cliente_10123;RS;Internet Banking;Credito Pessoal;22436,92;0,2415;12;528;27034,61;0;Em Dia
+CTR-50374;03/10/2023;Cliente_10124;SP;Correspondente Bancário;Credito Pessoal;17979,27;0,33;12;768;3708,53;45;Atraso Crítico (31-90d)
+CTR-50375;20/12/2023;Cliente_10125;ce;Agência Física;Credito Pessoal;14693,48;0,1974;60;402;19991,89;95;Inadimplente / NPL (>90d)
+CTR-50376;2023-05-25;Cliente_10126;MG;Correspondente Bancário;Financiamento Veicular;72315,95;0,2335;12;561;24937,48;10;Atraso Curto (1-30d)
+CTR-50377;04/11/2023;Cliente_10127;es;Correspondente Bancário;Financiamento Veicular;107639,29;0,2252;12;584;10015,45;15;Atraso Curto (1-30d)
+CTR-50378;2025-08-31;Cliente_10128;RS;Internet Banking;cartão de crédito rotativo;3981,01;0,7279;48;335;4060,11;45;Atraso Crítico (31-90d)
+CTR-50379;22/07/2024;Cliente_10129;RJ;Correspondente Bancário;Financiamento Veicular;168480,99;0,2442;36;746;4712,67;15;Atraso Curto (1-30d)
+CTR-50380;20/11/2024;Cliente_10130;CE;App Mobile;Empréstimo Empresarial PJ;160875,09;0,143;36;504;25595,62;90;Atraso Crítico (31-90d)
+CTR-50381;14/09/2023;Cliente_10131;sp;App Mobile;Cartão de Credito rotativo;2235,98;0,6759;36;492;21676,2;45;Atraso Crítico (31-90d)
+CTR-50382;29/05/2023;Cliente_10132;SC;App Mobile;Credito Pessoal;33663,6;0,4134;36;784;21763,6;5;Atraso Curto (1-30d)
+CTR-50383;21/04/2024;Cliente_10133; BA ;Agência Física;Financiamento Imobiliário;295398,37;0,1132;48;631;18301,51;0;Em Dia
+CTR-50384;2024-05-26;Cliente_10134;PR;App Mobile;cartão de crédito rotativo;15268,84;0,7785;48;727;31685,11;0;Em Dia
+CTR-50385;2025-07-25;Cliente_10135;RS;Correspondente Bancário;crédito pessoal;20734,37;0,1844;12;739;17565,05;0;Em Dia
+CTR-50386;2025-05-04;Cliente_10136; MG ;Internet Banking;Credito Pessoal;9502,53;0,3146;48;690;6743,87;0;Em Dia
+CTR-50387;09/05/2025;Cliente_10137;SC;Agência Física;Credito Pessoal;10478,56;0,3806;36;336;22799,25;15;Atraso Curto (1-30d)
+CTR-50388;15/06/2023;Cliente_10138;SP;App Mobile;empréstimo empresarial pj;243023,7;0,231;12;461;32059,25;15;Atraso Curto (1-30d)
+CTR-50389;2025-05-17;Cliente_10139;ES;App Mobile;Credito Pessoal;2642,74;0,4191;48;669;21705,35;0;Em Dia
+CTR-50390;2024-06-07;Cliente_10140;BA;Correspondente Bancário;Credito Pessoal;18372,07;0,2999;24;407;5028,47;120;Inadimplente / NPL (>90d)
+CTR-50391;15/05/2025;Cliente_10141;SP;App Mobile;empréstimo empresarial pj;343979,97;0,149;12;632;3995,26;45;Atraso Crítico (31-90d)
+CTR-50392;2024-12-30;Cliente_10142;ES;Internet Banking;Financiamento Veicular;162980,71;0,1711;60;699;31716,51;0;Em Dia
+CTR-50393;25/01/2024;Cliente_10143;rj;Correspondente Bancário;empréstimo empresarial pj;415677,2;0,1747;36;342;11139,74;15;Atraso Curto (1-30d)
+CTR-50394;2023-02-10;Cliente_10144;GO;App Mobile;Cartão de Credito rotativo;3437,15;0,6582;36;638;34842,24;0;Em Dia
+CTR-50395;2025-07-02;Cliente_10145;SC;Internet Banking;crédito pessoal;7636,81;0,3468;60;456;19387,13;15;Atraso Curto (1-30d)
+CTR-50396;2024-02-11;Cliente_10146;SP;Internet Banking;financiamento imobiliário;743954,39;0,1169;48;483;7465,38;15;Atraso Curto (1-30d)
+CTR-50397;2024-04-20;Cliente_10147;ES;Correspondente Bancário;Credito Pessoal;34961,43;0,4032;60;480;25260,39;45;Atraso Crítico (31-90d)
+CTR-50398;2023-06-13;Cliente_10148;SC;Internet Banking;Credito Pessoal;31944,05;0,3491;24;803;4644,88;0;Em Dia
+CTR-50399;26/06/2024;Cliente_10149;ES;Internet Banking;financiamento veicular;118316,55;0,2018;36;707;16590,66;0;Em Dia
+CTR-50400;14/11/2023;Cliente_10150;SP;App Mobile;Empréstimo Empresarial PJ;261695,37;0,1496;48;771;10226,96;0;Em Dia
+CTR-50401;2025-02-13;Cliente_10151;GO;App Mobile;Financiamento Imobiliário;773444,0;0,1138;60;573;19700,75;0;Em Dia
+CTR-50402;06/07/2025;Cliente_10152;ES;Internet Banking;cartão de crédito rotativo;16601,53;0,4609;36;815;5249,38;0;Em Dia
+CTR-50403;2024-12-13;Cliente_10153;MG;App Mobile;Empréstimo Empresarial PJ;236502,06;0,1907;60;761;32031,16;5;Atraso Curto (1-30d)
+CTR-50404;12/12/2024;Cliente_10154;ES;Correspondente Bancário;Credito Pessoal;6190,55;0,3739;48;575;3794,32;10;Atraso Curto (1-30d)
+CTR-50405;27/09/2024;Cliente_10155;SP;Correspondente Bancário;empréstimo empresarial pj;410195,72;0,2336;60;652;13653,71;0;Em Dia
+CTR-50406;14/10/2023;Cliente_10156;sc;Correspondente Bancário;financiamento veicular;78795,4;0,1427;60;684;11750,18;0;Em Dia
+CTR-50407;2023-10-28;Cliente_10157; ES ;Agência Física;Financiamento Veicular;150402,91;0,2774;36;445;15609,91;15;Atraso Curto (1-30d)
+CTR-50408;06/04/2025;Cliente_10158;ce;App Mobile;Financiamento Imobiliário;845689,55;0,0913;360;481;25573,68;15;Atraso Curto (1-30d)
+CTR-50409;24/08/2024;Cliente_10159; CE ;Correspondente Bancário;Empréstimo Empresarial PJ;155213,32;0,1767;12;733;6851,46;120;Inadimplente / NPL (>90d)
+CTR-50410;2025-08-10;Cliente_10160;ES;Internet Banking;Credito Pessoal;12923,43;0,3912;24;543;17723,58;90;Atraso Crítico (31-90d)
+CTR-50411;2023-11-11;Cliente_10161;MG;Internet Banking;Cartão de Credito rotativo;4682,21;0,731;12;686;19819,39;5;Atraso Curto (1-30d)
+CTR-50412;23/01/2024;Cliente_10162;CE;Correspondente Bancário;Cartão de Credito rotativo;8646,38;0,763;36;714;28810,75;0;Em Dia
+CTR-50413;2023-11-05;Cliente_10163;PE;Correspondente Bancário;Financiamento Veicular;165260,59;0,2495;60;548;14754,46;10;Atraso Curto (1-30d)
+CTR-50414;2024-10-08;Cliente_10164; SP ;Internet Banking;Cartão de Credito rotativo;3852,46;0,8028;24;775;30105,84;0;Em Dia
+CTR-50415;2025-04-12;Cliente_10165;df;Agência Física;Financiamento Veicular;157944,29;0,1468;48;602;14334,57;10;Atraso Curto (1-30d)
+CTR-50416;29/05/2023;Cliente_10166;SC;Agência Física;Empréstimo Empresarial PJ;198753,01;0,2357;24;441;27857,54;0;Em Dia
+CTR-50417;30/01/2023;Cliente_10167;SC;App Mobile;Empréstimo Empresarial PJ;257571,65;0,1683;24;493;3668,65;15;Atraso Curto (1-30d)
+CTR-50418;2024-07-11;Cliente_10168;ES;App Mobile;Financiamento Veicular;156403,61;0,1604;48;545;3496,39;15;Atraso Curto (1-30d)
+CTR-50419;11/02/2025;Cliente_10169;SC;Correspondente Bancário;Cartão de Credito rotativo;4161,5;0,7152;48;541;30174,22;35;Atraso Crítico (31-90d)
+CTR-50420;25/05/2024;Cliente_10170;DF;Agência Física;Cartão de Credito rotativo;18759,64;0,4869;48;512;6176,44;10;Atraso Curto (1-30d)
+CTR-50421;2023-11-23;Cliente_10171;RS;Internet Banking;Financiamento Veicular;26297,66;0,2553;36;392;23104,35;95;Inadimplente / NPL (>90d)
+CTR-50422;01/02/2024;Cliente_10172;RJ;App Mobile;Cartão de Credito rotativo;6068,33;0,7355;24;686;33444,09;20;Atraso Curto (1-30d)
+CTR-50423;30/05/2025;Cliente_10173;ES;Internet Banking;Financiamento Veicular;30640,35;0,2697;48;696;18327,8;0;Em Dia
+CTR-50424;2023-12-30;Cliente_10174;MG;Agência Física;Credito Pessoal;23362,04;0,3279;60;681;22218,17;0;Em Dia
+CTR-50425;14/03/2023;Cliente_10175;RJ;Correspondente Bancário;Financiamento Veicular;50489,88;0,1618;36;686;10167,28;0;Em Dia
+CTR-50426;25/03/2023;Cliente_10176;PE;App Mobile;Credito Pessoal;16272,45;0,1898;36;572;11235,97;10;Atraso Curto (1-30d)
+CTR-50427;06/08/2025;Cliente_10177;RS;Internet Banking;financiamento veicular;117364,58;0,2108;48;489;15229,38;0;Em Dia
+CTR-50428;09/07/2024;Cliente_10178;GO;Correspondente Bancário;Financiamento Veicular;126636,74;0,1918;48;522;29107,39;90;Atraso Crítico (31-90d)
+CTR-50429;2025-07-17;Cliente_10179;SP;Correspondente Bancário;Financiamento Imobiliário;884901,57;0,0917;72;439;3027,31;95;Inadimplente / NPL (>90d)
+CTR-50430;2024-08-04;Cliente_10180;BA;App Mobile;Financiamento Veicular;76948,04;0,235;36;751;11362,65;0;Em Dia
+CTR-50431;16/06/2025;Cliente_10181;PR;App Mobile;Credito Pessoal;33601,93;0,3535;12;524;7841,39;0;Em Dia
+CTR-50432;09/01/2025;Cliente_10182;RJ;Correspondente Bancário;Credito Pessoal;32680,58;0,3641;48;437;33281,07;15;Atraso Curto (1-30d)
+CTR-50433;29/08/2023;Cliente_10183; PE ;Agência Física;Credito Pessoal;8671,72;0,235;36;551;18289,32;0;Em Dia
+CTR-50434;06/05/2025;Cliente_10184;MG;App Mobile;financiamento imobiliário;705734,06;0,1165;48;481;8448,28;0;Em Dia
+CTR-50435;2024-04-21;Cliente_10185;es;Internet Banking;Financiamento Imobiliário;491263,28;0,1133;360;464;7815,66;15;Atraso Curto (1-30d)
+CTR-50436;2023-06-03;Cliente_10186;MG;Agência Física;Financiamento Imobiliário;565016,41;0,0977;72;406;18478,54;0;Em Dia
+CTR-50437;2023-08-11;Cliente_10187;BA;App Mobile;Cartão de Credito rotativo;18192,26;0,6151;12;634;3287,43;15;Atraso Curto (1-30d)
+CTR-50438;16/11/2024;Cliente_10188;sp;Correspondente Bancário;Financiamento Imobiliário;763279,46;0,0893;24;843;18529,99;45;Atraso Crítico (31-90d)
+CTR-50439;07/09/2024;Cliente_10189;PE;Correspondente Bancário;Financiamento Veicular;173783,78;0,2133;36;358;29828,91;45;Atraso Crítico (31-90d)
+CTR-50440;2023-06-07;Cliente_10190;BA;Agência Física;Financiamento Veicular;128022,44;0,1478;12;343;32051,9;45;Atraso Crítico (31-90d)
+CTR-50441;28/07/2023;Cliente_10191;MG;Correspondente Bancário;Financiamento Veicular;110016,45;0,2229;36;838;23506,7;0;Em Dia
+CTR-50442;24/04/2024;Cliente_10192;GO;Internet Banking;Financiamento Veicular;176576,82;0,2445;48;534;12680,57;45;Atraso Crítico (31-90d)
+CTR-50443;2023-03-24;Cliente_10193;PE;Correspondente Bancário;Empréstimo Empresarial PJ;482930,07;0,1314;24;340;33388,22;15;Atraso Curto (1-30d)
+CTR-50444;28/06/2023;Cliente_10194;PR;Agência Física;Financiamento Imobiliário;762982,53;0,104;24;449;17924,68;15;Atraso Curto (1-30d)
+CTR-50445;2025-06-23;Cliente_10195;DF;App Mobile;Financiamento Imobiliário;453709,63;0,1218;24;671;7838,92;15;Atraso Curto (1-30d)
+CTR-50446;18/01/2024;Cliente_10196;SP;Internet Banking;Empréstimo Empresarial PJ;492573,86;0,197;12;676;12933,5;120;Inadimplente / NPL (>90d)
+CTR-50447;30/08/2023;Cliente_10197;MG;Correspondente Bancário;Cartão de Credito rotativo;9960,97;0,5426;12;465;5105,21;0;Em Dia
+CTR-50448;2025-04-30;Cliente_10198;SP;Correspondente Bancário;Empréstimo Empresarial PJ;81134,31;0,1961;36;590;16992,04;90;Atraso Crítico (31-90d)
+CTR-50449;12/08/2023;Cliente_10199;PE;Correspondente Bancário;empréstimo empresarial pj;497743,11;0,242;60;480;21574,72;45;Atraso Crítico (31-90d)
+CTR-50450;16/10/2023;Cliente_10200;BA;Internet Banking;Financiamento Imobiliário;191588,72;0,1009;36;615;16272,8;0;Em Dia
+CTR-50451;2024-02-13;Cliente_10201;ba;App Mobile;Cartão de Credito rotativo;15141,31;0,814;36;539;13696,97;10;Atraso Curto (1-30d)
+CTR-50452;26/05/2024;Cliente_10202;GO;App Mobile;Credito Pessoal;5195,33;0,446;60;535;5772,78;10;Atraso Curto (1-30d)
+CTR-50453;09/03/2023;Cliente_10203;PR;App Mobile;Financiamento Veicular;106639,47;0,1553;36;745;8500,73;0;Em Dia
+CTR-50454;03/02/2025;Cliente_10204;sc;App Mobile;Financiamento Imobiliário;828641,74;0,1252;36;777;27483,16;15;Atraso Curto (1-30d)
+CTR-50455;2023-03-27;Cliente_10205;GO;App Mobile;Credito Pessoal;6398,24;0,3262;36;832;31242,15;0;Em Dia
+CTR-50456;2023-08-27;Cliente_10206; DF ;Agência Física;Cartão de Credito rotativo;9182,57;0,7229;48;715;20102,22;0;Em Dia
+CTR-50457;2024-10-15;Cliente_10207;pr;Correspondente Bancário;Financiamento Veicular;42759,47;0,1415;36;679;10259,12;0;Em Dia
+CTR-50458;09/06/2024;Cliente_10208; BA ;Correspondente Bancário;Empréstimo Empresarial PJ;462083,66;0,2356;12;326;27955,58;45;Atraso Crítico (31-90d)
+CTR-50459;18/02/2024;Cliente_10209;DF;App Mobile;Financiamento Imobiliário;902769,58;0,1184;36;721;31497,14;45;Atraso Crítico (31-90d)
+CTR-50460;2023-08-06;Cliente_10210;df;Internet Banking;Financiamento Veicular;112884,29;0,1682;48;620;13525,98;90;Atraso Crítico (31-90d)
+CTR-50461;26/11/2023;Cliente_10211; BA ;Correspondente Bancário;Financiamento Imobiliário;511211,57;0,0973;24;638;27524,54;120;Inadimplente / NPL (>90d)
+CTR-50462;2024-09-23;Cliente_10212;GO;Correspondente Bancário;Financiamento Imobiliário;262172,86;0,1094;24;636;3132,04;15;Atraso Curto (1-30d)
+CTR-50463;2024-09-11;Cliente_10213;rs;Agência Física;Financiamento Imobiliário;301469,29;0,1148;60;700;24289,8;0;Em Dia
+CTR-50464;2024-04-09;Cliente_10214;DF;Internet Banking;Empréstimo Empresarial PJ;50182,1;0,2398;12;553;9276,93;120;Inadimplente / NPL (>90d)
+CTR-50465;2025-06-13;Cliente_10215;pe;App Mobile;Financiamento Veicular;30688,53;0,1908;60;487;4132,54;45;Atraso Crítico (31-90d)
+CTR-50466;2025-08-08;Cliente_10216; BA ;Correspondente Bancário;financiamento imobiliário;790654,94;0,112;120;627;11436,99;0;Em Dia
+CTR-50467;2023-02-28;Cliente_10217;MG;Agência Física;Financiamento Imobiliário;728842,76;0,1373;60;577;9644,12;45;Atraso Crítico (31-90d)
+CTR-50468;07/10/2023;Cliente_10218;MG;App Mobile;Credito Pessoal;19653,72;0,4056;36;773;16742,37;0;Em Dia
+CTR-50469;02/03/2024;Cliente_10219;RS;Correspondente Bancário;Cartão de Credito rotativo;11259,66;0,5968;36;645;12496,33;90;Atraso Crítico (31-90d)
+CTR-50470;2024-03-29;Cliente_10220;ba;Internet Banking;Credito Pessoal;25208,53;0,4301;24;352;10811,16;120;Inadimplente / NPL (>90d)
+CTR-50471;08/02/2025;Cliente_10221;PR;App Mobile;Credito Pessoal;17995,91;0,2011;24;632;6214,03;0;Em Dia
+CTR-50472;2024-01-12;Cliente_10222;MG;App Mobile;Financiamento Veicular;84933,22;0,2788;12;823;12029,29;15;Atraso Curto (1-30d)
+CTR-50473;23/01/2024;Cliente_10223;MG;Correspondente Bancário;Financiamento Veicular;122266,54;0,2715;36;352;5062,0;45;Atraso Crítico (31-90d)
+CTR-50474;10/05/2025;Cliente_10224;RJ;Correspondente Bancário;Financiamento Imobiliário;480394,41;0,1229;36;637;34259,3;15;Atraso Curto (1-30d)
+CTR-50475;14/02/2025;Cliente_10225;GO;Agência Física;Financiamento Veicular;97473,81;0,1677;24;385;15483,87;15;Atraso Curto (1-30d)
+CTR-50476;2023-11-17;Cliente_10226;SC;App Mobile;Empréstimo Empresarial PJ;260485,65;0,1381;48;363;8148,56;45;Atraso Crítico (31-90d)
+CTR-50477;07/01/2025;Cliente_10227;MG;Agência Física;financiamento imobiliário;602413,16;0,1313;72;456;34169,89;45;Atraso Crítico (31-90d)
+CTR-50478;17/07/2025;Cliente_10228;MG;Correspondente Bancário;Empréstimo Empresarial PJ;486578,03;0,2137;48;786;34492,64;0;Em Dia
+CTR-50479;2024-07-02;Cliente_10229;rs;App Mobile;Financiamento Imobiliário;438136,95;0,1183;72;379;5385,1;120;Inadimplente / NPL (>90d)
+CTR-50480;2023-06-19;Cliente_10230;es;Internet Banking;Credito Pessoal;17266,84;0,3077;36;355;31850,27;95;Inadimplente / NPL (>90d)
+CTR-50481;2023-02-19;Cliente_10231;DF;App Mobile;Cartão de Credito rotativo;18552,1;0,5159;48;655;33922,0;5;Atraso Curto (1-30d)
+CTR-50482;2024-12-25;Cliente_10232;ES;App Mobile;Cartão de Credito rotativo;8618,43;0,5677;24;430;33139,72;15;Atraso Curto (1-30d)
+CTR-50483;30/10/2023;Cliente_10233;RS;Agência Física;Credito Pessoal;17835,67;0,2802;60;631;7424,91;0;Em Dia
+CTR-50484;19/09/2023;Cliente_10234;CE;Agência Física;Credito Pessoal;34440,14;0,2738;24;471;23455,16;0;Em Dia
+CTR-50485;19/07/2025;Cliente_10235;pr;App Mobile;Empréstimo Empresarial PJ;203407,15;0,1721;36;808;17023,69;0;Em Dia
+CTR-50486;02/12/2023;Cliente_10236;MG;Agência Física;Empréstimo Empresarial PJ;284455,72;0,1849;36;412;10884,34;95;Inadimplente / NPL (>90d)
+CTR-50487;01/04/2024;Cliente_10237;pe;Correspondente Bancário;Financiamento Imobiliário;629118,72;0,1285;360;846;20255,2;0;Em Dia
+CTR-50488;2025-04-27;Cliente_10238;PR;Correspondente Bancário;Financiamento Imobiliário;711383,19;0,1361;36;711;7829,63;45;Atraso Crítico (31-90d)
+CTR-50489;2023-10-01;Cliente_10239;PE;Correspondente Bancário;Financiamento Veicular;170975,95;0,2067;24;326;11388,86;15;Atraso Curto (1-30d)
+CTR-50490;24/09/2023;Cliente_10240;DF;Agência Física;Financiamento Veicular;140882,8;0,173;24;637;20331,56;10;Atraso Curto (1-30d)
+CTR-50491;2024-12-15;Cliente_10241;BA;Correspondente Bancário;Financiamento Imobiliário;702182,43;0,093;36;810;8368,25;15;Atraso Curto (1-30d)
+CTR-50492;2024-07-08;Cliente_10242;PR;App Mobile;Financiamento Imobiliário;387229,67;0,0852;24;538;32041,8;120;Inadimplente / NPL (>90d)
+CTR-50493;06/09/2023;Cliente_10243;ES;Agência Física;crédito pessoal;29098,52;0,233;48;736;20423,24;20;Atraso Curto (1-30d)
+CTR-50494;2024-09-27;Cliente_10244;SC;Correspondente Bancário;empréstimo empresarial pj;276385,39;0,1782;24;612;22658,02;120;Inadimplente / NPL (>90d)
+CTR-50495;28/10/2024;Cliente_10245;PR;Internet Banking;crédito pessoal;9909,76;0,2289;12;633;5310,81;35;Atraso Crítico (31-90d)
+CTR-50496;2024-02-02;Cliente_10246;DF;Agência Física;Credito Pessoal;12868,79;0,2659;12;361;33581,4;45;Atraso Crítico (31-90d)
+CTR-50497;09/06/2023;Cliente_10247;GO;Correspondente Bancário;empréstimo empresarial pj;235726,15;0,1408;48;690;7821,73;120;Inadimplente / NPL (>90d)
+CTR-50498;2025-08-26;Cliente_10248; CE ;App Mobile;Credito Pessoal;5125,37;0,184;12;624;12007,67;10;Atraso Curto (1-30d)
+CTR-50499;2023-07-15;Cliente_10249;CE;App Mobile;empréstimo empresarial pj;178322,4;0,2156;12;662;30276,46;45;Atraso Crítico (31-90d)
+CTR-50500;2024-01-26;Cliente_10250;CE;Agência Física;financiamento veicular;119891,36;0,202;36;541;30290,97;10;Atraso Curto (1-30d)
+CTR-50501;2025-03-31;Cliente_10001;GO;App Mobile;financiamento veicular;133041,0;0,1668;24;621;13006,54;45;Atraso Crítico (31-90d)
+CTR-50502;2024-01-31;Cliente_10002;SC;Correspondente Bancário;Financiamento Veicular;97599,75;0,2302;12;627;5568,08;15;Atraso Curto (1-30d)
+CTR-50503;01/07/2023;Cliente_10003; RJ ;Agência Física;Financiamento Veicular;101404,43;0,236;24;397;17292,42;120;Inadimplente / NPL (>90d)
+CTR-50504;21/01/2023;Cliente_10004;MG;Correspondente Bancário;Financiamento Veicular;82325,93;0,1797;48;750;3184,16;15;Atraso Curto (1-30d)
+CTR-50505;2023-10-07;Cliente_10005;SP;Correspondente Bancário;Financiamento Veicular;147892,93;0,2157;48;747;34849,16;5;Atraso Curto (1-30d)
+CTR-50506;07/11/2023;Cliente_10006;ba;Internet Banking;Financiamento Imobiliário;165684,97;0,136;48;765;22131,43;0;Em Dia
+CTR-50507;02/11/2023;Cliente_10007;BA;App Mobile;Credito Pessoal;7499,89;0,229;48;383;15878,51;95;Inadimplente / NPL (>90d)
+CTR-50508;2023-10-23;Cliente_10008;DF;Agência Física;Financiamento Veicular;118461,66;0,2206;36;729;17468,5;0;Em Dia
+CTR-50509;2023-10-20;Cliente_10009;RS;Internet Banking;Credito Pessoal;15183,73;0,3727;24;567;11343,83;10;Atraso Curto (1-30d)
+CTR-50510;24/07/2023;Cliente_10010;PR;Agência Física;Cartão de Credito rotativo;14788,02;0,4778;60;496;8162,7;0;Em Dia
+CTR-50511;2024-07-15;Cliente_10011;SC;Agência Física;Financiamento Veicular;107602,2;0,2043;12;706;21808,2;120;Inadimplente / NPL (>90d)
+CTR-50512;2023-09-10;Cliente_10012;ES;Correspondente Bancário;Cartão de Credito rotativo;10785,12;0,6678;12;346;28440,73;15;Atraso Curto (1-30d)
+CTR-50513;08/07/2024;Cliente_10013;PR;Internet Banking;Empréstimo Empresarial PJ;427066,71;0,1978;24;749;18296,49;45;Atraso Crítico (31-90d)
+CTR-50514;2023-06-02;Cliente_10014;PE;Internet Banking;Financiamento Veicular;32412,19;0,2265;24;673;33090,74;5;Atraso Curto (1-30d)
+CTR-50515;2024-07-23;Cliente_10015;SP;App Mobile;Empréstimo Empresarial PJ;269694,4;0,1219;60;733;19211,4;0;Em Dia
+CTR-50516;2023-02-13;Cliente_10016;pr;App Mobile;Credito Pessoal;17551,03;0,3739;12;760;31879,55;0;Em Dia
+CTR-50517;27/01/2023;Cliente_10017; SC ;Agência Física;Empréstimo Empresarial PJ;375538,29;0,2147;12;492;3034,78;0;Em Dia
+CTR-50518;09/08/2025;Cliente_10018;BA;Internet Banking;Financiamento Imobiliário;351249,41;0,1045;360;658;7725,52;20;Atraso Curto (1-30d)
+CTR-50519;2024-02-29;Cliente_10019;CE;Agência Física;Cartão de Credito rotativo;13516,04;0,7242;36;557;10784,33;0;Em Dia
+CTR-50520;2025-05-25;Cliente_10020;DF;Internet Banking;Cartão de Credito rotativo;10340,85;0,7912;60;437;11837,21;45;Atraso Crítico (31-90d)
+CTR-50521;19/07/2023;Cliente_10021;CE;Correspondente Bancário;Financiamento Imobiliário;776269,53;0,138;24;367;32294,66;95;Inadimplente / NPL (>90d)
+CTR-50522;2025-02-21;Cliente_10022;DF;Internet Banking;crédito pessoal;20111,81;0,2763;60;401;28487,11;15;Atraso Curto (1-30d)
+CTR-50523;2025-05-05;Cliente_10023; RJ ;Agência Física;Credito Pessoal;14732,44;0,3329;60;626;17586,17;0;Em Dia
+CTR-50524;23/01/2024;Cliente_10024;es;Internet Banking;Financiamento Veicular;116612,21;0,156;36;466;30440,42;95;Inadimplente / NPL (>90d)
+CTR-50525;22/03/2024;Cliente_10025;PR;Internet Banking;Cartão de Credito rotativo;2311,24;0,8275;48;368;3636,46;45;Atraso Crítico (31-90d)
+CTR-50526;12/01/2023;Cliente_10026;MG;Correspondente Bancário;Cartão de Credito rotativo;8181,66;0,8086;24;421;15247,4;0;Em Dia
+CTR-50527;2023-08-05;Cliente_10027;GO;Agência Física;Cartão de Credito rotativo;15880,82;0,7893;60;397;33678,13;120;Inadimplente / NPL (>90d)
+CTR-50528;15/04/2024;Cliente_10028;RS;Internet Banking;Financiamento Veicular;75922,24;0,2683;36;399;21895,19;15;Atraso Curto (1-30d)
+CTR-50529;2025-03-14;Cliente_10029;PR;Agência Física;Empréstimo Empresarial PJ;392305,23;0,233;36;549;25585,72;0;Em Dia
+CTR-50530;2023-10-11;Cliente_10030;PR;App Mobile;Empréstimo Empresarial PJ;182600,33;0,1529;12;660;22997,2;95;Inadimplente / NPL (>90d)
+CTR-50531;2023-03-08;Cliente_10031;RJ;Internet Banking;Financiamento Imobiliário;292327,31;0,1101;60;686;16104,78;5;Atraso Curto (1-30d)
+CTR-50532;2024-01-31;Cliente_10032;rj;Internet Banking;Financiamento Veicular;97360,47;0,2454;60;684;9745,16;0;Em Dia
+CTR-50533;22/11/2024;Cliente_10033;PR;Correspondente Bancário;Financiamento Veicular;101171,01;0,155;36;801;31492,83;0;Em Dia
+CTR-50534;2024-05-18;Cliente_10034;DF;App Mobile;Financiamento Imobiliário;755299,36;0,1049;72;800;22781,04;0;Em Dia
+CTR-50535;2025-06-21;Cliente_10035; BA ;Internet Banking;Financiamento Imobiliário;483452,88;0,1354;24;416;5738,47;95;Inadimplente / NPL (>90d)
+CTR-50536;2023-02-10;Cliente_10036;CE;Agência Física;Empréstimo Empresarial PJ;485635,85;0,1601;12;730;22594,48;45;Atraso Crítico (31-90d)
+CTR-50537;12/09/2024;Cliente_10037;pr;Correspondente Bancário;Financiamento Imobiliário;502697,24;0,1303;48;848;26946,66;45;Atraso Crítico (31-90d)
+CTR-50538;2025-04-23;Cliente_10038; RS ;Internet Banking;Cartão de Credito rotativo;19646,77;0,5586;48;435;27471,7;0;Em Dia
+CTR-50539;26/12/2024;Cliente_10039;MG;Agência Física;financiamento imobiliário;374809,88;0,0934;120;486;11582,1;15;Atraso Curto (1-30d)
+CTR-50540;2024-05-03;Cliente_10040;es;Agência Física;Financiamento Veicular;176046,9;0,245;12;658;6317,51;45;Atraso Crítico (31-90d)
+CTR-50541;26/08/2025;Cliente_10041;DF;App Mobile;Financiamento Veicular;38328,7;0,1963;36;320;31837,16;0;Em Dia
+CTR-50542;21/07/2024;Cliente_10042;RS;Agência Física;Empréstimo Empresarial PJ;82022,48;0,1619;48;430;22739,24;0;Em Dia
+CTR-50543;12/10/2023;Cliente_10043;ES;App Mobile;Empréstimo Empresarial PJ;243531,42;0,2302;60;567;27828,25;10;Atraso Curto (1-30d)
+CTR-50544;19/05/2025;Cliente_10044;BA;Correspondente Bancário;Cartão de Credito rotativo;1628,28;0,8415;48;741;25839,52;0;Em Dia
+CTR-50545;23/01/2025;Cliente_10045;DF;Internet Banking;Credito Pessoal;26553,52;0,363;36;499;15880,59;15;Atraso Curto (1-30d)
+CTR-50546;2023-05-11;Cliente_10046;SP;Correspondente Bancário;Cartão de Credito rotativo;6019,75;0,8061;24;683;15163,34;0;Em Dia
+CTR-50547;24/08/2025;Cliente_10047;RS;Correspondente Bancário;Financiamento Veicular;93973,74;0,1679;60;447;16428,1;120;Inadimplente / NPL (>90d)
+CTR-50548;28/02/2023;Cliente_10048;RJ;Agência Física;Cartão de Credito rotativo;3471,83;0,641;48;729;22703,54;5;Atraso Curto (1-30d)
+CTR-50549;2024-07-28;Cliente_10049;rs;Agência Física;Financiamento Veicular;78896,65;0,2312;12;486;18183,43;95;Inadimplente / NPL (>90d)
+CTR-50550;17/01/2025;Cliente_10050; BA ;Correspondente Bancário;Financiamento Imobiliário;190691,81;0,1004;12;695;18726,61;0;Em Dia
+CTR-50551;2023-09-11;Cliente_10051; GO ;App Mobile;Empréstimo Empresarial PJ;137221,71;0,248;48;724;14463,62;0;Em Dia
+CTR-50552;2024-03-01;Cliente_10052;SP;Agência Física;empréstimo empresarial pj;242781,91;0,1384;48;467;18371,48;45;Atraso Crítico (31-90d)
+CTR-50553;2025-01-14;Cliente_10053;BA;Correspondente Bancário;Cartão de Credito rotativo;12468,78;0,6327;12;560;7596,08;0;Em Dia
+CTR-50554;2025-05-15;Cliente_10054;PE;Agência Física;Cartão de Credito rotativo;13889,92;0,7564;60;466;7492,33;45;Atraso Crítico (31-90d)
+CTR-50555;2025-07-12;Cliente_10055;ES;Internet Banking;Financiamento Imobiliário;249790,67;0,1301;24;638;12123,93;0;Em Dia
+CTR-50556;21/02/2023;Cliente_10056;GO;Internet Banking;Credito Pessoal;32621,92;0,4023;60;415;23630,54;0;Em Dia
+CTR-50557;2025-06-15;Cliente_10057;sc;Internet Banking;Cartão de Credito rotativo;8452,82;0,5497;24;452;18884,16;15;Atraso Curto (1-30d)
+CTR-50558;2024-04-29;Cliente_10058; ES ;Internet Banking;Financiamento Imobiliário;590406,89;0,119;72;721;33667,9;0;Em Dia
+CTR-50559;05/01/2025;Cliente_10059;rs;App Mobile;Credito Pessoal;8070,32;0,4046;24;495;30155,03;15;Atraso Curto (1-30d)
+CTR-50560;12/04/2024;Cliente_10060;GO;Internet Banking;Empréstimo Empresarial PJ;239131,65;0,1322;24;690;16951,68;15;Atraso Curto (1-30d)
+CTR-50561;2023-07-12;Cliente_10061;ES;Agência Física;Financiamento Imobiliário;653494,96;0,1361;60;502;22580,42;0;Em Dia
+CTR-50562;2023-07-08;Cliente_10062;PE;Internet Banking;cartão de crédito rotativo;5512,38;0,5287;12;754;29672,22;0;Em Dia
+CTR-50563;2023-02-25;Cliente_10063;MG;Correspondente Bancário;Cartão de Credito rotativo;8638,14;0,6664;48;568;14497,82;0;Em Dia
+CTR-50564;2023-10-09;Cliente_10064;CE;App Mobile;Financiamento Imobiliário;674063,92;0,1226;72;729;5040,47;15;Atraso Curto (1-30d)
+CTR-50565;2023-08-17;Cliente_10065;PR;Agência Física;Credito Pessoal;21368,02;0,3477;48;626;15906,54;35;Atraso Crítico (31-90d)
+CTR-50566;25/12/2024;Cliente_10066;ES;App Mobile;Cartão de Credito rotativo;6260,23;0,6143;48;368;11818,89;45;Atraso Crítico (31-90d)
+CTR-50567;2024-11-16;Cliente_10067;ES;Correspondente Bancário;Cartão de Credito rotativo;13603,13;0,8377;60;594;23955,88;10;Atraso Curto (1-30d)
+CTR-50568;18/08/2023;Cliente_10068;RS;App Mobile;Financiamento Veicular;67331,83;0,173;24;585;24516,37;10;Atraso Curto (1-30d)
+CTR-50569;30/11/2024;Cliente_10069;RJ;Correspondente Bancário;Financiamento Imobiliário;861831,43;0,0894;360;554;22340,52;10;Atraso Curto (1-30d)
+CTR-50570;21/02/2025;Cliente_10070;BA;Agência Física;Financiamento Imobiliário;439606,62;0,1378;60;698;30887,02;0;Em Dia
+CTR-50571;15/11/2024;Cliente_10071;df;Internet Banking;Cartão de Credito rotativo;2394,71;0,5817;60;754;30474,57;0;Em Dia
+CTR-50572;2024-04-20;Cliente_10072;GO;App Mobile;Financiamento Imobiliário;748498,75;0,1358;60;593;7235,53;15;Atraso Curto (1-30d)
+CTR-50573;05/03/2025;Cliente_10073;ES;App Mobile;Cartão de Credito rotativo;10415,18;0,7416;36;764;26971,38;0;Em Dia
+CTR-50574;27/06/2024;Cliente_10074;SC;Correspondente Bancário;Empréstimo Empresarial PJ;209252,72;0,1775;48;635;4370,86;95;Inadimplente / NPL (>90d)
+CTR-50575;06/09/2024;Cliente_10075;SP;Correspondente Bancário;Cartão de Credito rotativo;19201,19;0,806;12;528;32832,6;0;Em Dia
+CTR-50576;2024-11-20;Cliente_10076;rs;Correspondente Bancário;Financiamento Veicular;44572,74;0,2272;12;401;26966,84;45;Atraso Crítico (31-90d)
+CTR-50577;2024-08-02;Cliente_10077;ES;App Mobile;Financiamento Veicular;51466,3;0,2062;12;359;24128,39;15;Atraso Curto (1-30d)
+CTR-50578;20/09/2023;Cliente_10078;BA;Correspondente Bancário;Credito Pessoal;28444,23;0,2104;24;456;10135,45;0;Em Dia
+CTR-50579;08/03/2025;Cliente_10079;DF;Agência Física;empréstimo empresarial pj;225043,44;0,1548;48;416;14040,53;45;Atraso Crítico (31-90d)
+CTR-50580;06/03/2025;Cliente_10080;BA;App Mobile;Cartão de Credito rotativo;2224,33;0,5127;48;698;24522,04;0;Em Dia
+CTR-50581;2023-09-04;Cliente_10081;RS;Correspondente Bancário;empréstimo empresarial pj;94169,55;0,2139;12;455;17802,62;0;Em Dia
+CTR-50582;20/06/2024;Cliente_10082;RJ;App Mobile;Financiamento Veicular;123840,12;0,2044;60;666;34486,19;0;Em Dia
+CTR-50583;24/05/2024;Cliente_10083;MG;Internet Banking;Financiamento Imobiliário;334302,34;0,1018;360;724;28935,42;0;Em Dia
+CTR-50584;2024-09-04;Cliente_10084; BA ;Correspondente Bancário;Empréstimo Empresarial PJ;144385,18;0,1223;48;509;23290,58;0;Em Dia
+CTR-50585;2025-05-11;Cliente_10085;BA;Correspondente Bancário;Empréstimo Empresarial PJ;334987,2;0,1582;48;483;8004,66;15;Atraso Curto (1-30d)
+CTR-50586;2025-03-09;Cliente_10086;PE;Agência Física;Empréstimo Empresarial PJ;429144,77;0,2257;60;608;6265,8;95;Inadimplente / NPL (>90d)
+CTR-50587;2023-08-23;Cliente_10087;BA;Internet Banking;Empréstimo Empresarial PJ;76560,34;0,1586;60;755;10629,84;0;Em Dia
+CTR-50588;03/04/2025;Cliente_10088;CE;Agência Física;financiamento veicular;128878,13;0,2392;12;613;22891,85;0;Em Dia
+CTR-50589;2025-04-27;Cliente_10089;SC;App Mobile;Financiamento Veicular;56609,53;0,263;48;730;5462,55;5;Atraso Curto (1-30d)
+CTR-50590;2023-09-03;Cliente_10090;PE;App Mobile;Credito Pessoal;2421,45;0,4472;60;485;9564,18;45;Atraso Crítico (31-90d)
+CTR-50591;08/05/2023;Cliente_10091; RJ ;Internet Banking;Cartão de Credito rotativo;19814,3;0,5874;24;841;22280,81;0;Em Dia
+CTR-50592;28/10/2024;Cliente_10092;BA;Internet Banking;Financiamento Imobiliário;151518,93;0,1227;120;681;13164,94;0;Em Dia
+CTR-50593;2023-07-11;Cliente_10093;RS;App Mobile;Financiamento Veicular;145609,39;0,2039;48;546;19391,04;90;Atraso Crítico (31-90d)
+CTR-50594;2025-06-23;Cliente_10094;PR;Correspondente Bancário;cartão de crédito rotativo;6368,79;0,7671;48;565;4376,48;0;Em Dia
+CTR-50595;30/07/2023;Cliente_10095;MG;App Mobile;Financiamento Veicular;167065,27;0,2454;12;822;31772,44;45;Atraso Crítico (31-90d)
+CTR-50596;2023-09-14;Cliente_10096;BA;Correspondente Bancário;Financiamento Veicular;55151,33;0,1447;24;632;15288,07;0;Em Dia
+CTR-50597;2024-12-08;Cliente_10097;GO;App Mobile;Financiamento Imobiliário;537210,31;0,1309;360;539;9240,93;95;Inadimplente / NPL (>90d)
+CTR-50598;15/10/2023;Cliente_10098;SP;App Mobile;Cartão de Credito rotativo;9752,19;0,4804;60;413;25805,59;45;Atraso Crítico (31-90d)
+CTR-50599;17/08/2023;Cliente_10099;SC;Agência Física;Financiamento Imobiliário;732425,4;0,1337;48;791;27354,83;45;Atraso Crítico (31-90d)
+CTR-50600;30/04/2025;Cliente_10100;PR;Agência Física;Financiamento Imobiliário;507282,03;0,1105;12;799;4935,34;15;Atraso Curto (1-30d)
+CTR-50601;2023-07-17;Cliente_10101;rj;Correspondente Bancário;Empréstimo Empresarial PJ;151233,82;0,1495;60;588;3020,94;15;Atraso Curto (1-30d)
+CTR-50602;14/10/2024;Cliente_10102;mg;Agência Física;Financiamento Imobiliário;550086,89;0,1264;60;643;31567,99;35;Atraso Crítico (31-90d)
+CTR-50603;28/02/2024;Cliente_10103; GO ;Agência Física;Credito Pessoal;11936,8;0,3823;48;664;12554,43;0;Em Dia
+CTR-50604;2024-07-27;Cliente_10104;RS;Agência Física;crédito pessoal;15989,08;0,2154;48;361;4134,76;15;Atraso Curto (1-30d)
+CTR-50605;2025-03-26;Cliente_10105;ES;Agência Física;Financiamento Imobiliário;779596,97;0,1045;60;621;13865,45;45;Atraso Crítico (31-90d)
+CTR-50606;2024-07-17;Cliente_10106;DF;App Mobile;Cartão de Credito rotativo;2091,79;0,6229;12;509;27823,13;10;Atraso Curto (1-30d)
+CTR-50607;2023-01-05;Cliente_10107;RS;Agência Física;Financiamento Imobiliário;223275,27;0,1272;48;825;3970,39;95;Inadimplente / NPL (>90d)
+CTR-50608;2025-05-13;Cliente_10108;BA;Agência Física;Empréstimo Empresarial PJ;409599,94;0,1543;60;681;22806,73;0;Em Dia
+CTR-50609;04/01/2024;Cliente_10109;sp;Correspondente Bancário;Financiamento Imobiliário;829737,51;0,1092;72;482;32475,57;45;Atraso Crítico (31-90d)
+CTR-50610;04/03/2025;Cliente_10110; GO ;Correspondente Bancário;Cartão de Credito rotativo;11275,07;0,6358;12;554;12354,94;0;Em Dia
+CTR-50611;12/03/2023;Cliente_10111; DF ;Internet Banking;financiamento imobiliário;304910,95;0,1028;48;517;19833,69;0;Em Dia
+CTR-50612;28/05/2023;Cliente_10112;go;App Mobile;Empréstimo Empresarial PJ;159480,24;0,1566;12;602;13851,29;15;Atraso Curto (1-30d)
+CTR-50613;10/02/2023;Cliente_10113;PR;App Mobile;crédito pessoal;16031,65;0,2304;60;528;25463,91;10;Atraso Curto (1-30d)
+CTR-50614;2024-05-22;Cliente_10114;RS;Correspondente Bancário;empréstimo empresarial pj;219275,6;0,1312;48;336;7223,52;45;Atraso Crítico (31-90d)
+CTR-50615;31/01/2023;Cliente_10115;PR;Internet Banking;Financiamento Veicular;135131,18;0,2184;12;811;3186,82;15;Atraso Curto (1-30d)
+CTR-50616;16/01/2024;Cliente_10116;GO;Agência Física;Financiamento Imobiliário;369777,65;0,125;24;550;27174,77;15;Atraso Curto (1-30d)
+CTR-50617;2024-04-24;Cliente_10117;PR;Agência Física;Empréstimo Empresarial PJ;294260,69;0,121;48;577;16325,65;15;Atraso Curto (1-30d)
+CTR-50618;2023-03-24;Cliente_10118;pe;Correspondente Bancário;Financiamento Veicular;89402,17;0,2261;60;401;23980,72;120;Inadimplente / NPL (>90d)
+CTR-50619;22/02/2025;Cliente_10119;CE;Agência Física;Cartão de Credito rotativo;11720,5;0,6104;48;548;11837,07;10;Atraso Curto (1-30d)
+CTR-50620;02/06/2024;Cliente_10120;MG;Agência Física;Credito Pessoal;25125,36;0,2128;48;574;4937,56;10;Atraso Curto (1-30d)
+CTR-50621;2024-05-05;Cliente_10121;DF;App Mobile;Credito Pessoal;5765,35;0,2502;36;617;20581,12;10;Atraso Curto (1-30d)
+CTR-50622;2024-05-05;Cliente_10122;GO;Agência Física;Cartão de Credito rotativo;1726,88;0,6419;60;453;4871,71;15;Atraso Curto (1-30d)
+CTR-50623;2025-08-01;Cliente_10123;PR;App Mobile;financiamento imobiliário;202595,14;0,1391;36;621;16073,94;35;Atraso Crítico (31-90d)
+CTR-50624;2023-12-03;Cliente_10124;pe;Internet Banking;Cartão de Credito rotativo;13319,99;0,5342;12;616;7305,27;0;Em Dia
+CTR-50625;2023-12-08;Cliente_10125;sc;App Mobile;Credito Pessoal;15334,53;0,2454;60;522;17485,81;10;Atraso Curto (1-30d)
+CTR-50626;11/05/2023;Cliente_10126;RS;App Mobile;Credito Pessoal;18072,05;0,2343;36;676;31646,36;0;Em Dia
+CTR-50627;2023-06-29;Cliente_10127;rs;Internet Banking;Financiamento Imobiliário;691425,44;0,0989;24;496;34899,84;15;Atraso Curto (1-30d)
+CTR-50628;30/03/2024;Cliente_10128;RS;Internet Banking;Empréstimo Empresarial PJ;307634,12;0,1709;36;792;25313,42;0;Em Dia
+CTR-50629;27/08/2023;Cliente_10129;ES;Agência Física;Financiamento Veicular;30629,15;0,2281;60;658;21066,8;0;Em Dia
+CTR-50630;2025-02-21;Cliente_10130;SC;Correspondente Bancário;Credito Pessoal;17166,81;0,2465;36;356;26067,15;95;Inadimplente / NPL (>90d)
+CTR-50631;27/06/2023;Cliente_10131;SP;App Mobile;Financiamento Imobiliário;469278,72;0,1137;24;847;13527,01;15;Atraso Curto (1-30d)
+CTR-50632;2024-10-01;Cliente_10132; GO ;Internet Banking;Financiamento Imobiliário;618802,25;0,1032;12;356;33904,1;15;Atraso Curto (1-30d)
+CTR-50633;29/04/2025;Cliente_10133;MG;Internet Banking;Credito Pessoal;20441,16;0,4136;36;521;16721,05;90;Atraso Crítico (31-90d)
+CTR-50634;20/11/2023;Cliente_10134;MG;App Mobile;Financiamento Imobiliário;648015,97;0,0981;12;796;33397,39;15;Atraso Curto (1-30d)
+CTR-50635;2023-03-18;Cliente_10135;BA;Correspondente Bancário;Credito Pessoal;14963,2;0,3883;60;656;6531,66;0;Em Dia
+CTR-50636;2024-11-20;Cliente_10136;PE;Internet Banking;Financiamento Veicular;159123,57;0,1683;12;816;23373,02;45;Atraso Crítico (31-90d)
+CTR-50637;08/04/2025;Cliente_10137;RJ;Agência Física;Financiamento Imobiliário;944672,66;0,1258;72;796;16361,54;95;Inadimplente / NPL (>90d)
+CTR-50638;2023-08-02;Cliente_10138;DF;Internet Banking;Credito Pessoal;10797,61;0,4033;60;473;9375,37;0;Em Dia
+CTR-50639;2025-05-11;Cliente_10139;PR;Correspondente Bancário;Financiamento Imobiliário;270042,16;0,0908;72;333;5712,36;120;Inadimplente / NPL (>90d)
+CTR-50640;2023-07-14;Cliente_10140;SP;Internet Banking;Cartão de Credito rotativo;1521,84;0,7644;48;407;8060,42;95;Inadimplente / NPL (>90d)
+CTR-50641;19/07/2024;Cliente_10141;DF;App Mobile;Credito Pessoal;13487,96;0,2706;24;473;3213,29;0;Em Dia
+CTR-50642;2025-06-11;Cliente_10142;MG;App Mobile;Empréstimo Empresarial PJ;450532,09;0,1685;12;611;14860,5;95;Inadimplente / NPL (>90d)
+CTR-50643;01/04/2023;Cliente_10143;pr;Internet Banking;empréstimo empresarial pj;270854,94;0,1904;36;427;14792,86;120;Inadimplente / NPL (>90d)
+CTR-50644;2025-07-08;Cliente_10144; SC ;Agência Física;financiamento imobiliário;633900,05;0,1395;360;620;23682,44;0;Em Dia
+CTR-50645;01/07/2025;Cliente_10145;RS;Agência Física;Financiamento Veicular;59553,7;0,1476;36;551;28042,97;10;Atraso Curto (1-30d)
+CTR-50646;2024-02-24;Cliente_10146;SP;App Mobile;Financiamento Imobiliário;906002,6;0,127;12;395;12895,24;0;Em Dia
+CTR-50647;23/12/2023;Cliente_10147;RJ;Agência Física;Empréstimo Empresarial PJ;346878,76;0,167;24;611;10216,35;95;Inadimplente / NPL (>90d)
+CTR-50648;04/10/2023;Cliente_10148;CE;Correspondente Bancário;Credito Pessoal;5761,46;0,246;12;631;20642,83;90;Atraso Crítico (31-90d)
+CTR-50649;2025-04-16;Cliente_10149;PR;Internet Banking;Financiamento Imobiliário;488412,95;0,0864;48;426;8091,62;120;Inadimplente / NPL (>90d)
+CTR-50650;2025-01-06;Cliente_10150;PR;Internet Banking;Financiamento Imobiliário;620014,73;0,1207;36;349;34223,29;15;Atraso Curto (1-30d)
+CTR-50651;2025-07-07;Cliente_10151;CE;Correspondente Bancário;Cartão de Credito rotativo;7128,54;0,833;48;347;27415,78;15;Atraso Curto (1-30d)
+CTR-50652;2024-06-03;Cliente_10152;RJ;Internet Banking;Empréstimo Empresarial PJ;263410,71;0,2231;48;661;17465,44;15;Atraso Curto (1-30d)
+CTR-50653;15/05/2025;Cliente_10153; BA ;Correspondente Bancário;Empréstimo Empresarial PJ;173531,09;0,1214;36;420;32731,43;120;Inadimplente / NPL (>90d)
+CTR-50654;15/08/2025;Cliente_10154;CE;App Mobile;Credito Pessoal;34761,01;0,2745;60;401;7557,86;15;Atraso Curto (1-30d)
+CTR-50655;2025-04-05;Cliente_10155;GO;Agência Física;Financiamento Veicular;133897,62;0,2047;36;841;13139,63;0;Em Dia
+CTR-50656;2024-04-14;Cliente_10156;RJ;Agência Física;Credito Pessoal;12588,82;0,2425;24;787;16632,57;0;Em Dia
+CTR-50657;08/07/2023;Cliente_10157;SP;Agência Física;Financiamento Imobiliário;331064,79;0,1107;120;332;4334,14;15;Atraso Curto (1-30d)
+CTR-50658;26/08/2025;Cliente_10158;PE;App Mobile;crédito pessoal;24905,51;0,3847;12;778;23376,98;0;Em Dia
+CTR-50659;2023-07-03;Cliente_10159;SP;Correspondente Bancário;Cartão de Credito rotativo;2157,5;0,8159;36;721;19939,94;0;Em Dia
+CTR-50660;05/02/2023;Cliente_10160;PR;Correspondente Bancário;Financiamento Imobiliário;370047,23;0,0854;12;785;28214,75;15;Atraso Curto (1-30d)
+CTR-50661;2023-08-02;Cliente_10161;SC;Agência Física;Cartão de Credito rotativo;5225,59;0,7288;48;802;34260,92;5;Atraso Curto (1-30d)
+CTR-50662;08/06/2024;Cliente_10162;DF;App Mobile;Financiamento Veicular;57590,79;0,2495;36;612;19587,33;90;Atraso Crítico (31-90d)
+CTR-50663;2023-05-31;Cliente_10163; RS ;Correspondente Bancário;Financiamento Veicular;50076,95;0,2734;48;574;27470,07;35;Atraso Crítico (31-90d)
+CTR-50664;2023-02-19;Cliente_10164;pe;App Mobile;Empréstimo Empresarial PJ;112632,89;0,1714;36;776;21722,39;0;Em Dia
+CTR-50665;2025-05-10;Cliente_10165;ce;Agência Física;Empréstimo Empresarial PJ;261874,65;0,2325;60;456;19449,63;45;Atraso Crítico (31-90d)
+CTR-50666;16/05/2025;Cliente_10166;SC;Internet Banking;Empréstimo Empresarial PJ;119012,43;0,2073;36;375;34628,3;0;Em Dia
+CTR-50667;15/01/2024;Cliente_10167; DF ;App Mobile;Financiamento Imobiliário;750343,34;0,1365;360;652;19963,03;0;Em Dia
+CTR-50668;19/11/2024;Cliente_10168;GO;App Mobile;Financiamento Imobiliário;441261,15;0,1157;48;368;23292,73;95;Inadimplente / NPL (>90d)
+CTR-50669;25/01/2025;Cliente_10169; GO ;App Mobile;financiamento veicular;152528,32;0,2691;12;816;17454,57;0;Em Dia
+CTR-50670;10/04/2023;Cliente_10170;SC;Internet Banking;Financiamento Veicular;116822,9;0,1465;12;746;9529,45;120;Inadimplente / NPL (>90d)
+CTR-50671;2024-03-07;Cliente_10171;ES;Correspondente Bancário;Financiamento Imobiliário;622395,49;0,1188;360;327;17563,01;95;Inadimplente / NPL (>90d)
+CTR-50672;2025-04-13;Cliente_10172;ES;Correspondente Bancário;Cartão de Credito rotativo;8337,59;0,6092;24;533;11362,57;10;Atraso Curto (1-30d)
+CTR-50673;2024-06-10;Cliente_10173;CE;Agência Física;Financiamento Imobiliário;255210,04;0,1265;36;374;8231,0;15;Atraso Curto (1-30d)
+CTR-50674;2025-07-20;Cliente_10174;CE;Internet Banking;crédito pessoal;29895,56;0,4236;36;841;5547,47;0;Em Dia
+CTR-50675;16/07/2024;Cliente_10175;PR;Agência Física;empréstimo empresarial pj;72072,39;0,2363;60;771;6722,03;0;Em Dia
+CTR-50676;05/03/2023;Cliente_10176;CE;Correspondente Bancário;Credito Pessoal;32113,1;0,2271;60;462;5540,49;45;Atraso Crítico (31-90d)
+CTR-50677;24/10/2024;Cliente_10177;CE;App Mobile;Empréstimo Empresarial PJ;432851,66;0,1918;36;709;30849,37;15;Atraso Curto (1-30d)
+CTR-50678;2025-07-31;Cliente_10178;pr;Internet Banking;Financiamento Veicular;111447,72;0,2416;12;429;7813,82;15;Atraso Curto (1-30d)
+CTR-50679;2023-01-22;Cliente_10179;RJ;Correspondente Bancário;Empréstimo Empresarial PJ;347568,39;0,21;48;752;5929,88;120;Inadimplente / NPL (>90d)
+CTR-50680;2023-07-31;Cliente_10180;PE;App Mobile;Empréstimo Empresarial PJ;490752,73;0,1342;60;328;26266,75;95;Inadimplente / NPL (>90d)
+CTR-50681;24/02/2024;Cliente_10181;PR;App Mobile;Credito Pessoal;11049,5;0,2193;24;357;24336,7;45;Atraso Crítico (31-90d)
+CTR-50682;01/04/2025;Cliente_10182;CE;Internet Banking;Financiamento Imobiliário;574963,28;0,108;360;458;30973,04;120;Inadimplente / NPL (>90d)
+CTR-50683;18/05/2025;Cliente_10183;CE;App Mobile;Empréstimo Empresarial PJ;498262,25;0,2051;60;544;32470,25;0;Em Dia
+CTR-50684;2025-08-07;Cliente_10184;MG;Correspondente Bancário;cartão de crédito rotativo;13080,85;0,6528;36;400;27497,27;95;Inadimplente / NPL (>90d)
+CTR-50685;2024-06-08;Cliente_10185; BA ;Correspondente Bancário;Financiamento Imobiliário;539267,33;0,1112;360;684;12930,92;20;Atraso Curto (1-30d)
+CTR-50686;23/11/2023;Cliente_10186;SC;Correspondente Bancário;Credito Pessoal;34688,87;0,2538;24;841;13808,28;0;Em Dia
+CTR-50687;2025-05-16;Cliente_10187;PR;App Mobile;Financiamento Veicular;76094,26;0,1894;60;375;9273,9;15;Atraso Curto (1-30d)
+CTR-50688;16/04/2024;Cliente_10188;PR;App Mobile;Credito Pessoal;8394,74;0,2997;24;463;5256,76;15;Atraso Curto (1-30d)
+CTR-50689;26/10/2024;Cliente_10189;pe;Internet Banking;Financiamento Imobiliário;368820,73;0,0874;36;373;12972,73;0;Em Dia
+CTR-50690;03/02/2023;Cliente_10190;PR;Correspondente Bancário;Cartão de Credito rotativo;17454,18;0,4656;60;739;3066,47;5;Atraso Curto (1-30d)
+CTR-50691;12/05/2023;Cliente_10191;BA;Internet Banking;Financiamento Veicular;166491,25;0,2338;36;582;28707,0;0;Em Dia
+CTR-50692;2025-05-17;Cliente_10192;SP;Agência Física;Credito Pessoal;22934,92;0,3086;48;536;9924,76;10;Atraso Curto (1-30d)
+CTR-50693;2023-03-12;Cliente_10193;PE;Internet Banking;Credito Pessoal;2075,97;0,3893;36;786;13125,87;5;Atraso Curto (1-30d)
+CTR-50694;17/03/2024;Cliente_10194;BA;Internet Banking;Credito Pessoal;14219,78;0,2872;12;609;34690,82;10;Atraso Curto (1-30d)
+CTR-50695;12/08/2023;Cliente_10195; DF ;Agência Física;Cartão de Credito rotativo;10727,63;0,7416;36;720;22075,35;5;Atraso Curto (1-30d)
+CTR-50696;17/01/2025;Cliente_10196;ES;App Mobile;Cartão de Credito rotativo;19179,68;0,6637;24;485;5106,4;45;Atraso Crítico (31-90d)
+CTR-50697;08/02/2025;Cliente_10197;SC;Correspondente Bancário;Empréstimo Empresarial PJ;487210,77;0,1755;48;434;8797,76;0;Em Dia
+CTR-50698;2023-07-03;Cliente_10198;RJ;Correspondente Bancário;Financiamento Imobiliário;210270,63;0,0878;12;786;33714,94;0;Em Dia
+CTR-50699;2025-02-26;Cliente_10199;rs;Correspondente Bancário;Empréstimo Empresarial PJ;205117,98;0,1223;24;790;16273,31;15;Atraso Curto (1-30d)
+CTR-50700;23/12/2024;Cliente_10200;RJ;Correspondente Bancário;crédito pessoal;25697,75;0,3272;12;514;26916,1;10;Atraso Curto (1-30d)
+CTR-50701;13/09/2023;Cliente_10201; GO ;Correspondente Bancário;Empréstimo Empresarial PJ;442508,46;0,1843;60;444;27322,1;95;Inadimplente / NPL (>90d)
+CTR-50702;2025-03-26;Cliente_10202;SC;Agência Física;Cartão de Credito rotativo;5371,16;0,675;36;350;4512,23;45;Atraso Crítico (31-90d)
+CTR-50703;2025-06-02;Cliente_10203;CE;Correspondente Bancário;Financiamento Imobiliário;420748,09;0,0985;12;361;9597,65;0;Em Dia
+CTR-50704;06/09/2023;Cliente_10204;SC;Correspondente Bancário;Financiamento Veicular;158226,02;0,1408;12;514;3283,32;15;Atraso Curto (1-30d)
+CTR-50705;15/06/2025;Cliente_10205;MG;App Mobile;cartão de crédito rotativo;14771,15;0,6182;60;498;5900,34;45;Atraso Crítico (31-90d)
+CTR-50706;19/01/2023;Cliente_10206;sp;Internet Banking;Cartão de Credito rotativo;15808,74;0,4987;60;820;24238,07;20;Atraso Curto (1-30d)
+CTR-50707;01/06/2025;Cliente_10207;MG;Correspondente Bancário;Financiamento Veicular;123986,32;0,142;24;432;5670,8;45;Atraso Crítico (31-90d)
+CTR-50708;11/06/2023;Cliente_10208; PE ;Correspondente Bancário;cartão de crédito rotativo;11679,13;0,7508;12;475;14512,93;95;Inadimplente / NPL (>90d)
+CTR-50709;2025-04-05;Cliente_10209;RS;App Mobile;Cartão de Credito rotativo;5118,62;0,8461;24;691;7650,56;0;Em Dia
+CTR-50710;2024-01-14;Cliente_10210;RJ;App Mobile;Financiamento Veicular;86674,1;0,2704;36;346;4953,83;0;Em Dia
+CTR-50711;2023-10-17;Cliente_10211;ES;Agência Física;Credito Pessoal;34002,85;0,2374;60;484;31404,91;0;Em Dia
+CTR-50712;2025-04-28;Cliente_10212;ES;App Mobile;Cartão de Credito rotativo;17946,08;0,7163;60;652;13336,18;5;Atraso Curto (1-30d)
+CTR-50713;27/11/2024;Cliente_10213;DF;Internet Banking;Financiamento Veicular;112476,29;0,2108;36;625;16833,63;10;Atraso Curto (1-30d)
+CTR-50714;26/02/2025;Cliente_10214;PR;Correspondente Bancário;Financiamento Imobiliário;221794,83;0,0864;36;326;21967,61;95;Inadimplente / NPL (>90d)
+CTR-50715;31/07/2025;Cliente_10215;BA;Internet Banking;Cartão de Credito rotativo;12066,84;0,7687;60;672;32650,11;0;Em Dia
+CTR-50716;15/12/2024;Cliente_10216;SP;Correspondente Bancário;Empréstimo Empresarial PJ;422543,84;0,2076;36;525;29054,08;0;Em Dia
+CTR-50717;2023-02-18;Cliente_10217;BA;App Mobile;Financiamento Veicular;148711,42;0,2766;36;615;18456,97;10;Atraso Curto (1-30d)
+CTR-50718;2023-09-08;Cliente_10218;PE;App Mobile;Cartão de Credito rotativo;2849,47;0,5273;60;686;7822,86;0;Em Dia
+CTR-50719;2023-09-05;Cliente_10219;DF;Agência Física;Financiamento Veicular;54091,77;0,1636;24;830;19100,39;5;Atraso Curto (1-30d)
+CTR-50720;2025-04-06;Cliente_10220;SC;Internet Banking;financiamento veicular;172682,14;0,2255;36;647;7349,4;45;Atraso Crítico (31-90d)
+CTR-50721;02/04/2024;Cliente_10221;sc;Internet Banking;Financiamento Imobiliário;449880,38;0,128;60;438;6774,12;15;Atraso Curto (1-30d)
+CTR-50722;2024-07-02;Cliente_10222; BA ;Internet Banking;Cartão de Credito rotativo;7065,25;0,5417;60;454;16670,59;0;Em Dia
+CTR-50723;2024-02-25;Cliente_10223;ES;App Mobile;crédito pessoal;22642,76;0,278;48;475;30875,4;15;Atraso Curto (1-30d)
+CTR-50724;2023-02-04;Cliente_10224; ES ;App Mobile;Credito Pessoal;25886,0;0,354;12;632;16100,0;10;Atraso Curto (1-30d)
+CTR-50725;20/11/2024;Cliente_10225;MG;Internet Banking;Financiamento Imobiliário;745541,09;0,1237;120;426;17363,97;120;Inadimplente / NPL (>90d)
+CTR-50726;2025-01-02;Cliente_10226;CE;Internet Banking;financiamento veicular;145314,39;0,2348;60;708;17548,11;0;Em Dia
+CTR-50727;2023-09-23;Cliente_10227;mg;Agência Física;Financiamento Imobiliário;664166,39;0,1185;36;521;29045,48;45;Atraso Crítico (31-90d)
+CTR-50728;2024-06-25;Cliente_10228;RJ;App Mobile;Financiamento Imobiliário;517256,18;0,0956;120;396;19273,76;95;Inadimplente / NPL (>90d)
+CTR-50729;2024-08-21;Cliente_10229;RJ;App Mobile;Empréstimo Empresarial PJ;112799,22;0,1287;24;441;23689,01;45;Atraso Crítico (31-90d)
+CTR-50730;2024-06-06;Cliente_10230;GO;Agência Física;Credito Pessoal;3115,81;0,4262;12;667;23522,52;0;Em Dia
+CTR-50731;2024-04-11;Cliente_10231;PE;Agência Física;Cartão de Credito rotativo;4598,38;0,7151;48;694;20797,74;0;Em Dia
+CTR-50732;19/06/2025;Cliente_10232;pe;Internet Banking;Financiamento Veicular;84793,1;0,184;36;727;23161,92;5;Atraso Curto (1-30d)
+CTR-50733;29/01/2023;Cliente_10233;BA;Correspondente Bancário;Credito Pessoal;25723,18;0,4378;36;529;34947,89;10;Atraso Curto (1-30d)
+CTR-50734;24/05/2024;Cliente_10234;GO;Correspondente Bancário;Cartão de Credito rotativo;1764,93;0,6638;12;824;4955,88;0;Em Dia
+CTR-50735;2023-07-28;Cliente_10235;ES;Correspondente Bancário;Empréstimo Empresarial PJ;65796,95;0,1917;60;508;4764,69;0;Em Dia
+CTR-50736;2023-07-01;Cliente_10236;MG;App Mobile;cartão de crédito rotativo;7536,98;0,7639;24;332;11495,13;95;Inadimplente / NPL (>90d)
+CTR-50737;29/02/2024;Cliente_10237;DF;Agência Física;Empréstimo Empresarial PJ;437467,6;0,2249;60;496;22507,77;15;Atraso Curto (1-30d)
+CTR-50738;2025-02-10;Cliente_10238;BA;Internet Banking;empréstimo empresarial pj;243264,49;0,245;36;407;11484,28;15;Atraso Curto (1-30d)
+CTR-50739;16/05/2023;Cliente_10239;GO;Agência Física;Empréstimo Empresarial PJ;164023,92;0,1519;36;380;24854,17;15;Atraso Curto (1-30d)
+CTR-50740;17/02/2023;Cliente_10240;rj;Internet Banking;Cartão de Credito rotativo;3522,53;0,7946;24;700;24064,18;0;Em Dia
+CTR-50741;21/06/2025;Cliente_10241;PR;App Mobile;Cartão de Credito rotativo;6519,34;0,6905;48;496;25733,12;0;Em Dia
+CTR-50742;10/05/2025;Cliente_10242;DF;App Mobile;Credito Pessoal;14119,75;0,2307;48;460;20792,37;15;Atraso Curto (1-30d)
+CTR-50743;2025-01-28;Cliente_10243;RS;Internet Banking;Financiamento Veicular;34725,73;0,254;24;683;32358,22;0;Em Dia
+CTR-50744;2023-03-18;Cliente_10244;MG;Correspondente Bancário;Empréstimo Empresarial PJ;141274,52;0,2332;60;832;14883,5;5;Atraso Curto (1-30d)
+CTR-50745;2024-02-16;Cliente_10245;RS;Internet Banking;Financiamento Imobiliário;841816,89;0,1262;360;492;16024,53;15;Atraso Curto (1-30d)
+CTR-50746;2023-11-27;Cliente_10246;MG;Agência Física;Cartão de Credito rotativo;11498,7;0,6054;36;519;33971,17;35;Atraso Crítico (31-90d)
+CTR-50747;12/08/2025;Cliente_10247;CE;App Mobile;Credito Pessoal;10786,0;0,2351;60;802;34124,03;0;Em Dia
+CTR-50748;10/06/2024;Cliente_10248;RJ;Correspondente Bancário;Financiamento Veicular;119138,73;0,16;36;694;30128,03;0;Em Dia
+CTR-50749;18/01/2023;Cliente_10249;DF;Internet Banking;Credito Pessoal;18498,44;0,3821;48;792;9312,48;0;Em Dia
+CTR-50750;2023-01-10;Cliente_10250;PR;Internet Banking;Empréstimo Empresarial PJ;432787,99;0,2033;60;432;10379,52;0;Em Dia
+CTR-50751;2023-01-28;Cliente_10001;DF;App Mobile;Cartão de Credito rotativo;11424,09;0,7663;36;616;13812,27;90;Atraso Crítico (31-90d)
+CTR-50752;22/04/2025;Cliente_10002;go;Internet Banking;Financiamento Imobiliário;392319,17;0,096;60;323;18256,75;45;Atraso Crítico (31-90d)
+CTR-50753;22/04/2025;Cliente_10003;PE;App Mobile;Empréstimo Empresarial PJ;162133,66;0,1709;12;812;11777,04;120;Inadimplente / NPL (>90d)
+CTR-50754;10/09/2023;Cliente_10004;GO;Agência Física;Credito Pessoal;8841,86;0,4099;60;804;23547,42;0;Em Dia
+CTR-50755;2023-10-05;Cliente_10005;PE;Agência Física;Cartão de Credito rotativo;16998,61;0,5318;12;512;7786,04;0;Em Dia
+CTR-50756;03/04/2024;Cliente_10006;DF;Agência Física;Financiamento Imobiliário;378438,97;0,1085;36;420;19132,23;15;Atraso Curto (1-30d)
+CTR-50757;21/09/2023;Cliente_10007;mg;App Mobile;crédito pessoal;33457,13;0,3484;36;779;31297,25;0;Em Dia
+CTR-50758;2025-06-07;Cliente_10008;DF;Internet Banking;Financiamento Veicular;73948,25;0,1596;60;622;28322,26;10;Atraso Curto (1-30d)
+CTR-50759;05/03/2024;Cliente_10009;SP;Agência Física;crédito pessoal;30732,03;0,3364;12;561;31809,54;0;Em Dia
+CTR-50760;2025-03-20;Cliente_10010;RJ;Internet Banking;Cartão de Credito rotativo;14120,47;0,6766;24;712;7810,48;0;Em Dia
+CTR-50761;2025-06-25;Cliente_10011;PE;App Mobile;Financiamento Imobiliário;835236,16;0,0925;24;622;24837,13;45;Atraso Crítico (31-90d)
+CTR-50762;2025-08-30;Cliente_10012;GO;Agência Física;Financiamento Imobiliário;714974,88;0,1217;36;412;33966,66;15;Atraso Curto (1-30d)
+CTR-50763;2024-02-04;Cliente_10013;RJ;Internet Banking;Credito Pessoal;11091,52;0,2014;36;617;24678,0;0;Em Dia
+CTR-50764;2024-11-23;Cliente_10014;RJ;Correspondente Bancário;Financiamento Imobiliário;687092,61;0,1223;60;843;23027,62;15;Atraso Curto (1-30d)
+CTR-50765;2023-07-03;Cliente_10015;SP;Internet Banking;Financiamento Imobiliário;707056,52;0,1361;72;386;20863,97;120;Inadimplente / NPL (>90d)
+CTR-50766;02/01/2025;Cliente_10016;BA;App Mobile;crédito pessoal;6166,21;0,3544;24;598;22187,9;0;Em Dia
+CTR-50767;29/01/2024;Cliente_10017;MG;Internet Banking;Financiamento Veicular;31757,72;0,2601;36;476;31408,33;0;Em Dia
+CTR-50768;20/03/2025;Cliente_10018;ce;Agência Física;Financiamento Imobiliário;509138,41;0,107;48;544;21165,38;15;Atraso Curto (1-30d)
+CTR-50769;13/09/2023;Cliente_10019;SP;App Mobile;Empréstimo Empresarial PJ;152327,27;0,2109;24;781;6856,97;15;Atraso Curto (1-30d)
+CTR-50770;2024-10-02;Cliente_10020;ba;Internet Banking;Financiamento Veicular;98375,38;0,2643;60;632;11069,97;10;Atraso Curto (1-30d)
+CTR-50771;2024-08-03;Cliente_10021;PR;Agência Física;Financiamento Veicular;65916,13;0,1988;48;524;9556,06;10;Atraso Curto (1-30d)
+CTR-50772;09/07/2023;Cliente_10022;MG;Agência Física;Financiamento Veicular;163803,46;0,1847;48;698;24653,39;0;Em Dia
+CTR-50773;21/08/2024;Cliente_10023;PE;App Mobile;Financiamento Imobiliário;421594,66;0,128;360;730;10909,69;0;Em Dia
+CTR-50774;05/12/2023;Cliente_10024;SP;Internet Banking;Empréstimo Empresarial PJ;134134,77;0,1692;48;364;19254,58;15;Atraso Curto (1-30d)
+CTR-50775;14/05/2025;Cliente_10025;SC;Agência Física;Financiamento Imobiliário;423300,53;0,1062;72;487;23412,64;95;Inadimplente / NPL (>90d)
+CTR-50776;01/10/2024;Cliente_10026;SC;Correspondente Bancário;empréstimo empresarial pj;426189,3;0,1786;12;833;8938,72;45;Atraso Crítico (31-90d)
+CTR-50777;2025-08-27;Cliente_10027;CE;Internet Banking;Financiamento Veicular;33063,83;0,1822;12;483;16893,48;0;Em Dia
+CTR-50778;2023-08-17;Cliente_10028;RS;App Mobile;Financiamento Imobiliário;270978,59;0,0912;24;759;34132,15;0;Em Dia
+CTR-50779;2025-06-22;Cliente_10029;DF;Agência Física;Empréstimo Empresarial PJ;164498,09;0,1829;60;814;30413,74;0;Em Dia
+CTR-50780;25/09/2024;Cliente_10030; DF ;Agência Física;Financiamento Imobiliário;511825,92;0,0882;120;644;10378,92;45;Atraso Crítico (31-90d)
+CTR-50781;22/10/2024;Cliente_10031;ES;Internet Banking;Credito Pessoal;12079,58;0,3208;36;514;4222,03;10;Atraso Curto (1-30d)
+CTR-50782;02/12/2024;Cliente_10032;pe;App Mobile;Financiamento Imobiliário;336476,15;0,1051;48;734;30802,4;0;Em Dia
+CTR-50783;26/12/2023;Cliente_10033;rj;Correspondente Bancário;Financiamento Imobiliário;349841,22;0,1076;60;711;4533,95;45;Atraso Crítico (31-90d)
+CTR-50784;2024-05-25;Cliente_10034;RS;Correspondente Bancário;Financiamento Veicular;175599,92;0,2075;36;572;7807,79;15;Atraso Curto (1-30d)
+CTR-50785;21/05/2024;Cliente_10035;GO;Internet Banking;Credito Pessoal;31404,56;0,4392;12;439;9291,84;95;Inadimplente / NPL (>90d)
+CTR-50786;18/05/2023;Cliente_10036;pr;Correspondente Bancário;Empréstimo Empresarial PJ;406112,92;0,1957;48;686;3217,63;120;Inadimplente / NPL (>90d)
+CTR-50787;09/08/2023;Cliente_10037;ES;Agência Física;Financiamento Veicular;73695,8;0,1888;48;636;16911,14;90;Atraso Crítico (31-90d)
+CTR-50788;16/08/2024;Cliente_10038;DF;Correspondente Bancário;Credito Pessoal;27330,49;0,2916;36;436;26709,57;15;Atraso Curto (1-30d)
+CTR-50789;24/12/2023;Cliente_10039;sp;Internet Banking;Cartão de Credito rotativo;13370,06;0,7689;12;829;8038,43;0;Em Dia
+CTR-50790;25/06/2023;Cliente_10040;MG;App Mobile;Financiamento Imobiliário;527102,38;0,1355;120;382;25250,83;45;Atraso Crítico (31-90d)
+CTR-50791;2024-02-05;Cliente_10041;PR;App Mobile;Financiamento Veicular;77118,34;0,274;36;660;26051,33;0;Em Dia
+CTR-50792;2023-07-06;Cliente_10042;ES;Internet Banking;Credito Pessoal;20403,05;0,4084;60;443;17863,99;15;Atraso Curto (1-30d)
+CTR-50793;17/11/2024;Cliente_10043; PE ;App Mobile;Financiamento Veicular;143427,45;0,2611;36;514;8522,62;95;Inadimplente / NPL (>90d)
+CTR-50794;09/01/2024;Cliente_10044;SP;Internet Banking;Financiamento Imobiliário;802894,2;0,1082;48;469;11134,37;45;Atraso Crítico (31-90d)
+CTR-50795;2025-05-18;Cliente_10045;ES;Agência Física;Financiamento Imobiliário;329033,96;0,0969;72;771;18458,0;0;Em Dia
+CTR-50796;2023-05-06;Cliente_10046;PR;Correspondente Bancário;Cartão de Credito rotativo;11944,37;0,729;12;564;16433,2;10;Atraso Curto (1-30d)
+CTR-50797;2023-05-03;Cliente_10047;RJ;App Mobile;Cartão de Credito rotativo;1053,66;0,6349;24;395;30782,58;45;Atraso Crítico (31-90d)
+CTR-50798;13/08/2023;Cliente_10048;RJ;App Mobile;Financiamento Veicular;70801,99;0,1587;24;597;14387,98;10;Atraso Curto (1-30d)
+CTR-50799;2023-01-11;Cliente_10049;RS;App Mobile;Financiamento Imobiliário;947633,09;0,1325;72;644;20658,95;45;Atraso Crítico (31-90d)
+CTR-50800;23/02/2025;Cliente_10050;GO;Agência Física;Empréstimo Empresarial PJ;129210,92;0,2067;36;595;16607,91;0;Em Dia
+CTR-50801;2024-12-13;Cliente_10051;sc;Correspondente Bancário;Cartão de Credito rotativo;11903,36;0,6279;24;500;5962,98;0;Em Dia
+CTR-50802;17/12/2024;Cliente_10052;ce;Internet Banking;Financiamento Imobiliário;360186,85;0,0905;72;405;8533,99;15;Atraso Curto (1-30d)
+CTR-50803;09/12/2024;Cliente_10053;MG;Correspondente Bancário;Credito Pessoal;31119,84;0,3014;12;668;21646,9;0;Em Dia
+CTR-50804;2024-02-16;Cliente_10054;MG;Correspondente Bancário;Empréstimo Empresarial PJ;437598,59;0,1826;24;469;34335,41;15;Atraso Curto (1-30d)
+CTR-50805;2025-08-22;Cliente_10055;rs;Internet Banking;Financiamento Veicular;33405,26;0,2323;12;778;34469,84;0;Em Dia
+CTR-50806;2025-07-21;Cliente_10056;PR;Correspondente Bancário;Credito Pessoal;18356,39;0,3743;12;805;16773,26;0;Em Dia
+CTR-50807;2024-04-14;Cliente_10057;SC;App Mobile;Financiamento Imobiliário;532115,56;0,1192;24;710;27259,56;95;Inadimplente / NPL (>90d)
+CTR-50808;2025-05-29;Cliente_10058;pr;Agência Física;Financiamento Imobiliário;648050,89;0,1058;120;322;10628,19;15;Atraso Curto (1-30d)
+CTR-50809;2025-08-28;Cliente_10059;DF;Internet Banking;Financiamento Veicular;42498,1;0,177;60;545;22042,03;10;Atraso Curto (1-30d)
+CTR-50810;2024-05-15;Cliente_10060;RJ;Correspondente Bancário;Empréstimo Empresarial PJ;490581,12;0,1252;48;780;20177,92;15;Atraso Curto (1-30d)
+CTR-50811;17/03/2023;Cliente_10061;PR;Correspondente Bancário;Credito Pessoal;7033,76;0,2272;24;807;18672,36;0;Em Dia
+CTR-50812;2023-07-07;Cliente_10062;sp;Agência Física;Empréstimo Empresarial PJ;211915,27;0,2243;36;427;18102,64;120;Inadimplente / NPL (>90d)
+CTR-50813;09/11/2023;Cliente_10063;ES;Correspondente Bancário;cartão de crédito rotativo;1810,77;0,5767;36;699;9304,63;0;Em Dia
+CTR-50814;25/04/2023;Cliente_10064;PE;Internet Banking;Financiamento Veicular;131620,41;0,1929;48;534;21697,12;0;Em Dia
+CTR-50815;06/06/2024;Cliente_10065;BA;App Mobile;Financiamento Veicular;109038,94;0,2091;24;460;27162,0;95;Inadimplente / NPL (>90d)
+CTR-50816;17/06/2023;Cliente_10066;go;Correspondente Bancário;Financiamento Imobiliário;434848,73;0,1024;36;586;14158,03;120;Inadimplente / NPL (>90d)
+CTR-50817;2023-03-04;Cliente_10067;BA;Correspondente Bancário;crédito pessoal;21516,77;0,3598;48;662;3513,6;0;Em Dia
+CTR-50818;28/03/2024;Cliente_10068;PR;Internet Banking;Credito Pessoal;15532,06;0,2987;12;590;22422,09;0;Em Dia
+CTR-50819;2023-04-16;Cliente_10069;DF;App Mobile;Financiamento Veicular;141413,84;0,2169;12;716;14006,34;15;Atraso Curto (1-30d)
+CTR-50820;2024-10-11;Cliente_10070;GO;Internet Banking;Financiamento Imobiliário;444499,97;0,0951;24;696;7734,12;15;Atraso Curto (1-30d)
+CTR-50821;26/11/2023;Cliente_10071; ES ;Internet Banking;Credito Pessoal;26295,54;0,3831;60;584;33136,32;10;Atraso Curto (1-30d)
+CTR-50822;22/05/2023;Cliente_10072;SC;Agência Física;Financiamento Imobiliário;601383,31;0,1056;12;456;21614,91;15;Atraso Curto (1-30d)
+CTR-50823;01/05/2024;Cliente_10073;SC;App Mobile;Cartão de Credito rotativo;13086,43;0,7745;60;714;25583,44;0;Em Dia
+CTR-50824;24/03/2024;Cliente_10074; CE ;Internet Banking;Financiamento Veicular;118738,62;0,1819;24;412;32930,57;45;Atraso Crítico (31-90d)
+CTR-50825;07/05/2023;Cliente_10075;mg;Correspondente Bancário;Financiamento Imobiliário;486756,77;0,1316;24;749;33520,58;120;Inadimplente / NPL (>90d)
+CTR-50826;2023-03-29;Cliente_10076;PR;Correspondente Bancário;Credito Pessoal;19433,42;0,412;24;398;12497,04;15;Atraso Curto (1-30d)
+CTR-50827;2023-11-12;Cliente_10077;PR;Correspondente Bancário;Financiamento Veicular;76982,99;0,1901;24;656;16542,85;0;Em Dia
+CTR-50828;28/06/2025;Cliente_10078;ES;App Mobile;Empréstimo Empresarial PJ;452575,59;0,1906;48;661;21960,04;0;Em Dia
+CTR-50829;22/03/2024;Cliente_10079;ES;Correspondente Bancário;financiamento veicular;149222,19;0,2695;48;359;21862,62;45;Atraso Crítico (31-90d)
+CTR-50830;16/08/2025;Cliente_10080;DF;App Mobile;Cartão de Credito rotativo;3399,74;0,772;36;492;30393,25;15;Atraso Curto (1-30d)
+CTR-50831;21/12/2024;Cliente_10081;RS;App Mobile;Cartão de Credito rotativo;7790,96;0,5048;12;646;21496,18;35;Atraso Crítico (31-90d)
+CTR-50832;2023-02-18;Cliente_10082;RS;Internet Banking;financiamento imobiliário;291411,72;0,115;360;822;6257,7;15;Atraso Curto (1-30d)
+CTR-50833;23/12/2023;Cliente_10083;pe;Internet Banking;Cartão de Credito rotativo;5609,49;0,63;60;622;21479,93;10;Atraso Curto (1-30d)
+CTR-50834;01/01/2025;Cliente_10084;SC;Internet Banking;Financiamento Veicular;131270,59;0,2783;48;610;9377,92;120;Inadimplente / NPL (>90d)
+CTR-50835;29/04/2023;Cliente_10085; GO ;Correspondente Bancário;Financiamento Imobiliário;909754,01;0,0974;12;573;19210,93;0;Em Dia
+CTR-50836;2023-09-15;Cliente_10086;PR;Internet Banking;Empréstimo Empresarial PJ;62930,36;0,2106;48;720;9426,65;0;Em Dia
+CTR-50837;2024-04-18;Cliente_10087;BA;Correspondente Bancário;Empréstimo Empresarial PJ;393675,51;0,1513;24;354;34961,78;15;Atraso Curto (1-30d)
+CTR-50838;2024-01-28;Cliente_10088;SP;Agência Física;Financiamento Imobiliário;252443,49;0,104;12;824;32079,5;0;Em Dia
+CTR-50839;2024-09-19;Cliente_10089;rs;Agência Física;Financiamento Veicular;102744,26;0,146;48;600;33126,67;0;Em Dia
+CTR-50840;22/08/2024;Cliente_10090;PE;Internet Banking;Financiamento Veicular;108592,12;0,259;48;362;14954,89;95;Inadimplente / NPL (>90d)
+CTR-50841;18/11/2024;Cliente_10091;df;Agência Física;Cartão de Credito rotativo;13251,19;0,6271;48;580;29173,51;35;Atraso Crítico (31-90d)
+CTR-50842;2025-07-19;Cliente_10092;BA;App Mobile;Cartão de Credito rotativo;7299,22;0,5616;24;607;29641,28;0;Em Dia
+CTR-50843;2025-01-23;Cliente_10093;RS;Correspondente Bancário;Credito Pessoal;16572,76;0,4239;48;788;9480,31;0;Em Dia
+CTR-50844;14/05/2025;Cliente_10094;SP;Agência Física;Financiamento Veicular;69316,13;0,1692;48;501;20129,21;0;Em Dia
+CTR-50845;01/04/2023;Cliente_10095;RS;App Mobile;Credito Pessoal;12044,42;0,2864;12;523;34668,07;10;Atraso Curto (1-30d)
+CTR-50846;04/11/2023;Cliente_10096;RS;Internet Banking;Cartão de Credito rotativo;14233,86;0,7542;36;815;12385,33;0;Em Dia
+CTR-50847;2023-08-05;Cliente_10097;MG;Internet Banking;Cartão de Credito rotativo;17598,92;0,4621;48;752;7881,65;0;Em Dia
+CTR-50848;07/03/2025;Cliente_10098;SC;App Mobile;Cartão de Credito rotativo;19095,53;0,4537;48;621;8296,63;0;Em Dia
+CTR-50849;24/12/2024;Cliente_10099;PE;Correspondente Bancário;empréstimo empresarial pj;364194,82;0,1919;48;454;16049,38;15;Atraso Curto (1-30d)
+CTR-50850;2023-04-22;Cliente_10100;MG;Correspondente Bancário;crédito pessoal;22766,96;0,4453;60;417;20340,26;95;Inadimplente / NPL (>90d)
+CTR-50851;2023-08-27;Cliente_10101;SP;Agência Física;Credito Pessoal;4336,9;0,4295;60;729;15604,79;0;Em Dia
+CTR-50852;31/01/2025;Cliente_10102;RS;Internet Banking;Cartão de Credito rotativo;19095,52;0,6999;12;847;26077,82;0;Em Dia
+CTR-50853;01/08/2024;Cliente_10103;sp;App Mobile;Credito Pessoal;23470,68;0,2851;12;667;31928,92;0;Em Dia
+CTR-50854;2023-07-02;Cliente_10104;SP;Agência Física;Credito Pessoal;10986,36;0,3248;24;627;32207,24;90;Atraso Crítico (31-90d)
+CTR-50855;2024-03-30;Cliente_10105;RJ;App Mobile;Credito Pessoal;23006,0;0,3886;60;572;21773,0;0;Em Dia
+CTR-50856;2023-08-14;Cliente_10106;MG;Correspondente Bancário;Financiamento Veicular;37258,31;0,2512;36;323;29561,66;15;Atraso Curto (1-30d)
+CTR-50857;01/12/2023;Cliente_10107;PE;Correspondente Bancário;Credito Pessoal;7326,59;0,1989;48;449;18968,76;15;Atraso Curto (1-30d)
+CTR-50858;2023-09-23;Cliente_10108;RJ;App Mobile;Financiamento Imobiliário;331407,75;0,1242;24;819;25187,02;0;Em Dia
+CTR-50859;12/04/2025;Cliente_10109;ES;Agência Física;empréstimo empresarial pj;303062,0;0,1819;48;349;34814,77;45;Atraso Crítico (31-90d)
+CTR-50860;27/07/2025;Cliente_10110;GO;Agência Física;Cartão de Credito rotativo;2595,59;0,5451;36;417;9940,85;95;Inadimplente / NPL (>90d)
+CTR-50861;15/06/2024;Cliente_10111;RJ;Correspondente Bancário;Empréstimo Empresarial PJ;340760,76;0,1304;12;496;16017,85;0;Em Dia
+CTR-50862;2023-08-21;Cliente_10112;rj;App Mobile;Empréstimo Empresarial PJ;429146,83;0,1623;60;821;22116,85;15;Atraso Curto (1-30d)
+CTR-50863;2023-09-29;Cliente_10113; MG ;Agência Física;Empréstimo Empresarial PJ;64966,36;0,2479;24;754;10857,24;0;Em Dia
+CTR-50864;01/01/2024;Cliente_10114;DF;Agência Física;Financiamento Imobiliário;441585,85;0,0872;72;736;4031,77;0;Em Dia
+CTR-50865;02/09/2024;Cliente_10115;GO;App Mobile;Cartão de Credito rotativo;15259,77;0,5471;24;512;17185,91;0;Em Dia
+CTR-50866;2023-03-10;Cliente_10116;SC;Internet Banking;Credito Pessoal;6063,03;0,295;24;403;17331,35;15;Atraso Curto (1-30d)
+CTR-50867;04/02/2024;Cliente_10117;CE;Internet Banking;Cartão de Credito rotativo;3731,18;0,6799;36;803;15473,32;20;Atraso Curto (1-30d)
+CTR-50868;2024-02-14;Cliente_10118;BA;Agência Física;Credito Pessoal;10017,18;0,3724;36;818;16479,17;0;Em Dia
+CTR-50869;14/04/2023;Cliente_10119;RJ;Agência Física;empréstimo empresarial pj;498747,33;0,2271;12;847;10630,36;0;Em Dia
+CTR-50870;2025-03-29;Cliente_10120;PE;Internet Banking;Empréstimo Empresarial PJ;497305,71;0,1717;24;723;13457,52;15;Atraso Curto (1-30d)
+CTR-50871;16/06/2023;Cliente_10121;MG;Correspondente Bancário;Empréstimo Empresarial PJ;305873,45;0,1621;12;821;16797,6;15;Atraso Curto (1-30d)
+CTR-50872;2023-11-15;Cliente_10122;sp;Correspondente Bancário;Credito Pessoal;33476,76;0,2487;48;818;24274,16;0;Em Dia
+CTR-50873;2025-02-08;Cliente_10123;CE;Agência Física;Cartão de Credito rotativo;12658,45;0,6569;48;460;7288,54;95;Inadimplente / NPL (>90d)
+CTR-50874;2023-03-28;Cliente_10124;PE;Internet Banking;Cartão de Credito rotativo;4565,23;0,5096;12;418;27499,75;95;Inadimplente / NPL (>90d)
+CTR-50875;2024-04-27;Cliente_10125;CE;Internet Banking;Financiamento Veicular;70836,35;0,1863;24;815;28150,19;0;Em Dia
+CTR-50876;05/04/2024;Cliente_10126; PR ;Internet Banking;Financiamento Imobiliário;585182,02;0,1211;72;443;14658,5;15;Atraso Curto (1-30d)
+CTR-50877;2025-08-20;Cliente_10127;SP;Agência Física;Empréstimo Empresarial PJ;257918,19;0,1266;12;713;32327,31;15;Atraso Curto (1-30d)
+CTR-50878;2023-05-25;Cliente_10128;MG;App Mobile;Empréstimo Empresarial PJ;135171,52;0,2489;12;703;9260,4;15;Atraso Curto (1-30d)
+CTR-50879;2024-09-11;Cliente_10129;rs;App Mobile;Financiamento Veicular;102104,37;0,2732;24;583;20439,54;10;Atraso Curto (1-30d)
+CTR-50880;03/03/2024;Cliente_10130;RS;App Mobile;Empréstimo Empresarial PJ;447997,56;0,1606;36;406;22605,22;0;Em Dia
+CTR-50881;17/04/2023;Cliente_10131;MG;Internet Banking;Financiamento Imobiliário;382154,94;0,1344;72;802;18608,68;0;Em Dia
+CTR-50882;2023-12-04;Cliente_10132; ES ;App Mobile;Credito Pessoal;34700,74;0,3662;12;501;33432,5;90;Atraso Crítico (31-90d)
+CTR-50883;2023-03-29;Cliente_10133;df;Internet Banking;Empréstimo Empresarial PJ;137766,46;0,1253;60;358;18541,54;45;Atraso Crítico (31-90d)
+CTR-50884;2023-04-28;Cliente_10134;CE;Internet Banking;empréstimo empresarial pj;456864,63;0,1322;24;675;16996,75;95;Inadimplente / NPL (>90d)
+CTR-50885;2024-08-26;Cliente_10135;ES;App Mobile;Cartão de Credito rotativo;5048,72;0,7811;12;609;14332,61;0;Em Dia
+CTR-50886;2024-07-01;Cliente_10136;sp;Internet Banking;Cartão de Credito rotativo;7540,25;0,5231;24;587;27798,16;35;Atraso Crítico (31-90d)
+CTR-50887;27/09/2024;Cliente_10137;CE;Agência Física;Financiamento Veicular;74789,55;0,2773;24;391;26919,19;15;Atraso Curto (1-30d)
+CTR-50888;22/04/2025;Cliente_10138;ce;Agência Física;Financiamento Veicular;26284,47;0,2492;48;504;12320,4;0;Em Dia
+CTR-50889;24/08/2024;Cliente_10139;DF;Internet Banking;Financiamento Imobiliário;618094,98;0,1139;60;390;17802,19;95;Inadimplente / NPL (>90d)
+CTR-50890;16/07/2025;Cliente_10140;MG;Correspondente Bancário;Financiamento Veicular;98173,91;0,201;24;556;29014,45;10;Atraso Curto (1-30d)
+CTR-50891;05/10/2023;Cliente_10141;es;Internet Banking;Financiamento Imobiliário;801372,04;0,1024;72;471;31342,91;0;Em Dia
+CTR-50892;2023-08-17;Cliente_10142;PR;Agência Física;Financiamento Veicular;98879,77;0,2308;12;600;34064,36;0;Em Dia
+CTR-50893;28/01/2024;Cliente_10143;mg;App Mobile;Financiamento Imobiliário;379880,77;0,0883;360;428;24025,08;120;Inadimplente / NPL (>90d)
+CTR-50894;2024-11-21;Cliente_10144;CE;App Mobile;financiamento imobiliário;229933,09;0,1349;72;535;24023,76;0;Em Dia
+CTR-50895;18/01/2023;Cliente_10145; BA ;App Mobile;Empréstimo Empresarial PJ;279567,08;0,2408;12;690;8445,31;95;Inadimplente / NPL (>90d)
+CTR-50896;20/03/2025;Cliente_10146; CE ;App Mobile;Financiamento Veicular;92459,13;0,2226;48;401;23734,0;15;Atraso Curto (1-30d)
+CTR-50897;18/08/2024;Cliente_10147;BA;Agência Física;Empréstimo Empresarial PJ;174626,87;0,1402;24;427;31271,45;120;Inadimplente / NPL (>90d)
+CTR-50898;2024-05-16;Cliente_10148;SC;App Mobile;Credito Pessoal;14186,31;0,2422;12;405;11800,8;120;Inadimplente / NPL (>90d)
+CTR-50899;15/05/2024;Cliente_10149;SP;Internet Banking;Financiamento Veicular;82739,49;0,1684;48;842;22389,26;5;Atraso Curto (1-30d)
+CTR-50900;2023-06-11;Cliente_10150;MG;App Mobile;Empréstimo Empresarial PJ;204418,08;0,2471;12;678;28364,24;0;Em Dia
+CTR-50901;2025-06-28;Cliente_10151;PR;Agência Física;Financiamento Veicular;30605,42;0,167;12;804;24100,03;5;Atraso Curto (1-30d)
+CTR-50902;2024-12-25;Cliente_10152;SC;Internet Banking;Credito Pessoal;23153,67;0,2016;60;645;32073,85;35;Atraso Crítico (31-90d)
+CTR-50903;2024-08-26;Cliente_10153;MG;Agência Física;Cartão de Credito rotativo;3375,81;0,6643;12;517;15156,47;0;Em Dia
+CTR-50904;2023-01-02;Cliente_10154; MG ;Internet Banking;financiamento imobiliário;897776,49;0,0981;36;331;12380,45;45;Atraso Crítico (31-90d)
+CTR-50905;28/08/2023;Cliente_10155;PE;Internet Banking;Empréstimo Empresarial PJ;390203,32;0,235;36;808;24467,03;45;Atraso Crítico (31-90d)
+CTR-50906;03/10/2023;Cliente_10156;RS;Agência Física;Credito Pessoal;11383,05;0,4479;60;645;17651,15;0;Em Dia
+CTR-50907;05/07/2023;Cliente_10157;DF;Internet Banking;Financiamento Veicular;36835,61;0,1593;48;649;24142,77;90;Atraso Crítico (31-90d)
+CTR-50908;07/06/2025;Cliente_10158;GO;App Mobile;Credito Pessoal;34817,76;0,2415;60;607;24295,26;0;Em Dia
+CTR-50909;29/12/2023;Cliente_10159;PR;Agência Física;Empréstimo Empresarial PJ;498920,06;0,2225;60;494;27337,15;15;Atraso Curto (1-30d)
+CTR-50910;2024-07-26;Cliente_10160;MG;Agência Física;Financiamento Veicular;29860,12;0,1779;24;471;24810,98;45;Atraso Crítico (31-90d)
+CTR-50911;2023-12-04;Cliente_10161;go;Agência Física;Credito Pessoal;21593,52;0,2409;36;406;15163,85;45;Atraso Crítico (31-90d)
+CTR-50912;2025-08-18;Cliente_10162;PE;Agência Física;Empréstimo Empresarial PJ;308245,86;0,1321;24;334;13899,25;0;Em Dia
+CTR-50913;06/07/2024;Cliente_10163;PR;Correspondente Bancário;Financiamento Imobiliário;913933,76;0,1358;120;354;18112,32;0;Em Dia
+CTR-50914;28/03/2025;Cliente_10164;PE;Agência Física;Credito Pessoal;7197,72;0,3721;24;703;14349,01;0;Em Dia
+CTR-50915;07/08/2025;Cliente_10165; RS ;Internet Banking;Cartão de Credito rotativo;17727,28;0,8169;60;679;8376,91;0;Em Dia
+CTR-50916;01/02/2023;Cliente_10166;sc;Correspondente Bancário;financiamento veicular;133371,5;0,1527;24;365;24862,05;0;Em Dia
+CTR-50917;07/06/2023;Cliente_10167;GO;Agência Física;cartão de crédito rotativo;16311,71;0,6762;48;434;24906,49;45;Atraso Crítico (31-90d)
+CTR-50918;2023-04-13;Cliente_10168;BA;Correspondente Bancário;Credito Pessoal;18163,98;0,4049;60;399;15008,91;0;Em Dia
+CTR-50919;11/10/2023;Cliente_10169;PR;Correspondente Bancário;Empréstimo Empresarial PJ;289857,09;0,1854;12;703;33275,5;45;Atraso Crítico (31-90d)
+CTR-50920;2024-08-03;Cliente_10170;SC;Internet Banking;Credito Pessoal;16939,61;0,2394;36;620;21990,22;0;Em Dia
+CTR-50921;26/06/2023;Cliente_10171;SP;Internet Banking;crédito pessoal;20704,6;0,4156;36;429;30209,87;45;Atraso Crítico (31-90d)
+CTR-50922;2024-06-08;Cliente_10172; PE ;Internet Banking;Credito Pessoal;15784,07;0,4055;48;703;26526,69;0;Em Dia
+CTR-50923;2023-06-26;Cliente_10173;sp;Agência Física;Empréstimo Empresarial PJ;323497,21;0,1222;36;478;25269,33;15;Atraso Curto (1-30d)
+CTR-50924;07/05/2023;Cliente_10174;SP;Correspondente Bancário;Financiamento Veicular;30747,3;0,2448;36;667;19441,52;0;Em Dia
+CTR-50925;2025-03-12;Cliente_10175;GO;Agência Física;financiamento imobiliário;633460,42;0,1385;36;375;28848,31;120;Inadimplente / NPL (>90d)
+CTR-50926;2024-06-12;Cliente_10176;sp;App Mobile;Financiamento Imobiliário;320531,05;0,1281;12;557;19029,39;45;Atraso Crítico (31-90d)
+CTR-50927;22/01/2025;Cliente_10177;RJ;Correspondente Bancário;Credito Pessoal;21544,49;0,4345;24;693;13891,17;0;Em Dia
+CTR-50928;2025-02-12;Cliente_10178;GO;Agência Física;Financiamento Imobiliário;208423,65;0,1149;24;500;17510,44;45;Atraso Crítico (31-90d)
+CTR-50929;09/07/2023;Cliente_10179; DF ;App Mobile;Financiamento Imobiliário;632265,28;0,098;36;623;10751,0;15;Atraso Curto (1-30d)
+CTR-50930;26/07/2023;Cliente_10180;SC;Internet Banking;Cartão de Credito rotativo;3625,55;0,8104;60;595;28112,01;10;Atraso Curto (1-30d)
+CTR-50931;2023-07-19;Cliente_10181;BA;App Mobile;Empréstimo Empresarial PJ;361914,78;0,1374;36;585;28518,26;0;Em Dia
+CTR-50932;20/08/2024;Cliente_10182;PE;Agência Física;Financiamento Veicular;140287,13;0,2751;36;646;24448,17;0;Em Dia
+CTR-50933;20/11/2023;Cliente_10183;es;Correspondente Bancário;Financiamento Veicular;132011,06;0,1696;60;676;19099,62;0;Em Dia
+CTR-50934;09/08/2023;Cliente_10184;BA;App Mobile;Financiamento Imobiliário;161400,97;0,1009;72;827;24711,79;0;Em Dia
+CTR-50935;27/06/2023;Cliente_10185;CE;App Mobile;Financiamento Imobiliário;378492,13;0,1098;24;724;30229,75;0;Em Dia
+CTR-50936;2023-12-11;Cliente_10186;SC;Agência Física;Financiamento Imobiliário;292748,17;0,0904;36;321;21941,74;15;Atraso Curto (1-30d)
+CTR-50937;20/10/2024;Cliente_10187;GO;Agência Física;Cartão de Credito rotativo;9154,51;0,808;24;702;30295,64;0;Em Dia
+CTR-50938;2024-08-09;Cliente_10188;SC;Correspondente Bancário;Cartão de Credito rotativo;12992,37;0,5819;48;536;9145,93;10;Atraso Curto (1-30d)
+CTR-50939;2023-04-15;Cliente_10189;BA;Correspondente Bancário;Financiamento Veicular;103501,65;0,2284;36;483;11623,58;15;Atraso Curto (1-30d)
+CTR-50940;2025-06-26;Cliente_10190;RJ;Correspondente Bancário;cartão de crédito rotativo;12793,94;0,6975;48;548;10596,81;0;Em Dia
+CTR-50941;15/09/2024;Cliente_10191;SC;App Mobile;Credito Pessoal;14161,25;0,2517;48;827;13464,84;0;Em Dia
+CTR-50942;07/11/2024;Cliente_10192;RJ;Correspondente Bancário;Financiamento Imobiliário;909750,68;0,1302;60;628;24269,83;15;Atraso Curto (1-30d)
+CTR-50943;15/07/2023;Cliente_10193;sp;Internet Banking;Empréstimo Empresarial PJ;487701,78;0,1705;48;818;28298,08;0;Em Dia
+CTR-50944;2023-08-20;Cliente_10194;rj;Correspondente Bancário;financiamento imobiliário;518541,53;0,1391;360;727;27985,37;5;Atraso Curto (1-30d)
+CTR-50945;08/02/2025;Cliente_10195;PE;Agência Física;Cartão de Credito rotativo;14451,31;0,5528;24;704;12788,45;0;Em Dia
+CTR-50946;2025-01-01;Cliente_10196;RS;App Mobile;financiamento imobiliário;450505,38;0,0856;360;392;27151,81;0;Em Dia
+CTR-50947;01/08/2025;Cliente_10197;PE;Internet Banking;Credito Pessoal;23697,47;0,3329;24;461;7710,35;120;Inadimplente / NPL (>90d)
+CTR-50948;2024-06-20;Cliente_10198;ba;Internet Banking;Financiamento Imobiliário;860729,96;0,1202;12;391;3127,1;0;Em Dia
+CTR-50949;10/04/2023;Cliente_10199;MG;Internet Banking;Credito Pessoal;29442,45;0,2981;48;850;21191,76;0;Em Dia
+CTR-50950;2024-10-01;Cliente_10200;DF;App Mobile;Credito Pessoal;16960,84;0,27;24;575;25119,25;10;Atraso Curto (1-30d)
+CTR-50951;04/06/2023;Cliente_10201;go;Correspondente Bancário;financiamento veicular;75936,4;0,1735;12;588;31994,31;0;Em Dia
+CTR-50952;2023-02-21;Cliente_10202;go;Internet Banking;Empréstimo Empresarial PJ;167432,21;0,2159;12;394;17250,86;15;Atraso Curto (1-30d)
+CTR-50953;19/12/2024;Cliente_10203; MG ;Correspondente Bancário;Cartão de Credito rotativo;13277,73;0,7971;12;387;7618,43;0;Em Dia
+CTR-50954;2023-12-18;Cliente_10204;PR;Correspondente Bancário;Financiamento Imobiliário;165032,02;0,0956;48;323;10192,06;45;Atraso Crítico (31-90d)
+CTR-50955;22/12/2024;Cliente_10205;RS;App Mobile;Financiamento Veicular;128349,45;0,1869;24;407;22630,75;15;Atraso Curto (1-30d)
+CTR-50956;25/02/2025;Cliente_10206;CE;App Mobile;Empréstimo Empresarial PJ;58859,07;0,1631;24;387;14882,86;45;Atraso Crítico (31-90d)
+CTR-50957;06/07/2023;Cliente_10207;SC;Internet Banking;Empréstimo Empresarial PJ;219916,16;0,1913;36;551;33740,55;10;Atraso Curto (1-30d)
+CTR-50958;21/07/2024;Cliente_10208;CE;App Mobile;Cartão de Credito rotativo;17558,55;0,5083;12;661;24337,74;0;Em Dia
+CTR-50959;2023-11-24;Cliente_10209;PR;Internet Banking;cartão de crédito rotativo;6423,05;0,5783;24;558;4390,85;90;Atraso Crítico (31-90d)
+CTR-50960;2024-12-07;Cliente_10210;RS;Internet Banking;financiamento veicular;135168,66;0,1481;36;696;11962,85;0;Em Dia
+CTR-50961;08/08/2023;Cliente_10211;RJ;Internet Banking;cartão de crédito rotativo;4785,61;0,6932;48;555;9838,63;90;Atraso Crítico (31-90d)
+CTR-50962;06/04/2023;Cliente_10212;RJ;App Mobile;Cartão de Credito rotativo;8439,53;0,4997;60;462;4212,94;45;Atraso Crítico (31-90d)
+CTR-50963;20/08/2023;Cliente_10213;BA;Correspondente Bancário;Credito Pessoal;2921,4;0,292;36;343;21725,3;95;Inadimplente / NPL (>90d)
+CTR-50964;2025-05-15;Cliente_10214;RJ;Internet Banking;Financiamento Veicular;96698,19;0,1993;60;610;21735,68;10;Atraso Curto (1-30d)
+CTR-50965;2023-01-09;Cliente_10215;RJ;Internet Banking;Financiamento Veicular;142874,03;0,232;48;547;3905,58;45;Atraso Crítico (31-90d)
+CTR-50966;19/07/2023;Cliente_10216;PE;Agência Física;Empréstimo Empresarial PJ;244441,3;0,1301;36;796;30135,85;0;Em Dia
+CTR-50967;08/08/2025;Cliente_10217; CE ;Internet Banking;Financiamento Imobiliário;834948,19;0,0987;48;362;23810,17;45;Atraso Crítico (31-90d)
+CTR-50968;21/05/2024;Cliente_10218;RS;App Mobile;Empréstimo Empresarial PJ;104523,56;0,1842;12;845;9427,76;95;Inadimplente / NPL (>90d)
+CTR-50969;31/01/2024;Cliente_10219;RS;Agência Física;Empréstimo Empresarial PJ;179780,44;0,1706;48;582;29350,14;10;Atraso Curto (1-30d)
+CTR-50970;2023-11-20;Cliente_10220;ba;Correspondente Bancário;Financiamento Veicular;128501,82;0,2686;24;466;22329,26;15;Atraso Curto (1-30d)
+CTR-50971;2024-12-28;Cliente_10221;DF;Agência Física;Financiamento Veicular;105768,2;0,1622;48;536;9443,78;0;Em Dia
+CTR-50972;2025-04-21;Cliente_10222;BA;App Mobile;Financiamento Imobiliário;823804,13;0,1063;360;556;30755,6;0;Em Dia
+CTR-50973;09/07/2023;Cliente_10223;RJ;Correspondente Bancário;Financiamento Imobiliário;679563,13;0,101;360;789;7551,59;15;Atraso Curto (1-30d)
+CTR-50974;08/04/2024;Cliente_10224;DF;Internet Banking;Financiamento Imobiliário;869515,09;0,0964;72;550;18767,84;45;Atraso Crítico (31-90d)
+CTR-50975;2024-02-12;Cliente_10225; CE ;App Mobile;Empréstimo Empresarial PJ;103777,65;0,2097;24;601;24845,92;35;Atraso Crítico (31-90d)
+CTR-50976;22/06/2024;Cliente_10226; GO ;App Mobile;Financiamento Veicular;113105,95;0,151;12;643;6945,28;120;Inadimplente / NPL (>90d)
+CTR-50977;2024-07-02;Cliente_10227;MG;App Mobile;Credito Pessoal;33094,48;0,3492;24;573;22214,05;0;Em Dia
+CTR-50978;05/03/2025;Cliente_10228;ES;Agência Física;Empréstimo Empresarial PJ;66294,85;0,2454;36;455;23727,65;120;Inadimplente / NPL (>90d)
+CTR-50979;07/07/2024;Cliente_10229;sp;Internet Banking;Cartão de Credito rotativo;12403,85;0,5667;48;746;14094,99;0;Em Dia
+CTR-50980;09/08/2024;Cliente_10230;GO;Agência Física;Empréstimo Empresarial PJ;450631,57;0,2196;12;524;5752,9;120;Inadimplente / NPL (>90d)
+CTR-50981;2025-03-09;Cliente_10231;PR;Correspondente Bancário;Cartão de Credito rotativo;7839,53;0,4889;24;577;16206,99;0;Em Dia
+CTR-50982;29/09/2024;Cliente_10232;PE;App Mobile;Cartão de Credito rotativo;18566,87;0,4828;24;439;34026,76;120;Inadimplente / NPL (>90d)
+CTR-50983;12/03/2024;Cliente_10233;RJ;App Mobile;Financiamento Veicular;129756,48;0,1546;12;711;25264,85;0;Em Dia
+CTR-50984;2024-09-29;Cliente_10234; GO ;Internet Banking;financiamento veicular;58485,45;0,2125;60;648;12910,93;0;Em Dia
+CTR-50985;15/04/2023;Cliente_10235;SC;Correspondente Bancário;Empréstimo Empresarial PJ;195470,03;0,2361;12;467;21107,95;95;Inadimplente / NPL (>90d)
+CTR-50986;07/08/2023;Cliente_10236;sp;Correspondente Bancário;Cartão de Credito rotativo;9071,08;0,7956;12;731;4057,57;0;Em Dia
+CTR-50987;2023-03-29;Cliente_10237;BA;Correspondente Bancário;crédito pessoal;18862,77;0,3313;12;376;19812,7;120;Inadimplente / NPL (>90d)
+CTR-50988;2023-10-31;Cliente_10238;DF;Internet Banking;cartão de crédito rotativo;8084,81;0,8271;24;509;10327,85;0;Em Dia
+CTR-50989;28/10/2024;Cliente_10239;DF;Internet Banking;Financiamento Veicular;161758,49;0,2796;60;602;6886,78;15;Atraso Curto (1-30d)
+CTR-50990;06/02/2025;Cliente_10240;ce;Agência Física;Financiamento Veicular;42683,86;0,1799;60;442;18188,03;45;Atraso Crítico (31-90d)
+CTR-50991;04/08/2025;Cliente_10241;MG;App Mobile;Financiamento Imobiliário;799230,71;0,1174;360;558;20762,68;10;Atraso Curto (1-30d)
+CTR-50992;23/08/2025;Cliente_10242;RS;Correspondente Bancário;Credito Pessoal;7354,44;0,1829;36;763;25165,48;0;Em Dia
+CTR-50993;2025-05-20;Cliente_10243;GO;Agência Física;Empréstimo Empresarial PJ;494213,09;0,1369;48;422;12993,32;95;Inadimplente / NPL (>90d)
+CTR-50994;06/11/2024;Cliente_10244; SP ;Agência Física;Financiamento Imobiliário;840053,6;0,133;72;746;11641,82;95;Inadimplente / NPL (>90d)
+CTR-50995;30/09/2023;Cliente_10245;RJ;Agência Física;Empréstimo Empresarial PJ;323687,49;0,1976;48;680;12472,27;15;Atraso Curto (1-30d)
+CTR-50996;25/06/2023;Cliente_10246;CE;Correspondente Bancário;Empréstimo Empresarial PJ;397516,02;0,1386;60;848;15888,86;15;Atraso Curto (1-30d)
+CTR-50997;13/03/2025;Cliente_10247;BA;Correspondente Bancário;Financiamento Imobiliário;178642,73;0,0884;360;743;26507,98;0;Em Dia
+CTR-50998;2023-05-31;Cliente_10248;RS;Agência Física;Credito Pessoal;3295,64;0,3363;48;341;31080,0;0;Em Dia
+CTR-50999;2024-10-15;Cliente_10249;CE;Correspondente Bancário;Financiamento Imobiliário;949961,79;0,1166;60;710;3547,32;45;Atraso Crítico (31-90d)
+CTR-51000;2024-05-10;Cliente_10250;RS;Correspondente Bancário;Credito Pessoal;18211,92;0,3076;24;711;15337,96;0;Em Dia
+CTR-51001;03/12/2023;Cliente_10001; CE ;Correspondente Bancário;empréstimo empresarial pj;64551,53;0,176;36;734;15828,36;0;Em Dia
+CTR-51002;08/10/2024;Cliente_10002;MG;Correspondente Bancário;Empréstimo Empresarial PJ;56212,74;0,2243;12;674;34267,37;0;Em Dia
+CTR-51003;30/07/2025;Cliente_10003;df;Agência Física;Empréstimo Empresarial PJ;445749,29;0,1638;12;442;32015,94;0;Em Dia
+CTR-51004;16/08/2025;Cliente_10004;SP;Correspondente Bancário;Credito Pessoal;27195,79;0,2374;24;668;7280,28;5;Atraso Curto (1-30d)
+CTR-51005;2023-02-27;Cliente_10005;ba;Correspondente Bancário;financiamento veicular;42446,17;0,1787;24;587;33961,93;0;Em Dia
+CTR-51006;2024-08-17;Cliente_10006;MG;Agência Física;financiamento veicular;90047,01;0,2284;60;415;13131,14;15;Atraso Curto (1-30d)
+CTR-51007;12/11/2024;Cliente_10007;DF;Correspondente Bancário;financiamento imobiliário;803622,51;0,0977;360;355;24597,66;95;Inadimplente / NPL (>90d)
+CTR-51008;01/02/2025;Cliente_10008;MG;App Mobile;Cartão de Credito rotativo;8129,29;0,4852;60;430;22042,34;45;Atraso Crítico (31-90d)
+CTR-51009;2023-08-19;Cliente_10009;PE;App Mobile;Empréstimo Empresarial PJ;475400,92;0,1509;60;670;17347,67;45;Atraso Crítico (31-90d)
+CTR-51010;2024-01-18;Cliente_10010;SC;App Mobile;Financiamento Veicular;57990,82;0,1536;12;737;15307,72;0;Em Dia
+CTR-51011;03/09/2024;Cliente_10011;GO;Internet Banking;empréstimo empresarial pj;338398,04;0,1346;60;685;21351,85;0;Em Dia
+CTR-51012;08/07/2023;Cliente_10012;CE;Agência Física;Financiamento Veicular;114340,25;0,2646;60;658;9509,76;20;Atraso Curto (1-30d)
+CTR-51013;09/11/2024;Cliente_10013;ES;Internet Banking;Credito Pessoal;22035,82;0,434;36;579;14764,42;10;Atraso Curto (1-30d)
+CTR-51014;24/07/2025;Cliente_10014;ES;Agência Física;Credito Pessoal;15856,76;0,252;48;320;30673,45;45;Atraso Crítico (31-90d)
+CTR-51015;2023-04-15;Cliente_10015;df;App Mobile;Empréstimo Empresarial PJ;190637,17;0,158;36;609;7832,76;120;Inadimplente / NPL (>90d)
+CTR-51016;21/06/2025;Cliente_10016; MG ;Internet Banking;Financiamento Veicular;106801,16;0,2435;24;354;3675,23;45;Atraso Crítico (31-90d)
+CTR-51017;2023-01-29;Cliente_10017;GO;Correspondente Bancário;Credito Pessoal;34218,38;0,3124;48;829;30849,39;5;Atraso Curto (1-30d)
+CTR-51018;2024-06-14;Cliente_10018;df;Internet Banking;empréstimo empresarial pj;259724,63;0,2316;24;478;7253,2;0;Em Dia
+CTR-51019;2023-06-09;Cliente_10019; RS ;App Mobile;Financiamento Veicular;34187,44;0,1573;48;683;4727,5;0;Em Dia
+CTR-51020;2024-08-25;Cliente_10020;SC;Internet Banking;crédito pessoal;19404,69;0,3774;36;682;7426,89;5;Atraso Curto (1-30d)
+CTR-51021;2024-02-08;Cliente_10021; RS ;Correspondente Bancário;Financiamento Veicular;28637,34;0,1948;24;354;26855,69;45;Atraso Crítico (31-90d)
+CTR-51022;2025-01-28;Cliente_10022;DF;Internet Banking;Financiamento Veicular;50794,15;0,2225;12;676;22964,75;0;Em Dia
+CTR-51023;16/07/2024;Cliente_10023;ES;Agência Física;Cartão de Credito rotativo;2302,44;0,5899;12;611;29733,54;35;Atraso Crítico (31-90d)
+CTR-51024;2025-01-21;Cliente_10024; MG ;App Mobile;Credito Pessoal;2100,54;0,252;60;381;27306,32;15;Atraso Curto (1-30d)
+CTR-51025;2023-03-14;Cliente_10025;ES;App Mobile;Financiamento Imobiliário;521422,08;0,0962;24;720;11269,06;15;Atraso Curto (1-30d)
+CTR-51026;30/08/2025;Cliente_10026;mg;Agência Física;Cartão de Credito rotativo;12690,68;0,5958;48;465;18994,37;0;Em Dia
+CTR-51027;21/02/2025;Cliente_10027;sp;Agência Física;Empréstimo Empresarial PJ;492425,17;0,1416;48;581;25614,21;45;Atraso Crítico (31-90d)
+CTR-51028;2023-04-15;Cliente_10028;sp;App Mobile;Cartão de Credito rotativo;13707,15;0,6621;48;669;16901,92;0;Em Dia
+CTR-51029;01/10/2024;Cliente_10029;ES;Internet Banking;Financiamento Imobiliário;771407,03;0,0934;24;553;3874,76;45;Atraso Crítico (31-90d)
+CTR-51030;19/12/2023;Cliente_10030;rs;App Mobile;financiamento imobiliário;157594,2;0,0879;360;551;26957,03;0;Em Dia
+CTR-51031;26/12/2023;Cliente_10031;BA;App Mobile;financiamento veicular;88814,58;0,1573;36;829;19225,67;0;Em Dia
+CTR-51032;2025-07-09;Cliente_10032;PR;App Mobile;Credito Pessoal;16990,06;0,2466;60;379;31483,27;45;Atraso Crítico (31-90d)
+CTR-51033;2023-06-15;Cliente_10033;SC;Agência Física;Financiamento Veicular;170291,27;0,2103;60;828;16883,89;0;Em Dia
+CTR-51034;2025-03-15;Cliente_10034;DF;Correspondente Bancário;Credito Pessoal;18973,69;0,1898;24;493;29928,76;45;Atraso Crítico (31-90d)
+CTR-51035;07/03/2024;Cliente_10035;CE;Correspondente Bancário;Financiamento Imobiliário;819394,26;0,1187;360;357;11342,83;0;Em Dia
+CTR-51036;2025-05-30;Cliente_10036;PR;Internet Banking;Financiamento Imobiliário;767680,76;0,1302;60;562;26164,25;0;Em Dia
+CTR-51037;11/11/2023;Cliente_10037;ES;Internet Banking;Financiamento Veicular;166850,03;0,2231;24;516;11949,16;45;Atraso Crítico (31-90d)
+CTR-51038;2023-01-14;Cliente_10038;pr;Correspondente Bancário;Empréstimo Empresarial PJ;317143,44;0,1946;60;377;12510,38;15;Atraso Curto (1-30d)
+CTR-51039;29/05/2023;Cliente_10039;es;Internet Banking;Cartão de Credito rotativo;5781,63;0,4715;24;596;19490,36;10;Atraso Curto (1-30d)
+CTR-51040;2023-10-16;Cliente_10040;pr;Agência Física;Credito Pessoal;32544,22;0,3493;60;788;26425,52;0;Em Dia
+CTR-51041;2023-05-14;Cliente_10041;CE;Internet Banking;Financiamento Veicular;111969,18;0,2632;48;365;11415,81;0;Em Dia
+CTR-51042;2025-08-23;Cliente_10042; PR ;Agência Física;Cartão de Credito rotativo;17050,87;0,8013;24;402;26898,22;120;Inadimplente / NPL (>90d)
+CTR-51043;2023-07-20;Cliente_10043;ce;Internet Banking;Empréstimo Empresarial PJ;372484,39;0,232;60;730;21139,49;120;Inadimplente / NPL (>90d)
+CTR-51044;24/01/2023;Cliente_10044;MG;Internet Banking;Cartão de Credito rotativo;6416,86;0,5811;24;729;4538,44;0;Em Dia
+CTR-51045;24/06/2025;Cliente_10045; PR ;App Mobile;Financiamento Veicular;26289,93;0,1557;60;435;28092,24;120;Inadimplente / NPL (>90d)
+CTR-51046;2023-09-05;Cliente_10046;DF;App Mobile;Cartão de Credito rotativo;10190,28;0,5026;60;709;33411,41;0;Em Dia
+CTR-51047;22/04/2023;Cliente_10047;mg;App Mobile;Credito Pessoal;30601,2;0,4117;36;342;33652,63;120;Inadimplente / NPL (>90d)
+CTR-51048;04/06/2025;Cliente_10048;PE;Internet Banking;Empréstimo Empresarial PJ;301567,79;0,186;36;477;27390,74;45;Atraso Crítico (31-90d)
+CTR-51049;11/10/2024;Cliente_10049;PR;Internet Banking;Empréstimo Empresarial PJ;58394,2;0,2194;12;535;33163,94;10;Atraso Curto (1-30d)
+CTR-51050;2023-01-04;Cliente_10050;SP;Internet Banking;Credito Pessoal;15091,5;0,4245;60;711;14338,82;0;Em Dia
+CTR-51051;04/03/2025;Cliente_10051;MG;Internet Banking;Financiamento Imobiliário;251719,79;0,0894;72;362;17958,42;95;Inadimplente / NPL (>90d)
+CTR-51052;10/01/2023;Cliente_10052;PE;Correspondente Bancário;Empréstimo Empresarial PJ;237717,89;0,1402;12;670;33990,13;45;Atraso Crítico (31-90d)
+CTR-51053;24/06/2023;Cliente_10053;df;Agência Física;Financiamento Veicular;152393,78;0,1476;24;507;3840,21;45;Atraso Crítico (31-90d)
+CTR-51054;2023-08-13;Cliente_10054;pe;App Mobile;Cartão de Credito rotativo;8598,11;0,5191;24;573;22086,27;0;Em Dia
+CTR-51055;2025-05-03;Cliente_10055;ES;Agência Física;Financiamento Imobiliário;336797,91;0,1025;360;612;17909,42;0;Em Dia
+CTR-51056;09/03/2025;Cliente_10056;MG;Internet Banking;Credito Pessoal;32531,44;0,3159;60;395;31461,44;0;Em Dia
+CTR-51057;2024-11-06;Cliente_10057;RS;Agência Física;Empréstimo Empresarial PJ;301206,99;0,1572;48;648;9664,71;120;Inadimplente / NPL (>90d)
+CTR-51058;2024-04-14;Cliente_10058;ES;Correspondente Bancário;Empréstimo Empresarial PJ;196659,16;0,124;36;808;27881,47;0;Em Dia
+CTR-51059;01/10/2023;Cliente_10059;SP;Agência Física;Financiamento Imobiliário;436465,79;0,1092;72;455;7587,48;0;Em Dia
+CTR-51060;18/01/2023;Cliente_10060;PR;Agência Física;Credito Pessoal;19334,89;0,3409;24;328;11706,31;15;Atraso Curto (1-30d)
+CTR-51061;2025-06-24;Cliente_10061; CE ;Agência Física;financiamento veicular;175179,95;0,1893;60;813;30679,45;5;Atraso Curto (1-30d)
+CTR-51062;10/02/2024;Cliente_10062;RS;Internet Banking;Cartão de Credito rotativo;1163,41;0,8133;12;490;25080,04;95;Inadimplente / NPL (>90d)
+CTR-51063;2023-11-11;Cliente_10063;PR;App Mobile;Financiamento Veicular;78174,38;0,2473;24;793;4787,66;45;Atraso Crítico (31-90d)
+CTR-51064;04/08/2024;Cliente_10064; CE ;Agência Física;Financiamento Imobiliário;519091,14;0,0881;60;646;9882,55;0;Em Dia
+CTR-51065;2023-07-05;Cliente_10065;CE;App Mobile;Cartão de Credito rotativo;2125,0;0,6403;48;735;6871,5;0;Em Dia
+CTR-51066;27/09/2023;Cliente_10066;PE;Agência Física;Credito Pessoal;23851,38;0,2066;60;703;15982,99;0;Em Dia
+CTR-51067;19/01/2025;Cliente_10067;SC;Agência Física;Financiamento Veicular;103248,59;0,2288;24;538;20420,42;0;Em Dia
+CTR-51068;20/06/2024;Cliente_10068;CE;Correspondente Bancário;Cartão de Credito rotativo;6979,74;0,5972;36;583;19672,73;0;Em Dia
+CTR-51069;2025-05-17;Cliente_10069;PE;Correspondente Bancário;Financiamento Imobiliário;276919,23;0,1075;48;633;26281,3;10;Atraso Curto (1-30d)
+CTR-51070;09/06/2023;Cliente_10070;go;Correspondente Bancário;Financiamento Veicular;25945,89;0,1613;60;503;4088,54;0;Em Dia
+CTR-51071;13/05/2023;Cliente_10071;BA;Correspondente Bancário;Empréstimo Empresarial PJ;241215,43;0,2147;36;528;17958,12;95;Inadimplente / NPL (>90d)
+CTR-51072;09/02/2023;Cliente_10072;pr;Internet Banking;Empréstimo Empresarial PJ;343623,09;0,1731;36;412;27506,25;0;Em Dia
+CTR-51073;06/06/2024;Cliente_10073;pe;Internet Banking;financiamento imobiliário;705980,77;0,1138;120;770;13738,69;15;Atraso Curto (1-30d)
+CTR-51074;24/03/2023;Cliente_10074;sc;App Mobile;Credito Pessoal;29322,37;0,4431;24;483;13102,42;95;Inadimplente / NPL (>90d)
+CTR-51075;2024-11-30;Cliente_10075;MG;Internet Banking;Financiamento Veicular;147165,55;0,1882;24;622;18601,0;0;Em Dia
+CTR-51076;27/02/2023;Cliente_10076;PR;App Mobile;Empréstimo Empresarial PJ;213260,71;0,2498;60;403;28446,77;0;Em Dia
+CTR-51077;30/12/2024;Cliente_10077;GO;App Mobile;financiamento veicular;26273,07;0,216;60;694;19738,87;0;Em Dia
+CTR-51078;2025-06-08;Cliente_10078;SP;Correspondente Bancário;Financiamento Veicular;117237,65;0,2285;12;803;9698,61;45;Atraso Crítico (31-90d)
+CTR-51079;2025-08-18;Cliente_10079;GO;Agência Física;Empréstimo Empresarial PJ;185104,51;0,2476;12;517;11556,24;120;Inadimplente / NPL (>90d)
+CTR-51080;2024-11-13;Cliente_10080;BA;Agência Física;Financiamento Imobiliário;878342,85;0,0988;48;577;34044,72;0;Em Dia
+CTR-51081;2025-03-07;Cliente_10081;MG;Agência Física;Cartão de Credito rotativo;14441,46;0,7312;12;635;24841,69;0;Em Dia
+CTR-51082;2024-10-06;Cliente_10082;SC;Internet Banking;Financiamento Veicular;111976,2;0,2503;12;736;29602,96;0;Em Dia
+CTR-51083;2024-07-06;Cliente_10083;go;Correspondente Bancário;Credito Pessoal;4462,02;0,1953;24;356;31258,22;15;Atraso Curto (1-30d)
+CTR-51084;2024-09-23;Cliente_10084;MG;App Mobile;Credito Pessoal;2102,47;0,3973;48;847;23326,26;0;Em Dia
+CTR-51085;2023-05-14;Cliente_10085;PR;Internet Banking;Financiamento Imobiliário;422112,62;0,1295;24;766;30694,45;45;Atraso Crítico (31-90d)
+CTR-51086;11/05/2023;Cliente_10086;GO;Agência Física;financiamento imobiliário;177386,61;0,1221;72;557;19326,29;0;Em Dia
+CTR-51087;2025-08-07;Cliente_10087;RJ;Correspondente Bancário;Credito Pessoal;20740,12;0,4428;24;326;28044,82;15;Atraso Curto (1-30d)
+CTR-51088;12/08/2024;Cliente_10088;PE;App Mobile;financiamento imobiliário;258928,08;0,1176;36;342;30434,39;15;Atraso Curto (1-30d)
+CTR-51089;2023-07-08;Cliente_10089;CE;Internet Banking;cartão de crédito rotativo;5969,87;0,6346;24;656;23013,58;0;Em Dia
+CTR-51090;2024-07-17;Cliente_10090; RS ;Internet Banking;Empréstimo Empresarial PJ;96251,16;0,2294;12;771;28965,82;0;Em Dia
+CTR-51091;2025-02-13;Cliente_10091;GO;Correspondente Bancário;Credito Pessoal;31594,24;0,2851;60;616;23375,51;35;Atraso Crítico (31-90d)
+CTR-51092;2025-02-22;Cliente_10092;MG;Agência Física;Credito Pessoal;13907,95;0,3602;24;496;33219,0;45;Atraso Crítico (31-90d)
+CTR-51093;2023-10-01;Cliente_10093;CE;Agência Física;Financiamento Imobiliário;612090,25;0,0897;72;708;11756,19;95;Inadimplente / NPL (>90d)
+CTR-51094;04/09/2023;Cliente_10094;MG;Internet Banking;empréstimo empresarial pj;55630,26;0,2389;60;684;16419,89;0;Em Dia
+CTR-51095;28/11/2023;Cliente_10095;MG;App Mobile;cartão de crédito rotativo;8302,05;0,4829;12;387;20503,89;95;Inadimplente / NPL (>90d)
+CTR-51096;2025-03-30;Cliente_10096;SC;Correspondente Bancário;Cartão de Credito rotativo;13917,85;0,4665;60;835;20027,75;0;Em Dia
+CTR-51097;23/02/2025;Cliente_10097;PR;Agência Física;Financiamento Veicular;135654,99;0,1448;24;560;11393,69;15;Atraso Curto (1-30d)
+CTR-51098;2025-02-23;Cliente_10098;DF;App Mobile;empréstimo empresarial pj;343709,18;0,2064;12;731;25303,04;120;Inadimplente / NPL (>90d)
+CTR-51099;2023-12-08;Cliente_10099;SC;Agência Física;Financiamento Imobiliário;299812,36;0,0916;60;704;15136,03;0;Em Dia
+CTR-51100;03/02/2023;Cliente_10100;ba;Agência Física;Empréstimo Empresarial PJ;372124,0;0,1923;60;598;25904,05;0;Em Dia
+CTR-51101;07/10/2024;Cliente_10101;MG;Correspondente Bancário;Financiamento Imobiliário;668426,65;0,1328;120;564;33616,73;90;Atraso Crítico (31-90d)
+CTR-51102;17/02/2024;Cliente_10102;GO;Correspondente Bancário;Credito Pessoal;18422,92;0,1924;24;454;28052,94;0;Em Dia
+CTR-51103;09/12/2024;Cliente_10103;PR;Agência Física;financiamento veicular;89888,14;0,1425;48;348;11997,03;120;Inadimplente / NPL (>90d)
+CTR-51104;2024-12-10;Cliente_10104;ES;Correspondente Bancário;Cartão de Credito rotativo;6145,53;0,6062;36;672;22546,95;0;Em Dia
+CTR-51105;2025-07-07;Cliente_10105;BA;Internet Banking;Empréstimo Empresarial PJ;253940,61;0,2445;12;740;11929,77;0;Em Dia
+CTR-51106;2023-03-10;Cliente_10106;BA;Internet Banking;Credito Pessoal;25987,65;0,3242;36;702;7104,67;5;Atraso Curto (1-30d)
+CTR-51107;13/08/2025;Cliente_10107;df;Correspondente Bancário;Credito Pessoal;22746,95;0,1906;60;751;24951,2;0;Em Dia
+CTR-51108;06/06/2023;Cliente_10108;GO;Internet Banking;Credito Pessoal;15298,71;0,2547;12;524;31788,16;0;Em Dia
+CTR-51109;15/02/2025;Cliente_10109;PE;App Mobile;financiamento imobiliário;818573,78;0,1092;36;454;11213,65;0;Em Dia
+CTR-51110;2024-11-22;Cliente_10110;PE;Agência Física;Empréstimo Empresarial PJ;283387,68;0,2413;60;397;32195,97;45;Atraso Crítico (31-90d)
+CTR-51111;2025-04-19;Cliente_10111;SP;Agência Física;cartão de crédito rotativo;5494,28;0,6416;48;337;7052,43;0;Em Dia
+CTR-51112;2024-01-25;Cliente_10112;BA;App Mobile;Empréstimo Empresarial PJ;198474,0;0,1797;12;693;5711,48;45;Atraso Crítico (31-90d)
+CTR-51113;2023-07-29;Cliente_10113;MG;App Mobile;Credito Pessoal;28160,4;0,4405;36;530;29550,34;10;Atraso Curto (1-30d)
+CTR-51114;05/09/2024;Cliente_10114;PR;Correspondente Bancário;Financiamento Imobiliário;841144,74;0,1353;60;755;5029,9;0;Em Dia
+CTR-51115;2024-01-21;Cliente_10115;CE;Correspondente Bancário;Financiamento Imobiliário;331142,87;0,1047;24;512;19562,17;15;Atraso Curto (1-30d)
+CTR-51116;27/05/2024;Cliente_10116;SC;App Mobile;Credito Pessoal;20032,14;0,2743;48;389;28610,94;15;Atraso Curto (1-30d)
+CTR-51117;2024-05-19;Cliente_10117;ES;App Mobile;Credito Pessoal;7470,7;0,2773;48;747;11839,68;0;Em Dia
+CTR-51118;28/08/2025;Cliente_10118;ba;Agência Física;Financiamento Veicular;97430,55;0,2184;12;418;30242,08;0;Em Dia
+CTR-51119;2023-08-03;Cliente_10119;MG;Agência Física;Empréstimo Empresarial PJ;155299,02;0,1844;12;647;28408,02;15;Atraso Curto (1-30d)
+CTR-51120;2023-01-25;Cliente_10120;SC;Correspondente Bancário;Cartão de Credito rotativo;6862,04;0,6937;60;576;34035,85;35;Atraso Crítico (31-90d)
+CTR-51121;2024-07-08;Cliente_10121;PE;App Mobile;Cartão de Credito rotativo;15295,19;0,6443;36;803;31403,52;20;Atraso Curto (1-30d)
+CTR-51122;22/10/2023;Cliente_10122;ES;Internet Banking;Empréstimo Empresarial PJ;119037,85;0,2396;60;375;7138,24;15;Atraso Curto (1-30d)
+CTR-51123;25/10/2023;Cliente_10123;RJ;Agência Física;Financiamento Imobiliário;394723,9;0,1312;36;695;20962,21;0;Em Dia
+CTR-51124;2025-07-22;Cliente_10124;PR;Correspondente Bancário;financiamento veicular;38955,26;0,2143;24;338;28495,13;15;Atraso Curto (1-30d)
+CTR-51125;2024-02-21;Cliente_10125;SP;Internet Banking;Financiamento Imobiliário;708118,28;0,0921;60;666;20272,56;0;Em Dia
+CTR-51126;2024-04-15;Cliente_10126;BA;Correspondente Bancário;Financiamento Veicular;134799,38;0,2294;60;732;25743,12;0;Em Dia
+CTR-51127;2024-03-14;Cliente_10127;SC;Internet Banking;Financiamento Veicular;92135,33;0,2407;60;430;13657,23;95;Inadimplente / NPL (>90d)
+CTR-51128;05/04/2025;Cliente_10128;go;Agência Física;crédito pessoal;8138,7;0,381;24;501;8397,85;0;Em Dia
+CTR-51129;26/01/2024;Cliente_10129; RS ;Agência Física;cartão de crédito rotativo;11166,96;0,5331;24;443;22883,13;45;Atraso Crítico (31-90d)
+CTR-51130;2024-03-31;Cliente_10130;MG;Correspondente Bancário;Credito Pessoal;26737,81;0,2231;36;475;33658,29;15;Atraso Curto (1-30d)
+CTR-51131;07/05/2024;Cliente_10131;ES;Correspondente Bancário;Financiamento Veicular;59484,98;0,2019;12;636;18550,68;10;Atraso Curto (1-30d)
+CTR-51132;02/10/2024;Cliente_10132;PR;App Mobile;Financiamento Veicular;65652,85;0,1468;12;393;24733,42;15;Atraso Curto (1-30d)
+CTR-51133;2023-08-02;Cliente_10133;sp;App Mobile;Financiamento Veicular;83102,56;0,1425;60;798;25156,01;0;Em Dia
+CTR-51134;18/01/2024;Cliente_10134;ES;Correspondente Bancário;Financiamento Veicular;49325,23;0,2127;12;321;25012,01;45;Atraso Crítico (31-90d)
+CTR-51135;05/09/2023;Cliente_10135;mg;App Mobile;financiamento veicular;72588,07;0,2516;36;617;34556,14;90;Atraso Crítico (31-90d)
+CTR-51136;10/03/2025;Cliente_10136;ES;Correspondente Bancário;Empréstimo Empresarial PJ;50619,35;0,1432;36;577;18655,34;10;Atraso Curto (1-30d)
+CTR-51137;2024-12-22;Cliente_10137;pr;Internet Banking;Financiamento Veicular;54439,65;0,2006;24;467;11473,96;95;Inadimplente / NPL (>90d)
+CTR-51138;2024-03-21;Cliente_10138;sc;Agência Física;Credito Pessoal;25243,38;0,2137;48;799;5737,31;0;Em Dia
+CTR-51139;2024-02-25;Cliente_10139;SC;Correspondente Bancário;Cartão de Credito rotativo;13355,78;0,4741;36;608;5196,47;0;Em Dia
+CTR-51140;10/05/2024;Cliente_10140;ES;App Mobile;financiamento veicular;165699,36;0,2717;48;636;25206,06;0;Em Dia
+CTR-51141;2023-08-18;Cliente_10141;PE;Internet Banking;Financiamento Veicular;128331,24;0,1427;24;367;9899,71;15;Atraso Curto (1-30d)
+CTR-51142;06/04/2025;Cliente_10142;RS;Agência Física;Financiamento Veicular;120321,08;0,1667;12;384;6951,72;0;Em Dia
+CTR-51143;28/12/2023;Cliente_10143;CE;Correspondente Bancário;financiamento imobiliário;499733,01;0,1104;120;324;4745,74;120;Inadimplente / NPL (>90d)
+CTR-51144;18/07/2025;Cliente_10144;pr;Correspondente Bancário;Cartão de Credito rotativo;2995,58;0,4701;60;685;19627,43;0;Em Dia
+CTR-51145;2025-03-15;Cliente_10145;GO;Correspondente Bancário;cartão de crédito rotativo;18391,77;0,772;48;734;19376,53;0;Em Dia
+CTR-51146;2023-07-23;Cliente_10146;RS;Agência Física;Credito Pessoal;29244,39;0,4295;48;460;5394,42;95;Inadimplente / NPL (>90d)
+CTR-51147;2024-05-31;Cliente_10147;PR;Correspondente Bancário;Financiamento Imobiliário;455266,09;0,095;60;583;4539,3;0;Em Dia
+CTR-51148;15/06/2024;Cliente_10148;PE;Agência Física;Credito Pessoal;9445,01;0,1803;60;831;4314,55;0;Em Dia
+CTR-51149;14/10/2024;Cliente_10149;BA;Correspondente Bancário;empréstimo empresarial pj;466187,46;0,1609;24;376;29760,79;15;Atraso Curto (1-30d)
+CTR-51150;2023-03-22;Cliente_10150;SC;Agência Física;crédito pessoal;7203,39;0,2895;60;582;12649,34;0;Em Dia
+CTR-51151;07/04/2025;Cliente_10151;es;Agência Física;Empréstimo Empresarial PJ;463166,45;0,2385;12;737;12635,61;45;Atraso Crítico (31-90d)
+CTR-51152;02/07/2025;Cliente_10152;ce;App Mobile;Empréstimo Empresarial PJ;307894,98;0,2066;60;539;14281,06;95;Inadimplente / NPL (>90d)
+CTR-51153;2023-01-21;Cliente_10153;RJ;App Mobile;Financiamento Veicular;167976,0;0,2636;36;350;32184,53;15;Atraso Curto (1-30d)
+CTR-51154;08/07/2025;Cliente_10154;RS;Agência Física;Financiamento Veicular;137993,46;0,2751;36;741;32608,69;0;Em Dia
+CTR-51155;18/11/2023;Cliente_10155;GO;Internet Banking;Credito Pessoal;4706,14;0,2071;60;824;22551,41;0;Em Dia
+CTR-51156;2025-07-30;Cliente_10156;RS;Agência Física;Empréstimo Empresarial PJ;339547,16;0,2186;48;557;29014,07;10;Atraso Curto (1-30d)
+CTR-51157;2024-02-20;Cliente_10157;ES;Correspondente Bancário;Empréstimo Empresarial PJ;322972,46;0,1472;48;502;24918,58;0;Em Dia
+CTR-51158;2025-05-21;Cliente_10158;SP;Agência Física;Cartão de Credito rotativo;12005,55;0,7119;12;737;14800,62;0;Em Dia
+CTR-51159;2023-08-09;Cliente_10159;PR;Agência Física;Cartão de Credito rotativo;9036,03;0,5156;24;839;19640,16;0;Em Dia
+CTR-51160;26/09/2024;Cliente_10160;PR;App Mobile;Empréstimo Empresarial PJ;395638,88;0,1765;24;403;14001,04;95;Inadimplente / NPL (>90d)
+CTR-51161;2023-06-13;Cliente_10161;BA;Internet Banking;financiamento veicular;163807,71;0,2264;12;709;23457,57;15;Atraso Curto (1-30d)
+CTR-51162;08/07/2024;Cliente_10162;BA;Correspondente Bancário;Financiamento Imobiliário;594087,1;0,0986;360;528;7227,31;0;Em Dia
+CTR-51163;2023-03-02;Cliente_10163;SC;Internet Banking;crédito pessoal;34432,34;0,193;36;580;17472,0;10;Atraso Curto (1-30d)
+CTR-51164;31/03/2025;Cliente_10164;SC;Internet Banking;Credito Pessoal;26022,25;0,4461;36;700;16529,9;0;Em Dia
+CTR-51165;2023-04-09;Cliente_10165;RS;Correspondente Bancário;Cartão de Credito rotativo;3840,04;0,4614;12;531;34530,1;10;Atraso Curto (1-30d)
+CTR-51166;12/09/2023;Cliente_10166;SP;App Mobile;Financiamento Imobiliário;825887,95;0,0933;24;780;9566,4;0;Em Dia
+CTR-51167;2024-07-10;Cliente_10167;BA;Correspondente Bancário;Empréstimo Empresarial PJ;173354,02;0,1423;24;772;7659,62;0;Em Dia
+CTR-51168;14/01/2025;Cliente_10168;CE;Agência Física;Financiamento Imobiliário;639891,18;0,1052;60;431;32790,51;15;Atraso Curto (1-30d)
+CTR-51169;2024-08-31;Cliente_10169;PR;Correspondente Bancário;financiamento imobiliário;219364,51;0,1284;24;408;3967,43;0;Em Dia
+CTR-51170;2023-07-11;Cliente_10170;DF;Internet Banking;Empréstimo Empresarial PJ;372423,45;0,174;48;627;3086,79;45;Atraso Crítico (31-90d)
+CTR-51171;2023-10-06;Cliente_10171;PE;Agência Física;Financiamento Imobiliário;854032,28;0,0956;24;699;12948,96;120;Inadimplente / NPL (>90d)
+CTR-51172;2024-02-02;Cliente_10172;rs;Agência Física;empréstimo empresarial pj;430574,24;0,1612;48;352;30921,6;120;Inadimplente / NPL (>90d)
+CTR-51173;13/07/2025;Cliente_10173;SP;App Mobile;Financiamento Veicular;139285,27;0,2094;12;728;9181,26;45;Atraso Crítico (31-90d)
+CTR-51174;29/08/2024;Cliente_10174;BA;Correspondente Bancário;Cartão de Credito rotativo;16058,48;0,7456;24;630;20030,34;0;Em Dia
+CTR-51175;17/03/2025;Cliente_10175; DF ;Correspondente Bancário;Credito Pessoal;34107,88;0,2964;24;576;11834,56;0;Em Dia
+CTR-51176;12/05/2025;Cliente_10176;DF;Correspondente Bancário;Financiamento Imobiliário;442520,51;0,0981;12;363;30834,68;45;Atraso Crítico (31-90d)
+CTR-51177;04/04/2024;Cliente_10177;RJ;App Mobile;Financiamento Veicular;90082,51;0,1573;24;346;14922,97;15;Atraso Curto (1-30d)
+CTR-51178;26/06/2025;Cliente_10178;PE;Internet Banking;crédito pessoal;27011,76;0,355;60;682;23526,63;5;Atraso Curto (1-30d)
+CTR-51179;2024-05-01;Cliente_10179; SP ;Agência Física;empréstimo empresarial pj;355891,54;0,1335;24;415;27179,05;45;Atraso Crítico (31-90d)
+CTR-51180;2023-01-14;Cliente_10180;SC;Correspondente Bancário;Empréstimo Empresarial PJ;299420,31;0,1686;12;541;14036,4;15;Atraso Curto (1-30d)
+CTR-51181;2024-08-07;Cliente_10181;PR;Agência Física;Financiamento Veicular;64368,06;0,2299;60;700;30161,72;0;Em Dia
+CTR-51182;2024-08-12;Cliente_10182;SP;Agência Física;financiamento veicular;99666,37;0,2692;48;455;17150,3;45;Atraso Crítico (31-90d)
+CTR-51183;19/03/2025;Cliente_10183;mg;App Mobile;empréstimo empresarial pj;207083,4;0,1471;36;635;25020,2;0;Em Dia
+CTR-51184;2025-06-18;Cliente_10184;ES;Agência Física;Credito Pessoal;28049,7;0,293;12;336;4724,71;45;Atraso Crítico (31-90d)
+CTR-51185;2024-03-16;Cliente_10185;SP;Agência Física;Credito Pessoal;3986,91;0,3544;36;724;28933,84;0;Em Dia
+CTR-51186;2023-11-30;Cliente_10186;RS;Internet Banking;Cartão de Credito rotativo;6940,8;0,5919;60;839;30000,58;0;Em Dia
+CTR-51187;2025-08-23;Cliente_10187;df;Correspondente Bancário;crédito pessoal;19598,11;0,3931;60;459;31869,45;15;Atraso Curto (1-30d)
+CTR-51188;2023-07-03;Cliente_10188;rj;Internet Banking;Empréstimo Empresarial PJ;471263,86;0,1843;48;779;26334,34;15;Atraso Curto (1-30d)
+CTR-51189;2025-03-24;Cliente_10189;DF;App Mobile;Cartão de Credito rotativo;16366,62;0,5127;12;481;23857,61;120;Inadimplente / NPL (>90d)
+CTR-51190;30/05/2023;Cliente_10190;RS;App Mobile;Financiamento Veicular;52781,65;0,1632;12;593;5572,09;120;Inadimplente / NPL (>90d)
+CTR-51191;11/06/2023;Cliente_10191;sc;Agência Física;Empréstimo Empresarial PJ;177373,55;0,131;12;327;30923,21;95;Inadimplente / NPL (>90d)
+CTR-51192;2025-03-16;Cliente_10192;ES;Agência Física;Financiamento Imobiliário;431422,28;0,1038;120;749;20438,46;0;Em Dia
+CTR-51193;2024-10-18;Cliente_10193;es;Internet Banking;Financiamento Imobiliário;715920,4;0,0945;60;678;24209,31;0;Em Dia
+CTR-51194;2024-06-16;Cliente_10194;ba;Agência Física;Financiamento Veicular;120488,81;0,1423;12;348;15557,94;95;Inadimplente / NPL (>90d)
+CTR-51195;2023-11-21;Cliente_10195;CE;Internet Banking;Empréstimo Empresarial PJ;358091,53;0,1491;60;423;25051,34;0;Em Dia
+CTR-51196;27/05/2024;Cliente_10196;MG;Internet Banking;Credito Pessoal;29628,47;0,4316;60;531;27911,27;10;Atraso Curto (1-30d)
+CTR-51197;2025-05-31;Cliente_10197;SP;Correspondente Bancário;Cartão de Credito rotativo;4499,49;0,8356;36;609;16996,49;0;Em Dia
+CTR-51198;29/04/2025;Cliente_10198;df;Agência Física;Empréstimo Empresarial PJ;63719,64;0,1951;60;488;32450,23;0;Em Dia
+CTR-51199;2025-08-04;Cliente_10199;DF;App Mobile;Cartão de Credito rotativo;14004,67;0,5603;12;628;14473,8;0;Em Dia
+CTR-51200;2023-08-11;Cliente_10200;GO;App Mobile;Empréstimo Empresarial PJ;340849,08;0,1913;48;423;8738,67;15;Atraso Curto (1-30d)
+CTR-51201;2023-02-11;Cliente_10201;SC;App Mobile;Cartão de Credito rotativo;11748,7;0,6274;48;600;20240,84;10;Atraso Curto (1-30d)
+CTR-51202;2023-07-21;Cliente_10202;PE;App Mobile;Financiamento Veicular;167786,91;0,1833;36;598;25051,27;10;Atraso Curto (1-30d)
+CTR-51203;17/02/2024;Cliente_10203;CE;Internet Banking;Credito Pessoal;10243,81;0,4182;36;366;31125,63;95;Inadimplente / NPL (>90d)
+CTR-51204;2025-03-18;Cliente_10204;SP;Internet Banking;Financiamento Imobiliário;559239,63;0,1142;48;400;15668,58;45;Atraso Crítico (31-90d)
+CTR-51205;2024-02-03;Cliente_10205;CE;Correspondente Bancário;Cartão de Credito rotativo;5910,22;0,5977;36;372;20031,86;15;Atraso Curto (1-30d)
+CTR-51206;2024-11-01;Cliente_10206;ES;App Mobile;Empréstimo Empresarial PJ;437768,51;0,1741;12;678;28427,98;95;Inadimplente / NPL (>90d)
+CTR-51207;29/11/2024;Cliente_10207;RJ;Agência Física;Financiamento Veicular;109696,26;0,1665;60;779;7127,09;0;Em Dia
+CTR-51208;2023-07-19;Cliente_10208;MG;App Mobile;Financiamento Imobiliário;691290,08;0,1311;120;483;4102,7;0;Em Dia
+CTR-51209;2025-04-19;Cliente_10209;RS;Internet Banking;Empréstimo Empresarial PJ;402262,74;0,1288;48;653;18279,84;15;Atraso Curto (1-30d)
+CTR-51210;2024-01-02;Cliente_10210;GO;Correspondente Bancário;Cartão de Credito rotativo;17129,94;0,466;60;510;27992,21;35;Atraso Crítico (31-90d)
+CTR-51211;2023-04-04;Cliente_10211;GO;Correspondente Bancário;Financiamento Veicular;81687,66;0,2693;48;408;24030,55;45;Atraso Crítico (31-90d)
+CTR-51212;13/02/2023;Cliente_10212;PR;App Mobile;Credito Pessoal;18555,15;0,2294;60;405;18832,96;95;Inadimplente / NPL (>90d)
+CTR-51213;2025-02-18;Cliente_10213;RJ;Correspondente Bancário;financiamento imobiliário;766854,16;0,1023;48;466;30728,95;120;Inadimplente / NPL (>90d)
+CTR-51214;2023-08-05;Cliente_10214;rs;Internet Banking;Credito Pessoal;13694,51;0,1884;60;557;8463,76;0;Em Dia
+CTR-51215;13/03/2023;Cliente_10215;mg;Internet Banking;financiamento imobiliário;723985,87;0,0983;120;411;18111,37;95;Inadimplente / NPL (>90d)
+CTR-51216;30/05/2023;Cliente_10216;RJ;Internet Banking;Empréstimo Empresarial PJ;355765,52;0,1477;12;834;17263,22;95;Inadimplente / NPL (>90d)
+CTR-51217;2023-12-15;Cliente_10217;MG;Internet Banking;Financiamento Imobiliário;522420,95;0,112;36;842;12705,34;15;Atraso Curto (1-30d)
+CTR-51218;2024-01-30;Cliente_10218;GO;Agência Física;Cartão de Credito rotativo;17307,1;0,8299;12;778;18354,77;0;Em Dia
+CTR-51219;2024-04-25;Cliente_10219;sc;Correspondente Bancário;Financiamento Imobiliário;632707,68;0,1052;12;474;23004,31;45;Atraso Crítico (31-90d)
+CTR-51220;03/11/2024;Cliente_10220;DF;Correspondente Bancário;Cartão de Credito rotativo;7958,01;0,7752;60;576;16730,99;0;Em Dia
+CTR-51221;19/04/2024;Cliente_10221;MG;Internet Banking;Financiamento Veicular;66450,69;0,269;36;673;30061,14;0;Em Dia
+CTR-51222;04/01/2024;Cliente_10222;CE;Internet Banking;Financiamento Veicular;51020,26;0,2392;60;435;24257,74;45;Atraso Crítico (31-90d)
+CTR-51223;05/05/2024;Cliente_10223;CE;Correspondente Bancário;Credito Pessoal;15854,23;0,2565;48;663;21555,12;0;Em Dia
+CTR-51224;2024-05-24;Cliente_10224;RS;Correspondente Bancário;Financiamento Veicular;44844,29;0,2333;60;776;32471,46;0;Em Dia
+CTR-51225;2023-04-20;Cliente_10225;GO;App Mobile;Empréstimo Empresarial PJ;369421,02;0,2295;24;552;13214,8;45;Atraso Crítico (31-90d)
+CTR-51226;2023-10-13;Cliente_10226;PE;App Mobile;Empréstimo Empresarial PJ;360897,56;0,1287;48;528;20986,65;120;Inadimplente / NPL (>90d)
+CTR-51227;22/12/2023;Cliente_10227;pr;Internet Banking;Financiamento Imobiliário;540871,37;0,1004;12;650;18735,78;15;Atraso Curto (1-30d)
+CTR-51228;2023-10-16;Cliente_10228; RS ;App Mobile;Financiamento Imobiliário;585508,92;0,1353;120;354;14930,85;15;Atraso Curto (1-30d)
+CTR-51229;18/08/2025;Cliente_10229;PR;App Mobile;Credito Pessoal;9973,21;0,203;24;758;15346,48;0;Em Dia
+CTR-51230;14/12/2024;Cliente_10230;SC;Correspondente Bancário;Cartão de Credito rotativo;8674,08;0,6948;60;708;4956,39;5;Atraso Curto (1-30d)
+CTR-51231;24/01/2023;Cliente_10231;ES;Agência Física;financiamento veicular;165903,7;0,1708;48;618;22730,05;0;Em Dia
+CTR-51232;2025-04-14;Cliente_10232;GO;App Mobile;Financiamento Imobiliário;378292,7;0,1377;36;547;32550,93;10;Atraso Curto (1-30d)
+CTR-51233;16/04/2025;Cliente_10233;CE;Agência Física;Credito Pessoal;26209,14;0,4177;48;356;21768,44;15;Atraso Curto (1-30d)
+CTR-51234;16/03/2023;Cliente_10234;DF;Internet Banking;Financiamento Imobiliário;919135,32;0,1096;360;568;6180,01;0;Em Dia
+CTR-51235;22/01/2025;Cliente_10235;RS;Internet Banking;financiamento veicular;51095,57;0,151;36;741;21956,62;0;Em Dia
+CTR-51236;2025-08-08;Cliente_10236; GO ;Internet Banking;Credito Pessoal;34077,45;0,373;24;692;11207,21;0;Em Dia
+CTR-51237;26/03/2024;Cliente_10237; DF ;Agência Física;Financiamento Imobiliário;338606,7;0,1193;72;845;27112,34;20;Atraso Curto (1-30d)
+CTR-51238;26/11/2024;Cliente_10238;MG;App Mobile;Financiamento Veicular;50912,95;0,1633;48;675;29696,07;0;Em Dia
+CTR-51239;16/09/2024;Cliente_10239;CE;Correspondente Bancário;Financiamento Veicular;135199,03;0,2159;48;484;10271,67;0;Em Dia
+CTR-51240;06/07/2024;Cliente_10240;SP;Internet Banking;financiamento imobiliário;831910,75;0,1126;24;450;14928,95;0;Em Dia
+CTR-51241;29/07/2025;Cliente_10241;GO;App Mobile;Empréstimo Empresarial PJ;492001,85;0,2233;36;396;31226,71;0;Em Dia
+CTR-51242;2023-05-15;Cliente_10242;SC;App Mobile;Financiamento Imobiliário;752064,12;0,1003;120;773;8420,46;0;Em Dia
+CTR-51243;16/08/2023;Cliente_10243;BA;Correspondente Bancário;Empréstimo Empresarial PJ;107129,03;0,1523;36;573;29788,71;10;Atraso Curto (1-30d)
+CTR-51244;04/01/2025;Cliente_10244; RJ ;Correspondente Bancário;Empréstimo Empresarial PJ;136549,1;0,2384;24;663;20158,52;20;Atraso Curto (1-30d)
+CTR-51245;2024-09-01;Cliente_10245;BA;App Mobile;financiamento imobiliário;517776,48;0,1003;60;643;8125,88;120;Inadimplente / NPL (>90d)
+CTR-51246;05/10/2024;Cliente_10246;PR;Correspondente Bancário;Financiamento Veicular;133164,68;0,1643;24;832;32047,6;0;Em Dia
+CTR-51247;13/01/2023;Cliente_10247;PE;Internet Banking;Credito Pessoal;23835,5;0,4134;36;849;17488,19;0;Em Dia
+CTR-51248;2024-10-11;Cliente_10248; MG ;Internet Banking;Cartão de Credito rotativo;2069,17;0,6319;36;337;5869,35;45;Atraso Crítico (31-90d)
+CTR-51249;2023-08-21;Cliente_10249; RS ;Correspondente Bancário;Credito Pessoal;22892,32;0,4389;60;331;28181,93;0;Em Dia
+CTR-51250;2023-12-27;Cliente_10250;MG;Correspondente Bancário;Credito Pessoal;20776,85;0,4089;48;347;7793,4;15;Atraso Curto (1-30d)
+CTR-51251;07/04/2024;Cliente_10001;sp;Agência Física;Financiamento Veicular;128246,34;0,2752;36;498;33080,05;45;Atraso Crítico (31-90d)
+CTR-51252;03/03/2025;Cliente_10002;GO;Agência Física;Financiamento Veicular;82638,35;0,1941;48;751;9075,43;20;Atraso Curto (1-30d)
+CTR-51253;07/04/2025;Cliente_10003;PE;App Mobile;Financiamento Imobiliário;841941,33;0,0896;72;845;10827,79;45;Atraso Crítico (31-90d)
+CTR-51254;16/01/2025;Cliente_10004;MG;App Mobile;Financiamento Imobiliário;273965,46;0,1311;72;388;20104,49;0;Em Dia
+CTR-51255;2024-07-09;Cliente_10005; PR ;Correspondente Bancário;Credito Pessoal;5938,07;0,3383;48;434;25035,74;45;Atraso Crítico (31-90d)
+CTR-51256;2024-07-29;Cliente_10006;PR;Internet Banking;financiamento veicular;43366,32;0,2632;24;747;7746,36;5;Atraso Curto (1-30d)
+CTR-51257;2025-03-17;Cliente_10007;rs;Agência Física;Credito Pessoal;13086,63;0,2358;24;544;8505,86;0;Em Dia
+CTR-51258;2024-11-09;Cliente_10008;pr;Agência Física;Financiamento Veicular;36483,03;0,2704;24;379;24928,99;95;Inadimplente / NPL (>90d)
+CTR-51259;15/07/2025;Cliente_10009;ES;Internet Banking;Cartão de Credito rotativo;5982,99;0,4771;60;425;14315,0;15;Atraso Curto (1-30d)
+CTR-51260;10/09/2023;Cliente_10010;ba;Agência Física;Credito Pessoal;6378,94;0,2535;24;759;33014,97;0;Em Dia
+CTR-51261;2025-03-19;Cliente_10011;MG;App Mobile;Credito Pessoal;5112,48;0,2709;60;598;8488,74;0;Em Dia
+CTR-51262;04/08/2024;Cliente_10012;CE;App Mobile;financiamento imobiliário;676862,25;0,1117;120;709;5910,83;15;Atraso Curto (1-30d)
+CTR-51263;2023-07-21;Cliente_10013;df;Agência Física;crédito pessoal;29347,62;0,1833;24;503;30352,6;0;Em Dia
+CTR-51264;2025-08-21;Cliente_10014; MG ;Agência Física;Credito Pessoal;26686,57;0,3766;36;666;3270,57;5;Atraso Curto (1-30d)
+CTR-51265;2024-07-19;Cliente_10015;CE;Correspondente Bancário;Credito Pessoal;19381,26;0,2028;60;329;7377,34;45;Atraso Crítico (31-90d)
+CTR-51266;2024-07-24;Cliente_10016;pr;Correspondente Bancário;Financiamento Imobiliário;185555,07;0,1173;24;425;25936,95;45;Atraso Crítico (31-90d)
+CTR-51267;27/05/2023;Cliente_10017;BA;Correspondente Bancário;Empréstimo Empresarial PJ;265824,24;0,1264;36;419;3067,9;15;Atraso Curto (1-30d)
+CTR-51268;2024-03-13;Cliente_10018;sp;Agência Física;Cartão de Credito rotativo;4711,36;0,8289;60;545;3604,17;0;Em Dia
+CTR-51269;2024-04-27;Cliente_10019;MG;App Mobile;Financiamento Veicular;152149,54;0,1971;48;631;32925,38;0;Em Dia
+CTR-51270;2024-09-27;Cliente_10020;GO;App Mobile;financiamento veicular;165331,14;0,1786;48;808;5422,83;45;Atraso Crítico (31-90d)
+CTR-51271;16/04/2023;Cliente_10021;ES;App Mobile;Cartão de Credito rotativo;10983,48;0,8269;24;373;29913,78;15;Atraso Curto (1-30d)
+CTR-51272;2025-05-17;Cliente_10022;ES;Agência Física;Credito Pessoal;29345,77;0,2368;24;488;24317,58;120;Inadimplente / NPL (>90d)
+CTR-51273;23/07/2024;Cliente_10023;RJ;App Mobile;Cartão de Credito rotativo;17224,51;0,5984;24;542;18612,8;0;Em Dia
+CTR-51274;2025-03-29;Cliente_10024;SP;Correspondente Bancário;Financiamento Imobiliário;847934,4;0,0862;72;393;20914,59;45;Atraso Crítico (31-90d)
+CTR-51275;2025-01-11;Cliente_10025; SC ;Correspondente Bancário;Financiamento Imobiliário;805743,74;0,1253;60;350;3768,03;45;Atraso Crítico (31-90d)
+CTR-51276;2023-05-15;Cliente_10026;RJ;App Mobile;Financiamento Imobiliário;705674,99;0,1079;48;686;8474,82;0;Em Dia
+CTR-51277;14/07/2024;Cliente_10027;ES;Agência Física;Financiamento Veicular;80995,86;0,1538;36;704;3294,72;45;Atraso Crítico (31-90d)
+CTR-51278;13/04/2024;Cliente_10028;RJ;App Mobile;Empréstimo Empresarial PJ;330861,45;0,2041;24;337;24406,95;15;Atraso Curto (1-30d)
+CTR-51279;10/07/2025;Cliente_10029;BA;Internet Banking;financiamento imobiliário;878660,64;0,1168;36;616;28683,7;45;Atraso Crítico (31-90d)
+CTR-51280;2023-09-16;Cliente_10030;RS;Agência Física;Financiamento Imobiliário;589990,55;0,1147;60;661;29741,34;0;Em Dia
+CTR-51281;2023-06-04;Cliente_10031;RS;App Mobile;Financiamento Imobiliário;561676,4;0,1272;24;432;4085,69;0;Em Dia
+CTR-51282;2023-02-15;Cliente_10032;SP;Internet Banking;Cartão de Credito rotativo;17795,25;0,7494;12;847;29305,82;0;Em Dia
+CTR-51283;2024-05-23;Cliente_10033;ba;Correspondente Bancário;Empréstimo Empresarial PJ;69926,22;0,1512;36;511;9805,22;0;Em Dia
+CTR-51284;2023-03-22;Cliente_10034;SP;Correspondente Bancário;financiamento imobiliário;424739,48;0,1176;360;661;18866,15;0;Em Dia
+CTR-51285;2024-11-26;Cliente_10035;RJ;Internet Banking;Empréstimo Empresarial PJ;268826,22;0,1998;60;425;3786,99;120;Inadimplente / NPL (>90d)
+CTR-51286;14/05/2025;Cliente_10036;MG;Agência Física;Empréstimo Empresarial PJ;206598,76;0,2268;12;483;24972,39;15;Atraso Curto (1-30d)
+CTR-51287;2023-08-22;Cliente_10037;SP;Internet Banking;Cartão de Credito rotativo;11112,99;0,7496;60;514;6730,49;10;Atraso Curto (1-30d)
+CTR-51288;29/01/2023;Cliente_10038;MG;Internet Banking;financiamento imobiliário;918526,48;0,0971;360;840;20765,34;0;Em Dia
+CTR-51289;2023-11-06;Cliente_10039;SP;Correspondente Bancário;crédito pessoal;3781,4;0,3791;24;490;16325,36;15;Atraso Curto (1-30d)
+CTR-51290;2023-01-13;Cliente_10040;ES;Internet Banking;Cartão de Credito rotativo;8085,25;0,5965;24;820;26674,68;0;Em Dia
+CTR-51291;2024-09-29;Cliente_10041;ES;Internet Banking;Financiamento Veicular;167848,36;0,2087;24;502;22488,3;90;Atraso Crítico (31-90d)
+CTR-51292;2024-09-25;Cliente_10042;ES;App Mobile;Financiamento Veicular;50732,82;0,1465;60;824;4158,83;0;Em Dia
+CTR-51293;2023-07-05;Cliente_10043;SC;Agência Física;Credito Pessoal;19944,39;0,3752;60;819;21015,33;0;Em Dia
+CTR-51294;2024-06-21;Cliente_10044;SP;App Mobile;Cartão de Credito rotativo;4844,83;0,4891;60;708;18827,1;0;Em Dia
+CTR-51295;2023-04-28;Cliente_10045;SP;App Mobile;Cartão de Credito rotativo;5844,48;0,4506;12;654;26930,95;0;Em Dia
+CTR-51296;23/03/2025;Cliente_10046;ES;App Mobile;empréstimo empresarial pj;262631,68;0,1882;36;637;29809,69;0;Em Dia
+CTR-51297;2023-05-25;Cliente_10047;PE;Internet Banking;crédito pessoal;2409,26;0,2269;24;567;21935,78;90;Atraso Crítico (31-90d)
+CTR-51298;2025-02-13;Cliente_10048;BA;App Mobile;cartão de crédito rotativo;8078,79;0,4817;36;435;14912,64;95;Inadimplente / NPL (>90d)
+CTR-51299;2024-09-12;Cliente_10049;MG;Agência Física;Financiamento Imobiliário;320181,16;0,0966;120;686;19216,69;20;Atraso Curto (1-30d)
+CTR-51300;2024-08-15;Cliente_10050;RJ;Internet Banking;Financiamento Imobiliário;167852,15;0,1047;72;673;34219,47;0;Em Dia
+CTR-51301;2023-05-28;Cliente_10051;es;Internet Banking;Financiamento Veicular;174003,01;0,2779;48;467;27601,14;95;Inadimplente / NPL (>90d)
+CTR-51302;2024-05-04;Cliente_10052;DF;App Mobile;Cartão de Credito rotativo;3784,25;0,6781;12;781;8099,33;0;Em Dia
+CTR-51303;14/04/2025;Cliente_10053;CE;Correspondente Bancário;Empréstimo Empresarial PJ;172748,29;0,2433;24;544;34167,32;10;Atraso Curto (1-30d)
+CTR-51304;16/11/2024;Cliente_10054;ce;Correspondente Bancário;Cartão de Credito rotativo;15662,54;0,4705;24;530;20126,31;90;Atraso Crítico (31-90d)
+CTR-51305;26/04/2023;Cliente_10055;ES;App Mobile;Credito Pessoal;32438,35;0,186;48;817;26570,63;0;Em Dia
+CTR-51306;2024-11-22;Cliente_10056;SC;App Mobile;Credito Pessoal;22367,03;0,3079;36;602;33851,83;0;Em Dia
+CTR-51307;2023-03-24;Cliente_10057;SC;Internet Banking;Cartão de Credito rotativo;10569,97;0,8403;12;701;6349,98;0;Em Dia
+CTR-51308;2025-06-05;Cliente_10058;RJ;Correspondente Bancário;Financiamento Imobiliário;777673,16;0,131;36;842;7566,45;0;Em Dia
+CTR-51309;29/03/2023;Cliente_10059;SP;App Mobile;crédito pessoal;32568,01;0,2813;36;809;7780,07;0;Em Dia
+CTR-51310;25/05/2025;Cliente_10060;RS;App Mobile;Financiamento Imobiliário;931276,83;0,1251;360;774;7883,57;0;Em Dia
+CTR-51311;22/10/2023;Cliente_10061;RS;Correspondente Bancário;Empréstimo Empresarial PJ;374089,81;0,1468;60;340;3217,1;15;Atraso Curto (1-30d)
+CTR-51312;08/02/2024;Cliente_10062;rs;App Mobile;Financiamento Imobiliário;912955,0;0,0852;72;697;29441,07;0;Em Dia
+CTR-51313;25/07/2023;Cliente_10063; ES ;Correspondente Bancário;Empréstimo Empresarial PJ;470840,58;0,1899;12;333;30845,18;45;Atraso Crítico (31-90d)
+CTR-51314;2024-06-25;Cliente_10064;BA;Agência Física;Financiamento Imobiliário;550836,74;0,0959;12;527;15122,96;15;Atraso Curto (1-30d)
+CTR-51315;05/01/2024;Cliente_10065;ES;App Mobile;Financiamento Veicular;32304,11;0,2095;12;724;9411,13;0;Em Dia
+CTR-51316;2023-12-01;Cliente_10066;DF;App Mobile;Empréstimo Empresarial PJ;154861,04;0,1713;60;460;34050,41;15;Atraso Curto (1-30d)
+CTR-51317;2024-12-07;Cliente_10067;ES;Internet Banking;Financiamento Veicular;27571,82;0,1404;12;561;3102,19;120;Inadimplente / NPL (>90d)
+CTR-51318;14/11/2024;Cliente_10068;RS;Internet Banking;Credito Pessoal;21174,73;0,2203;12;662;16420,52;0;Em Dia
+CTR-51319;10/05/2025;Cliente_10069;PE;Correspondente Bancário;Cartão de Credito rotativo;19957,03;0,5291;48;322;18241,39;95;Inadimplente / NPL (>90d)
+CTR-51320;2023-10-31;Cliente_10070; PE ;Correspondente Bancário;crédito pessoal;18395,57;0,3504;48;492;17356,91;45;Atraso Crítico (31-90d)
+CTR-51321;24/01/2025;Cliente_10071;RS;Internet Banking;Credito Pessoal;19672,55;0,1926;36;508;5916,48;90;Atraso Crítico (31-90d)
+CTR-51322;2024-12-16;Cliente_10072;SP;Correspondente Bancário;crédito pessoal;27998,97;0,2108;48;566;9476,89;0;Em Dia
+CTR-51323;23/08/2024;Cliente_10073;PE;App Mobile;Financiamento Veicular;57116,1;0,1914;24;378;7681,67;120;Inadimplente / NPL (>90d)
+CTR-51324;2025-01-30;Cliente_10074;ES;Internet Banking;Financiamento Veicular;75325,19;0,2369;24;437;19032,58;15;Atraso Curto (1-30d)
+CTR-51325;2023-12-10;Cliente_10075;MG;Agência Física;Credito Pessoal;33366,09;0,3227;36;655;27864,25;20;Atraso Curto (1-30d)
+CTR-51326;2024-12-30;Cliente_10076;RS;Agência Física;Financiamento Imobiliário;336139,49;0,1263;72;394;33029,92;95;Inadimplente / NPL (>90d)
+CTR-51327;2024-08-19;Cliente_10077;BA;Correspondente Bancário;Credito Pessoal;29180,67;0,2297;36;506;23193,79;0;Em Dia
+CTR-51328;2023-02-06;Cliente_10078;ES;Correspondente Bancário;Cartão de Credito rotativo;10066,27;0,6686;60;509;28647,66;0;Em Dia
+CTR-51329;2024-03-22;Cliente_10079;SC;App Mobile;Financiamento Veicular;123800,01;0,145;36;351;30730,71;95;Inadimplente / NPL (>90d)
+CTR-51330;11/05/2023;Cliente_10080;CE;App Mobile;Empréstimo Empresarial PJ;466874,35;0,1636;60;504;10549,46;15;Atraso Curto (1-30d)
+CTR-51331;2025-04-22;Cliente_10081;DF;Correspondente Bancário;Cartão de Credito rotativo;18368,96;0,5167;12;343;13604,94;95;Inadimplente / NPL (>90d)
+CTR-51332;21/04/2024;Cliente_10082;ba;Correspondente Bancário;Credito Pessoal;4314,96;0,2208;24;807;8985,91;20;Atraso Curto (1-30d)
+CTR-51333;2024-02-09;Cliente_10083;BA;Agência Física;Credito Pessoal;13109,46;0,4015;12;350;28377,67;95;Inadimplente / NPL (>90d)
+CTR-51334;2025-06-14;Cliente_10084;RJ;App Mobile;Credito Pessoal;21290,18;0,188;60;378;10749,83;120;Inadimplente / NPL (>90d)
+CTR-51335;2025-01-17;Cliente_10085;SC;App Mobile;Financiamento Imobiliário;668769,94;0,0959;12;811;12889,99;0;Em Dia
+CTR-51336;15/09/2023;Cliente_10086;GO;Agência Física;crédito pessoal;13108,9;0,2439;36;794;6355,12;0;Em Dia
+CTR-51337;22/04/2024;Cliente_10087;SP;Agência Física;financiamento imobiliário;303480,5;0,096;360;790;22490,24;0;Em Dia
+CTR-51338;03/04/2025;Cliente_10088;SP;Agência Física;Financiamento Imobiliário;642840,16;0,0909;24;438;33223,68;120;Inadimplente / NPL (>90d)
+CTR-51339;2024-10-29;Cliente_10089;BA;Internet Banking;Empréstimo Empresarial PJ;273277,02;0,1568;60;514;14116,94;95;Inadimplente / NPL (>90d)
+CTR-51340;2024-02-16;Cliente_10090;GO;Internet Banking;Empréstimo Empresarial PJ;434760,37;0,175;48;363;5238,67;45;Atraso Crítico (31-90d)
+CTR-51341;06/06/2025;Cliente_10091;BA;Internet Banking;Cartão de Credito rotativo;11683,04;0,7352;36;612;28663,38;90;Atraso Crítico (31-90d)
+CTR-51342;04/01/2025;Cliente_10092;RS;App Mobile;Financiamento Veicular;132583,64;0,2724;12;511;27722,33;15;Atraso Curto (1-30d)
+CTR-51343;2025-05-14;Cliente_10093;MG;Agência Física;Financiamento Veicular;176786,51;0,2022;60;423;27691,7;0;Em Dia
+CTR-51344;03/05/2024;Cliente_10094;SC;Correspondente Bancário;Credito Pessoal;21014,44;0,4417;48;430;18940,4;0;Em Dia
+CTR-51345;30/08/2023;Cliente_10095;SP;App Mobile;Credito Pessoal;24581,04;0,4302;12;520;5439,57;45;Atraso Crítico (31-90d)
+CTR-51346;2024-02-20;Cliente_10096;BA;Correspondente Bancário;Financiamento Imobiliário;546013,98;0,1255;120;539;16497,97;0;Em Dia
+CTR-51347;21/09/2024;Cliente_10097;SC;Internet Banking;Empréstimo Empresarial PJ;169882,62;0,2044;12;529;32556,68;45;Atraso Crítico (31-90d)
+CTR-51348;2024-12-07;Cliente_10098;GO;Internet Banking;Credito Pessoal;26023,2;0,2285;48;392;24132,61;0;Em Dia
+CTR-51349;29/01/2024;Cliente_10099;PR;Correspondente Bancário;Credito Pessoal;34305,44;0,3731;60;841;28001,25;0;Em Dia
+CTR-51350;2024-01-28;Cliente_10100;BA;Agência Física;Empréstimo Empresarial PJ;285567,72;0,1848;60;382;25389,34;15;Atraso Curto (1-30d)
+CTR-51351;03/03/2023;Cliente_10101;RJ;Internet Banking;Empréstimo Empresarial PJ;276018,51;0,1558;48;472;9604,62;95;Inadimplente / NPL (>90d)
+CTR-51352;2025-05-03;Cliente_10102;ES;Agência Física;Credito Pessoal;8569,44;0,1827;12;351;21833,8;45;Atraso Crítico (31-90d)
+CTR-51353;25/02/2025;Cliente_10103;CE;Internet Banking;crédito pessoal;19815,99;0,1944;36;417;13043,69;45;Atraso Crítico (31-90d)
+CTR-51354;01/06/2025;Cliente_10104;go;Correspondente Bancário;empréstimo empresarial pj;268759,75;0,2486;24;473;23320,36;45;Atraso Crítico (31-90d)
+CTR-51355;2025-02-17;Cliente_10105;SC;Agência Física;Financiamento Veicular;87474,58;0,2608;60;705;16913,25;0;Em Dia
+CTR-51356;13/11/2024;Cliente_10106;sc;App Mobile;Empréstimo Empresarial PJ;220729,92;0,1846;24;594;31726,1;0;Em Dia
+CTR-51357;04/04/2025;Cliente_10107;ES;App Mobile;Financiamento Imobiliário;393050,25;0,1262;24;346;17777,87;0;Em Dia
+CTR-51358;12/05/2024;Cliente_10108;BA;App Mobile;Financiamento Imobiliário;236267,89;0,1293;24;355;21320,75;15;Atraso Curto (1-30d)
+CTR-51359;12/11/2024;Cliente_10109;PR;App Mobile;empréstimo empresarial pj;134129,93;0,1917;48;378;13164,65;0;Em Dia
+CTR-51360;14/08/2024;Cliente_10110;BA;App Mobile;Credito Pessoal;5813,21;0,3526;12;524;31629,31;90;Atraso Crítico (31-90d)
+CTR-51361;19/12/2023;Cliente_10111;RS;Correspondente Bancário;Cartão de Credito rotativo;17215,02;0,5653;36;581;21985,28;10;Atraso Curto (1-30d)
+CTR-51362;20/10/2024;Cliente_10112;SC;Correspondente Bancário;Credito Pessoal;29796,53;0,3694;24;516;15588,28;10;Atraso Curto (1-30d)
+CTR-51363;2024-12-28;Cliente_10113;SP;Agência Física;Financiamento Veicular;135779,87;0,2656;48;789;34572,16;0;Em Dia
+CTR-51364;2023-03-01;Cliente_10114;sp;Agência Física;empréstimo empresarial pj;121661,56;0,1797;12;705;10210,22;15;Atraso Curto (1-30d)
+CTR-51365;2023-12-03;Cliente_10115;PE;App Mobile;Cartão de Credito rotativo;17994,58;0,6385;36;405;10662,91;15;Atraso Curto (1-30d)
+CTR-51366;2025-06-03;Cliente_10116;SC;App Mobile;Cartão de Credito rotativo;3594,17;0,8334;12;464;15902,87;95;Inadimplente / NPL (>90d)
+CTR-51367;2025-03-30;Cliente_10117;pr;Agência Física;Empréstimo Empresarial PJ;252522,9;0,2302;60;459;19429,1;120;Inadimplente / NPL (>90d)
+CTR-51368;2025-04-05;Cliente_10118;CE;Correspondente Bancário;Credito Pessoal;33478,46;0,3071;60;556;17732,0;10;Atraso Curto (1-30d)
+CTR-51369;17/08/2025;Cliente_10119;ES;App Mobile;Empréstimo Empresarial PJ;407558,57;0,1728;12;347;15563,6;15;Atraso Curto (1-30d)
+CTR-51370;2025-03-29;Cliente_10120;ES;Agência Física;Cartão de Credito rotativo;7438,36;0,6652;12;743;30856,14;5;Atraso Curto (1-30d)
+CTR-51371;09/02/2025;Cliente_10121;GO;App Mobile;Empréstimo Empresarial PJ;366103,28;0,1402;36;510;26888,33;15;Atraso Curto (1-30d)
+CTR-51372;22/06/2024;Cliente_10122;DF;App Mobile;Empréstimo Empresarial PJ;101670,81;0,1536;48;833;10002,72;0;Em Dia
+CTR-51373;10/11/2024;Cliente_10123;PR;App Mobile;Empréstimo Empresarial PJ;246590,35;0,1833;48;728;13331,87;15;Atraso Curto (1-30d)
+CTR-51374;2023-02-14;Cliente_10124;SC;Correspondente Bancário;Financiamento Imobiliário;814140,18;0,1143;24;789;8264,11;15;Atraso Curto (1-30d)
+CTR-51375;2024-10-17;Cliente_10125; PR ;App Mobile;Credito Pessoal;30551,06;0,2265;36;425;15367,86;45;Atraso Crítico (31-90d)
+CTR-51376;31/12/2023;Cliente_10126;PE;Internet Banking;Cartão de Credito rotativo;5302,79;0,8409;36;805;21459,4;0;Em Dia
+CTR-51377;2024-10-25;Cliente_10127;CE;Internet Banking;crédito pessoal;24568,19;0,1988;48;545;13533,3;0;Em Dia
+CTR-51378;12/06/2023;Cliente_10128;GO;Correspondente Bancário;Credito Pessoal;14427,05;0,4298;48;323;8431,99;15;Atraso Curto (1-30d)
+CTR-51379;30/08/2025;Cliente_10129;SP;Agência Física;Cartão de Credito rotativo;1310,04;0,5795;48;552;11985,7;0;Em Dia
+CTR-51380;31/07/2025;Cliente_10130;ba;Correspondente Bancário;Cartão de Credito rotativo;7317,02;0,6824;24;838;25970,96;20;Atraso Curto (1-30d)
+CTR-51381;11/02/2025;Cliente_10131;MG;App Mobile;Cartão de Credito rotativo;4293,09;0,7864;36;358;17920,69;95;Inadimplente / NPL (>90d)
+CTR-51382;27/12/2023;Cliente_10132; CE ;Correspondente Bancário;Financiamento Imobiliário;544968,36;0,1212;72;741;12086,62;95;Inadimplente / NPL (>90d)
+CTR-51383;23/01/2023;Cliente_10133;MG;App Mobile;Cartão de Credito rotativo;7267,61;0,6311;48;642;10610,15;90;Atraso Crítico (31-90d)
+CTR-51384;25/04/2024;Cliente_10134; DF ;Internet Banking;Financiamento Veicular;101942,51;0,2238;24;579;20386,38;0;Em Dia
+CTR-51385;2024-07-09;Cliente_10135;MG;Correspondente Bancário;crédito pessoal;23221,04;0,2445;48;669;20546,55;0;Em Dia
+CTR-51386;02/01/2024;Cliente_10136;pe;App Mobile;cartão de crédito rotativo;17680,42;0,5589;12;725;29191,54;0;Em Dia
+CTR-51387;2024-08-12;Cliente_10137;DF;Internet Banking;financiamento imobiliário;187790,35;0,1233;48;399;15581,14;95;Inadimplente / NPL (>90d)
+CTR-51388;03/06/2025;Cliente_10138;DF;Correspondente Bancário;Empréstimo Empresarial PJ;384878,27;0,1467;12;495;21969,38;95;Inadimplente / NPL (>90d)
+CTR-51389;2024-10-20;Cliente_10139;RJ;Agência Física;Credito Pessoal;31545,39;0,3629;24;754;21591,93;5;Atraso Curto (1-30d)
+CTR-51390;2023-03-03;Cliente_10140;SP;Agência Física;Empréstimo Empresarial PJ;81427,83;0,177;60;725;33624,02;0;Em Dia
+CTR-51391;02/01/2025;Cliente_10141;PR;Internet Banking;Credito Pessoal;33039,11;0,4067;60;843;25849,94;0;Em Dia
+CTR-51392;2023-07-16;Cliente_10142;GO;Agência Física;Financiamento Imobiliário;573694,36;0,1299;48;320;25663,72;0;Em Dia
+CTR-51393;01/08/2024;Cliente_10143;sc;Internet Banking;Financiamento Imobiliário;755649,81;0,1207;360;656;23841,1;0;Em Dia
+CTR-51394;2023-09-09;Cliente_10144;pr;App Mobile;Financiamento Imobiliário;775167,71;0,0935;36;832;29770,57;95;Inadimplente / NPL (>90d)
+CTR-51395;30/12/2024;Cliente_10145;RS;Internet Banking;Financiamento Imobiliário;602335,63;0,1346;36;410;21516,22;15;Atraso Curto (1-30d)
+CTR-51396;07/03/2025;Cliente_10146;GO;Agência Física;Cartão de Credito rotativo;5191,96;0,6786;36;532;12170,23;0;Em Dia
+CTR-51397;30/04/2023;Cliente_10147;RS;App Mobile;Empréstimo Empresarial PJ;447512,26;0,2216;24;800;9511,99;120;Inadimplente / NPL (>90d)
+CTR-51398;11/10/2024;Cliente_10148;DF;Internet Banking;financiamento veicular;173394,2;0,205;36;367;19931,71;120;Inadimplente / NPL (>90d)
+CTR-51399;09/12/2024;Cliente_10149;RS;Internet Banking;Financiamento Veicular;61563,35;0,1652;48;705;29109,13;0;Em Dia
+CTR-51400;02/09/2023;Cliente_10150; GO ;Correspondente Bancário;financiamento imobiliário;167925,32;0,1071;36;505;25526,64;10;Atraso Curto (1-30d)
+CTR-51401;31/07/2023;Cliente_10151;GO;Correspondente Bancário;Cartão de Credito rotativo;2706,43;0,6661;60;466;11126,85;45;Atraso Crítico (31-90d)
+CTR-51402;07/12/2024;Cliente_10152;RS;App Mobile;empréstimo empresarial pj;198248,9;0,1986;60;792;18793,84;0;Em Dia
+CTR-51403;16/06/2025;Cliente_10153;ES;Correspondente Bancário;Financiamento Veicular;60792,35;0,2594;24;689;8909,05;0;Em Dia
+CTR-51404;2023-03-17;Cliente_10154;MG;App Mobile;Cartão de Credito rotativo;15262,0;0,5261;48;611;28734,55;10;Atraso Curto (1-30d)
+CTR-51405;2023-04-12;Cliente_10155;RJ;Agência Física;Empréstimo Empresarial PJ;107458,21;0,1437;24;555;12729,24;10;Atraso Curto (1-30d)
+CTR-51406;05/04/2023;Cliente_10156;CE;App Mobile;Financiamento Veicular;162683,23;0,1717;36;564;28732,81;35;Atraso Crítico (31-90d)
+CTR-51407;19/04/2024;Cliente_10157;CE;Internet Banking;Financiamento Imobiliário;895844,73;0,1092;120;625;22743,16;45;Atraso Crítico (31-90d)
+CTR-51408;2024-12-09;Cliente_10158;GO;Correspondente Bancário;financiamento veicular;162612,83;0,1524;60;621;10879,83;10;Atraso Curto (1-30d)
+CTR-51409;2025-04-30;Cliente_10159;CE;Correspondente Bancário;Credito Pessoal;29609,71;0,2496;60;750;26987,18;0;Em Dia
+CTR-51410;2024-02-18;Cliente_10160;ba;Internet Banking;cartão de crédito rotativo;19186,0;0,8313;36;541;23747,57;0;Em Dia
+CTR-51411;09/07/2025;Cliente_10161;sc;Internet Banking;Financiamento Imobiliário;817703,69;0,1266;48;637;4300,92;95;Inadimplente / NPL (>90d)
+CTR-51412;09/07/2023;Cliente_10162;SP;Agência Física;Empréstimo Empresarial PJ;434067,6;0,1717;24;727;28987,47;120;Inadimplente / NPL (>90d)
+CTR-51413;25/01/2024;Cliente_10163;pe;Agência Física;Cartão de Credito rotativo;17920,29;0,6933;48;464;31509,48;45;Atraso Crítico (31-90d)
+CTR-51414;17/09/2023;Cliente_10164;DF;Correspondente Bancário;Cartão de Credito rotativo;10041,32;0,7311;12;508;7707,18;10;Atraso Curto (1-30d)
+CTR-51415;2023-05-06;Cliente_10165; MG ;App Mobile;cartão de crédito rotativo;18544,6;0,4907;36;609;10563,86;10;Atraso Curto (1-30d)
+CTR-51416;25/07/2023;Cliente_10166;BA;Agência Física;Empréstimo Empresarial PJ;169501,35;0,2314;24;830;33992,9;5;Atraso Curto (1-30d)
+CTR-51417;2024-09-23;Cliente_10167;SC;App Mobile;Empréstimo Empresarial PJ;168452,89;0,1333;48;476;30914,83;95;Inadimplente / NPL (>90d)
+CTR-51418;11/02/2023;Cliente_10168;PR;Correspondente Bancário;Financiamento Imobiliário;163635,15;0,1078;120;384;31796,4;95;Inadimplente / NPL (>90d)
+CTR-51419;22/05/2023;Cliente_10169;sc;Agência Física;Credito Pessoal;13418,78;0,2523;48;669;22794,44;20;Atraso Curto (1-30d)
+CTR-51420;19/02/2023;Cliente_10170;GO;Correspondente Bancário;Empréstimo Empresarial PJ;416186,03;0,2137;48;781;11846,39;120;Inadimplente / NPL (>90d)
+CTR-51421;25/05/2023;Cliente_10171;RJ;Internet Banking;Financiamento Imobiliário;834820,95;0,0958;60;588;14159,75;120;Inadimplente / NPL (>90d)
+CTR-51422;2025-04-10;Cliente_10172;GO;Agência Física;crédito pessoal;33078,81;0,3817;12;589;28166,52;0;Em Dia
+CTR-51423;2025-04-21;Cliente_10173;MG;Correspondente Bancário;Financiamento Imobiliário;337047,15;0,1082;360;551;12710,59;10;Atraso Curto (1-30d)
+CTR-51424;06/03/2024;Cliente_10174;DF;Internet Banking;cartão de crédito rotativo;2734,55;0,8396;60;838;19372,01;0;Em Dia
+CTR-51425;2024-04-28;Cliente_10175;MG;Correspondente Bancário;Empréstimo Empresarial PJ;154872,93;0,1533;12;813;34259,85;0;Em Dia
+CTR-51426;2023-02-25;Cliente_10176;sp;Agência Física;Credito Pessoal;3757,2;0,3526;24;333;30838,1;45;Atraso Crítico (31-90d)
+CTR-51427;26/01/2025;Cliente_10177;RJ;Agência Física;Credito Pessoal;26101,6;0,2956;48;399;18081,13;0;Em Dia
+CTR-51428;12/12/2024;Cliente_10178;RS;Agência Física;Cartão de Credito rotativo;6215,81;0,785;24;650;33265,52;0;Em Dia
+CTR-51429;11/11/2023;Cliente_10179;RS;Correspondente Bancário;Credito Pessoal;31259,24;0,2508;24;575;23547,14;10;Atraso Curto (1-30d)
+CTR-51430;2023-06-29;Cliente_10180;RS;Correspondente Bancário;financiamento imobiliário;711367,78;0,1359;72;620;17031,14;15;Atraso Curto (1-30d)
+CTR-51431;17/11/2024;Cliente_10181;SC;Internet Banking;Credito Pessoal;5159,14;0,442;36;777;27396,37;0;Em Dia
+CTR-51432;2024-07-14;Cliente_10182;go;Correspondente Bancário;Financiamento Veicular;69650,59;0,2416;24;483;4670,97;120;Inadimplente / NPL (>90d)
+CTR-51433;2023-12-05;Cliente_10183;SC;App Mobile;empréstimo empresarial pj;189372,5;0,1808;60;437;11857,4;120;Inadimplente / NPL (>90d)
+CTR-51434;2023-12-14;Cliente_10184;sc;Internet Banking;Financiamento Veicular;121735,04;0,2711;48;525;33656,48;0;Em Dia
+CTR-51435;2025-04-19;Cliente_10185; DF ;Agência Física;Financiamento Veicular;32934,49;0,171;12;440;28853,84;45;Atraso Crítico (31-90d)
+CTR-51436;2023-11-23;Cliente_10186;GO;Correspondente Bancário;Empréstimo Empresarial PJ;132591,88;0,1294;36;447;25396,14;0;Em Dia
+CTR-51437;14/05/2025;Cliente_10187;RJ;Correspondente Bancário;Empréstimo Empresarial PJ;146492,67;0,2239;24;529;6019,02;0;Em Dia
+CTR-51438;13/09/2024;Cliente_10188;BA;Internet Banking;Financiamento Imobiliário;154225,83;0,1349;24;827;20544,98;0;Em Dia
+CTR-51439;2023-03-13;Cliente_10189;ES;App Mobile;crédito pessoal;31717,42;0,3699;36;618;16542,52;10;Atraso Curto (1-30d)
+CTR-51440;19/07/2024;Cliente_10190;PR;Internet Banking;Financiamento Imobiliário;916737,43;0,1091;72;341;16890,55;0;Em Dia
+CTR-51441;20/03/2025;Cliente_10191;GO;App Mobile;Financiamento Imobiliário;851612,78;0,1308;12;405;16344,25;15;Atraso Curto (1-30d)
+CTR-51442;2023-09-18;Cliente_10192;PE;App Mobile;Credito Pessoal;27925,31;0,2517;36;505;6112,03;0;Em Dia
+CTR-51443;27/04/2025;Cliente_10193;GO;Internet Banking;Financiamento Veicular;124918,52;0,2284;24;816;32442,3;0;Em Dia
+CTR-51444;2024-12-16;Cliente_10194;PE;Agência Física;Financiamento Veicular;68699,45;0,1501;24;595;28870,25;0;Em Dia
+CTR-51445;2024-10-09;Cliente_10195;BA;Agência Física;Cartão de Credito rotativo;13855,56;0,7278;12;368;15170,91;95;Inadimplente / NPL (>90d)
+CTR-51446;12/01/2025;Cliente_10196;MG;App Mobile;Credito Pessoal;4001,36;0,216;36;557;29768,62;0;Em Dia
+CTR-51447;2023-02-10;Cliente_10197;SP;Internet Banking;Financiamento Veicular;29749,5;0,2477;24;444;23611,83;0;Em Dia
+CTR-51448;02/02/2024;Cliente_10198;df;Internet Banking;Credito Pessoal;24645,9;0,3506;48;622;33318,88;0;Em Dia
+CTR-51449;25/11/2024;Cliente_10199;BA;Agência Física;Empréstimo Empresarial PJ;114695,2;0,125;36;550;23951,24;90;Atraso Crítico (31-90d)
+CTR-51450;14/09/2024;Cliente_10200;rj;Internet Banking;Financiamento Imobiliário;874052,4;0,1129;36;520;7481,72;45;Atraso Crítico (31-90d)
+CTR-51451;27/09/2023;Cliente_10201;BA;App Mobile;financiamento veicular;156198,25;0,1635;12;531;13560,23;15;Atraso Curto (1-30d)
+CTR-51452;19/04/2024;Cliente_10202;PE;App Mobile;Cartão de Credito rotativo;19706,13;0,757;36;799;33338,7;5;Atraso Curto (1-30d)
+CTR-51453;2025-08-17;Cliente_10203;PE;Internet Banking;cartão de crédito rotativo;19750,99;0,53;24;606;28136,82;0;Em Dia
+CTR-51454;2023-12-02;Cliente_10204;MG;Internet Banking;Empréstimo Empresarial PJ;51911,75;0,2467;36;435;24988,01;0;Em Dia
+CTR-51455;04/01/2023;Cliente_10205;RS;Agência Física;Credito Pessoal;31692,32;0,3564;60;434;3403,7;15;Atraso Curto (1-30d)
+CTR-51456;14/04/2025;Cliente_10206;PE;Agência Física;cartão de crédito rotativo;12418,54;0,8311;36;763;29486,74;0;Em Dia
+CTR-51457;2025-08-09;Cliente_10207; CE ;Internet Banking;Cartão de Credito rotativo;10282,31;0,6742;12;667;16676,41;0;Em Dia
+CTR-51458;04/11/2023;Cliente_10208;SC;Agência Física;Financiamento Imobiliário;264761,75;0,1347;60;476;20604,74;15;Atraso Curto (1-30d)
+CTR-51459;2023-03-26;Cliente_10209;SP;Correspondente Bancário;Empréstimo Empresarial PJ;253136,87;0,1937;48;544;33836,63;0;Em Dia
+CTR-51460;2025-08-21;Cliente_10210;PE;App Mobile;empréstimo empresarial pj;241616,29;0,2208;36;340;3296,12;45;Atraso Crítico (31-90d)
+CTR-51461;21/12/2024;Cliente_10211;BA;Agência Física;Empréstimo Empresarial PJ;450695,5;0,1521;24;390;26207,08;95;Inadimplente / NPL (>90d)
+CTR-51462;11/12/2024;Cliente_10212; BA ;App Mobile;Credito Pessoal;32918,85;0,2411;12;839;23289,62;0;Em Dia
+CTR-51463;04/01/2025;Cliente_10213;RS;Correspondente Bancário;Empréstimo Empresarial PJ;114606,87;0,1814;48;326;9292,99;45;Atraso Crítico (31-90d)
+CTR-51464;2024-12-22;Cliente_10214;GO;App Mobile;Financiamento Veicular;170689,38;0,1986;12;395;34772,74;95;Inadimplente / NPL (>90d)
+CTR-51465;2023-10-10;Cliente_10215;ES;Correspondente Bancário;Financiamento Imobiliário;551521,52;0,1054;360;500;23756,18;0;Em Dia
+CTR-51466;2024-06-17;Cliente_10216;ES;App Mobile;Cartão de Credito rotativo;1246,68;0,5492;60;675;28455,05;0;Em Dia
+CTR-51467;2023-04-26;Cliente_10217;RJ;App Mobile;Credito Pessoal;29528,88;0,3825;24;595;7469,01;90;Atraso Crítico (31-90d)
+CTR-51468;06/08/2025;Cliente_10218;rj;Correspondente Bancário;Financiamento Veicular;58327,04;0,229;36;759;18932,79;0;Em Dia
+CTR-51469;2025-07-05;Cliente_10219;ES;Internet Banking;empréstimo empresarial pj;182138,59;0,226;36;553;24680,52;0;Em Dia
+CTR-51470;29/07/2024;Cliente_10220;pe;Agência Física;Credito Pessoal;18651,15;0,3921;48;323;28917,86;0;Em Dia
+CTR-51471;2023-08-25;Cliente_10221;ES;Internet Banking;Financiamento Imobiliário;753754,1;0,1097;120;398;17334,94;45;Atraso Crítico (31-90d)
+CTR-51472;2024-09-29;Cliente_10222;PE;Agência Física;Financiamento Veicular;140793,75;0,1993;36;622;23704,65;10;Atraso Curto (1-30d)
+CTR-51473;2025-04-05;Cliente_10223;MG;App Mobile;Empréstimo Empresarial PJ;154478,83;0,2003;60;383;10810,42;45;Atraso Crítico (31-90d)
+CTR-51474;20/01/2024;Cliente_10224;BA;Internet Banking;Empréstimo Empresarial PJ;429772,71;0,2051;12;589;9541,54;95;Inadimplente / NPL (>90d)
+CTR-51475;24/08/2025;Cliente_10225;PE;Correspondente Bancário;Cartão de Credito rotativo;10711,6;0,668;60;646;24612,47;0;Em Dia
+CTR-51476;2025-01-06;Cliente_10226;GO;Agência Física;cartão de crédito rotativo;15101,68;0,4537;36;625;11607,43;90;Atraso Crítico (31-90d)
+CTR-51477;15/08/2025;Cliente_10227;GO;Correspondente Bancário;Empréstimo Empresarial PJ;327282,23;0,1362;24;584;10053,57;0;Em Dia
+CTR-51478;2023-07-07;Cliente_10228;RS;Internet Banking;Empréstimo Empresarial PJ;255633,71;0,2151;36;779;10396,75;95;Inadimplente / NPL (>90d)
+CTR-51479;2023-03-28;Cliente_10229;PR;App Mobile;Financiamento Veicular;162989,84;0,2382;48;335;28762,66;0;Em Dia
+CTR-51480;13/02/2024;Cliente_10230;pr;Agência Física;Cartão de Credito rotativo;16808,81;0,6665;12;584;7602,7;0;Em Dia
+CTR-51481;07/01/2023;Cliente_10231;RJ;Internet Banking;Empréstimo Empresarial PJ;94982,05;0,1773;60;655;22840,49;0;Em Dia
+CTR-51482;2024-06-27;Cliente_10232;RJ;Correspondente Bancário;Empréstimo Empresarial PJ;487044,75;0,2344;12;665;6815,4;0;Em Dia
+CTR-51483;2025-01-20;Cliente_10233;ce;App Mobile;Credito Pessoal;16142,98;0,1848;60;836;24376,65;0;Em Dia
+CTR-51484;06/09/2023;Cliente_10234;MG;Agência Física;financiamento imobiliário;567925,23;0,1039;360;812;6997,13;0;Em Dia
+CTR-51485;05/04/2025;Cliente_10235;ba;Agência Física;Empréstimo Empresarial PJ;84746,2;0,1601;60;354;33306,05;45;Atraso Crítico (31-90d)
+CTR-51486;2024-03-01;Cliente_10236;MG;Internet Banking;Financiamento Veicular;148604,06;0,1492;12;534;16728,43;15;Atraso Curto (1-30d)
+CTR-51487;2025-01-07;Cliente_10237;PR;Agência Física;Financiamento Imobiliário;305291,04;0,085;24;848;15404,42;15;Atraso Curto (1-30d)
+CTR-51488;18/05/2023;Cliente_10238;PR;Correspondente Bancário;Empréstimo Empresarial PJ;137000,68;0,2025;48;785;6758,12;15;Atraso Curto (1-30d)
+CTR-51489;29/08/2024;Cliente_10239;CE;Correspondente Bancário;Financiamento Imobiliário;711751,27;0,1043;48;516;28834,32;95;Inadimplente / NPL (>90d)
+CTR-51490;24/01/2024;Cliente_10240; MG ;Correspondente Bancário;financiamento imobiliário;505067,34;0,122;72;627;32762,82;10;Atraso Curto (1-30d)
+CTR-51491;2023-02-14;Cliente_10241;RS;Correspondente Bancário;Financiamento Veicular;74782,24;0,1556;48;465;18303,79;95;Inadimplente / NPL (>90d)
+CTR-51492;12/08/2025;Cliente_10242;MG;App Mobile;Financiamento Veicular;41390,34;0,2199;24;359;25692,27;15;Atraso Curto (1-30d)
+CTR-51493;10/01/2025;Cliente_10243; RJ ;Correspondente Bancário;Financiamento Imobiliário;818300,35;0,1374;36;771;14318,96;95;Inadimplente / NPL (>90d)
+CTR-51494;20/11/2023;Cliente_10244;pe;Correspondente Bancário;Financiamento Imobiliário;909728,15;0,1138;360;678;7184,21;45;Atraso Crítico (31-90d)
+CTR-51495;24/09/2023;Cliente_10245;es;Correspondente Bancário;crédito pessoal;32044,45;0,3769;24;837;30231,3;0;Em Dia
+CTR-51496;10/08/2023;Cliente_10246;SC;Agência Física;crédito pessoal;31768,47;0,3293;60;749;12779,91;0;Em Dia
+CTR-51497;26/07/2023;Cliente_10247;SP;Agência Física;crédito pessoal;19777,81;0,3549;12;635;9665,61;0;Em Dia
+CTR-51498;2025-04-30;Cliente_10248;SP;App Mobile;Financiamento Imobiliário;613761,63;0,0907;24;429;13258,67;15;Atraso Curto (1-30d)
+CTR-51499;2024-03-13;Cliente_10249;MG;Correspondente Bancário;Empréstimo Empresarial PJ;335689,31;0,1656;60;412;27263,8;45;Atraso Crítico (31-90d)
+CTR-51500;2023-04-12;Cliente_10250;rs;App Mobile;Cartão de Credito rotativo;8672,8;0,8102;24;537;11925,81;35;Atraso Crítico (31-90d)

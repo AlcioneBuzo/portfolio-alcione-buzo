@@ -1,0 +1,60 @@
+// ============================================================================
+// PROJETO DE ANÁLISE DE DADOS: CRÉDITO BANCÁRIO & RISCO FINANCEIRO
+// ARQUIVO: dax_medidas.dax
+// AUTORA: Alcione Buzo
+// ============================================================================
+
+// ----------------------------------------------------------------------------
+// PASTA: 01. Volume da Carteira de Crédito
+// ----------------------------------------------------------------------------
+
+[Volume Total Concedido] = 
+SUM(fato_operacoes_credito[valor_emprestimo])
+
+[Total de Operações] = 
+COUNT(fato_operacoes_credito[id_contrato])
+
+[Ticket Médio por Operação] = 
+DIVIDE([Volume Total Concedido], [Total de Operações], 0)
+
+[Volume Carteira YTD] = 
+TOTALYTD([Volume Total Concedido], dim_calendario[data_k])
+
+[Volume Ano Anterior (LY)] = 
+CALCULATE([Volume Total Concedido], SAMEPERIODLASTYEAR(dim_calendario[data_k]))
+
+[Crescimento YoY %] = 
+VAR _atual = [Volume Total Concedido]
+VAR _anterior = [Volume Ano Anterior (LY)]
+RETURN DIVIDE(_atual - _anterior, _anterior, 0)
+
+
+// ----------------------------------------------------------------------------
+// PASTA: 02. Risco & Inadimplência (NPL)
+// ----------------------------------------------------------------------------
+
+[Volume Inadimplente (>90d)] = 
+CALCULATE(
+    SUM(fato_operacoes_credito[valor_emprestimo]),
+    fato_operacoes_credito[dias_atraso] > 90
+)
+
+[Taxa NPL %] = 
+DIVIDE([Volume Inadimplente (>90d)], [Volume Total Concedido], 0)
+
+[Provisão Perda Estimada (PCLD)] = 
+SUM(fato_operacoes_credito[perda_estimada_npl])
+
+[Comprometimento de Renda Médio %] = 
+AVERAGE(fato_operacoes_credito[comprometimento_renda_pct])
+
+[Score Médio da Carteira] = 
+AVERAGE(fato_operacoes_credito[score_credito])
+
+
+// ----------------------------------------------------------------------------
+// PASTA: 03. Formatação & UI Dinâmica
+// ----------------------------------------------------------------------------
+
+[Cor Alerta NPL] = 
+IF([Taxa NPL %] > 0.05, "#EF4444", "#10B981")
